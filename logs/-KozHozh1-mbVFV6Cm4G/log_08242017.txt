@@ -1,0 +1,4 @@
+08242017190556	portalintegrators@gmail.com changed story with id 45's story_points from '' to '2'  
+08242017190556	portalintegrators@gmail.com changed story with id 45's status from '' to 'to do'  
+08242017202144	portalintegrators@gmail.com changed story with id 44's i_want from 'Deleted teams are still appearing on the Team Settings dropdown' to 'Non active teams are still appearing on the Team Settings dropdown'  
+08242017202144	portalintegrators@gmail.com changed story with id 44's status from '' to 'to do'  

@@ -1,0 +1,6 @@
+09122017180256	portalintegrators@gmail.com changed story with id Recurring-Site Maintenace-25's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017195024	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 26. 
+09122017195025	portalintegrators@gmail.com changed story with id 16's Order from '22' to '26'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017231211	genelyn.ancheta@portalintegrators.com added story with id Recurring-Site Maintenace-2 : Member with Scrum Role Stakeholder made the changes. 
+09122017231222	genelyn.ancheta@portalintegrators.com added story with id 26 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017231246	genelyn.ancheta@portalintegrators.com : Member with Scrum Role Stakeholder deleted the story 16. 

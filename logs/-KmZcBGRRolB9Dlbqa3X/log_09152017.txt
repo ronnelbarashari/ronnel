@@ -1,0 +1,6 @@
+09152017092853	withee@gmail.com : Member with Scrum Role Stakeholder created the story 84. 
+09152017092952	withee@gmail.com : Member with Scrum Role Stakeholder created the story 85. 
+09152017093007	withee@gmail.com changed story with id 83's Order from '83' to '84'  : Member with Scrum Role Stakeholder reordered the row. 
+09152017093031	withee@gmail.com changed story with id 84's i_want from 'to form a coop.' to 'to research exactly how to form a coop.'  : Member with Scrum Role Stakeholder made the changes. 
+09152017093031	withee@gmail.com changed story with id 84's acceptance_test from 'Figure out the process to form a Professional Services Coop.' to 'Figure out the process to form a Professional Services Coop. Should include the entire process including all the forms and how it works.'  : Member with Scrum Role Stakeholder made the changes. 
+09152017093039	withee@gmail.com changed story with id 83's Order from '79' to '85'  : Member with Scrum Role Stakeholder reordered the row. 

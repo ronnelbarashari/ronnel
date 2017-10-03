@@ -1,0 +1,2 @@
+08212017191056	portalintegrators@gmail.com changed story with id 37's acceptance_test from 'Create a demo team using the persona accounts that we created before' to 'Create a demo team using the persona accounts that we created before; make sure the JIRA connection works'  
+08212017191056	portalintegrators@gmail.com changed story with id 37's status from '' to 'to do'  

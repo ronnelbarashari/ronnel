@@ -1,0 +1,19 @@
+08012017183655	withee@gmail.com changed story with id 316's acceptance_test from 'The concept of a Scrum Team built into the product. The Scrum Team is made up of Users and can be assigned to a Product Backlog.' to 'The concept of a Scrum Team built into the product. The Scrum Team is made up of Users and can be assigned to a Product Backlog.
+
+NOT SURE IF THIS IS ALREADY DONE? REMOVE OR BREAK IT UP IF MORE IS NEEDED BEFORE STORY 428 WHICH IS PERMISSIONS.'  : Member with Scrum Role Team Member made the changes. 
+08012017183655	withee@gmail.com changed story with id 316's story_points from '21' to ''  : Member with Scrum Role Team Member made the changes. 
+08012017184514	withee@gmail.com : Member with Scrum Role Team Member created the story 437. 
+08012017184536	withee@gmail.com changed story with id 436's Order from '436' to '437'  : Member with Scrum Role Team Member reordered the row.  
+08012017200651	portalintegrators@gmail.com changed story with id Recurring-Check List-407's status from 'in progress' to 'done'  
+08012017200700	portalintegrators@gmail.com changed story with id 400's status from 'in progress' to 'done'  
+08012017200706	portalintegrators@gmail.com changed story with id 403's status from 'in progress' to 'done'  
+08012017200712	portalintegrators@gmail.com changed story with id 401's status from 'in progress' to 'done'  
+08012017200731	portalintegrators@gmail.com changed story with id 405's status from 'in progress' to 'done'  
+08012017200739	portalintegrators@gmail.com changed story with id 362's status from 'in progress' to 'done'  
+08012017200745	portalintegrators@gmail.com changed story with id 402's status from 'in progress' to 'done'  
+08012017200753	portalintegrators@gmail.com changed story with id 406's status from 'in progress' to 'done'  
+08012017200800	portalintegrators@gmail.com changed story with id 370's status from 'in progress' to 'done'  
+08012017200806	portalintegrators@gmail.com changed story with id 414's status from 'in progress' to 'done'  
+08012017200813	portalintegrators@gmail.com changed story with id 415's status from 'in progress' to 'done'  
+08012017200820	portalintegrators@gmail.com changed story with id 416's status from 'in progress' to 'done'  
+08012017200833	portalintegrators@gmail.com changed story with id 417's status from 'in progress' to 'done'  

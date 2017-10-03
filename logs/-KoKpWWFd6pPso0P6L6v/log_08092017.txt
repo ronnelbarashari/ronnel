@@ -1,0 +1,15 @@
+08092017031135	portalintegrators@gmail.com changed story with id Recurring-Check List-63's status from 'in progress' to 'done'  
+08092017031140	portalintegrators@gmail.com changed story with id 60's status from 'in progress' to 'done'  
+08092017031144	portalintegrators@gmail.com changed story with id 62's status from 'in progress' to 'done'  
+08092017031148	portalintegrators@gmail.com changed story with id 37's status from 'in progress' to 'done'  
+08092017031153	portalintegrators@gmail.com changed story with id 39's status from 'in progress' to 'done'  
+08092017031158	portalintegrators@gmail.com changed story with id 43's status from 'in progress' to 'done'  
+08092017031203	portalintegrators@gmail.com changed story with id 40's status from 'in progress' to 'done'  
+08092017031207	portalintegrators@gmail.com changed story with id 38's status from 'in progress' to 'done'  
+08092017032040	portalintegrators@gmail.com changed story with id 66's i_want from 'to see a nice new design on Scrum Now page.' to 'to see a nice and interactive design on the COETAIL page'  
+08092017032040	portalintegrators@gmail.com changed story with id 66's so_that from 'I can see how Scrum Now works.' to 'I can see how COETAIL works'  
+08092017032040	portalintegrators@gmail.com changed story with id 66's acceptance_test from 'a long page with a short video at the top and then a path that goes down as an info graphic with all the pieces os scrum and images and short definition' to 'a long page with a short video at the top and then a path that goes down as an info graphic with all the information of COETAIL and a signup button at the bottom'  
+08092017032040	portalintegrators@gmail.com changed story with id 66's comments from 'DON'T START THIS ONE UNTIL WE FINALIZE TRADEMARK. 
+
+Check with Ken on when to start. Rosemarie has idea on this one that we will use.' to ''  
+08092017032040	portalintegrators@gmail.com changed story with id 66's status from '' to 'to do'  

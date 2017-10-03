@@ -1,0 +1,4 @@
+08082017195744	portalintegrators@gmail.com changed story with id 28's acceptance_test from 'data from COnnectWise and VHN spreadsheet are loaded into Power BI report tool' to 'data from ConnectWise and VHN spreadsheet are loaded into Power BI report tool'  
+08082017195744	portalintegrators@gmail.com changed story with id 28's status from '' to 'to do'  
+08082017200726	portalintegrators@gmail.com changed story with id 24's status from 'in progress' to 'done'  
+08082017200730	portalintegrators@gmail.com changed story with id 25's status from 'in progress' to 'done'  

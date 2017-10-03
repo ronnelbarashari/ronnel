@@ -1,0 +1,9 @@
+08032017193449	withee@gmail.com changed story with id 438's Order from '439' to '440'  : Member with Scrum Role Team Member reordered the row.  
+08032017193500	withee@gmail.com changed story with id 440's Order from '255' to '261'  : Member with Scrum Role Team Member reordered the row.  
+08032017193512	withee@gmail.com changed story with id 440's Order from '261' to '262'  : Member with Scrum Role Team Member reordered the row.  
+08032017193622	withee@gmail.com changed story with id 438's comments from '' to 'This is a good one but might be resolved when we have the Dashboard as the landing page. I know it is one more click to then click a backlog but I think it is worth it to make it intuitive to new users.'  : Member with Scrum Role Team Member made the changes. 
+08032017193622	withee@gmail.com changed story with id 438's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08032017193723	withee@gmail.com changed story with id 381's Order from '327' to '328'  : Member with Scrum Role Team Member reordered the row.  
+08032017193743	withee@gmail.com changed story with id 420's Order from '265' to '266'  : Member with Scrum Role Team Member reordered the row.  
+08032017193843	withee@gmail.com changed story with id 155's i_want from 'to have a Scrum Score.' to 'to have the team scrum score calculated.'  : Member with Scrum Role Team Member made the changes. 
+08032017193843	withee@gmail.com changed story with id 155's so_that from 'I can keep track of my Scrum efficiency.' to 'Team can see their Scrum efficiency using a scoring method.'  : Member with Scrum Role Team Member made the changes. 

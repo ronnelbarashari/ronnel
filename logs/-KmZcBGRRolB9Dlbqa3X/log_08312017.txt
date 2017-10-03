@@ -1,0 +1,14 @@
+08312017114528	withee@gmail.com changed story with id 61's acceptance_test from 'study the more advanced Git commands as a group' to '2 people on the team to pair and take the Git course here: https://www.pluralsight.com/courses/how-git-works'  : Member with Scrum Role Team Member made the changes. 
+08312017114528	withee@gmail.com changed story with id 61's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08312017114608	withee@gmail.com changed story with id 61's i_want from 'to learn about the advanced Git commands' to 'to learn Git.'  : Member with Scrum Role Team Member made the changes. 
+08312017114628	withee@gmail.com : Member with Scrum Role Team Member created the story 68. 
+08312017114653	withee@gmail.com : Member with Scrum Role Team Member created the story 69. 
+08312017114710	withee@gmail.com : Member with Scrum Role Team Member created the story 70. 
+08312017114747	withee@gmail.com : Member with Scrum Role Team Member created the story 71. 
+08312017114802	withee@gmail.com changed story with id 67's Order from '67' to '68'  : Member with Scrum Role Team Member reordered the row.  
+08312017114809	withee@gmail.com changed story with id 67's Order from '61' to '69'  : Member with Scrum Role Team Member reordered the row.  
+08312017114811	withee@gmail.com changed story with id 67's Order from '62' to '70'  : Member with Scrum Role Team Member reordered the row.  
+08312017114816	withee@gmail.com changed story with id 67's Order from '63' to '71'  : Member with Scrum Role Team Member reordered the row.  
+08312017114911	withee@gmail.com : Member with Scrum Role Team Member created the story 72. 
+08312017114917	withee@gmail.com changed story with id 67's Order from '64' to '72'  : Member with Scrum Role Team Member reordered the row.  
+08312017114925	withee@gmail.com changed story with id 28's Order from '64' to '65'  : Member with Scrum Role Team Member reordered the row.  

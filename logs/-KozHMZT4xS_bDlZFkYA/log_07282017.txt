@@ -1,0 +1,14 @@
+07282017063159	portalintegrators@gmail.com changed story with id 18's i_want from 'to export the current progress of users who are currently enrolled in courses from the live site to the LMS site' to 'to connect courses of the new LMS to the existing users as well as the progress'  
+07282017063237	portalintegrators@gmail.com changed story with id 37's story_points from '' to '5'  
+07282017063237	portalintegrators@gmail.com changed story with id 37's status from '' to 'to do'  
+07282017063252	portalintegrators@gmail.com changed story with id 37's story_points from '5' to '8'  
+07282017064221	portalintegrators@gmail.com changed story with id 37's i_want from 'to have the PDF attachment for Parenting in the Digital Age 6 units work with the redirect after purchase with the new LMS' to 'to have the PDF attachment for Parenting in the Digital Age 6 units and Teaching Empathy work with the redirect after purchase with the new LMS'  
+07282017101416	portalintegrators@gmail.com changed story with id 39's as_a from 'Administrator' to 'Site Administrator'  
+07282017101416	portalintegrators@gmail.com changed story with id 39's status from '' to 'to do'  
+07282017101432	portalintegrators@gmail.com changed story with id 41's as_a from 'Administrator' to 'Site Administrator'  
+07282017101432	portalintegrators@gmail.com changed story with id 41's status from '' to 'to do'  
+07282017111056	portalintegrators@gmail.com changed story with id 24's story_points from '1' to '3'  
+07282017111056	portalintegrators@gmail.com changed story with id 24's comments from 'Check on Parents Online Courses page' to 'Check on Parents Online Courses page
+
+On Parents and Teachers page, the “Purchase Individual Chapters” and “Teaching Empathy Resources” button arrow are collapsing on tablet and mobile devices.'  
+07282017111056	portalintegrators@gmail.com changed story with id 24's status from '' to 'to do'  

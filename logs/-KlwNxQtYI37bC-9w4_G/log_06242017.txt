@@ -1,0 +1,24 @@
+06242017000008	portalintegrators@gmail.com changed story with id 14's i_want from 'This is a Test' to 'This is another Test'  
+06242017000008	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+06242017000030	portalintegrators@gmail.com changed story with id 13's i_want from 'This is another Test' to 'This is another1 Test'  
+06242017000043	portalintegrators@gmail.com changed story with id 13's i_want from 'This is another1 Test' to 'This is another Test'  
+06242017001534	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+06242017001609	portalintegrators@gmail.com changed story with id 13's status from '' to 'to do'  
+06242017001715	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+06242017012652	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'to do'  
+06242017012758	portalintegrators@gmail.com changed story with id 13's status from 'in progress' to 'to do'  
+06242017012803	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'to do'  
+06242017012819	portalintegrators@gmail.com added story with id 18 : This story has been added and sprint has already started.  
+06242017012820	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+06242017013355	portalintegrators@gmail.com added story with id 18 : This story has been added and sprint has already started.  
+06242017013357	portalintegrators@gmail.com added story with id 13 : This story has been added and sprint has already started.  
+06242017013405	portalintegrators@gmail.com changed story with id 17's status from 'in progress' to 'to do'  
+06242017013439	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'to do'  
+06242017032444	portalintegrators@gmail.com changed story with id 28's as_a from 'This is a test' to 'This is a test Moz'  
+06242017032444	portalintegrators@gmail.com changed story with id 28's status from '' to 'to do'  
+06242017032712	portalintegrators@gmail.com changed story with id 30's as_a from 'This is a test Moz' to 'This is a test Mozzzzzzz'  
+06242017032712	portalintegrators@gmail.com changed story with id 30's status from '' to 'to do'  
+06242017033042	portalintegrators@gmail.com added story with id 27 : This story has been added and sprint has already started.  
+06242017033045	portalintegrators@gmail.com added story with id 28 : This story has been added and sprint has already started.  
+06242017033059	portalintegrators@gmail.com changed story with id 10's status from 'in progress' to 'to do'  
+06242017033106	portalintegrators@gmail.com changed story with id 27's status from 'in progress' to 'to do'  

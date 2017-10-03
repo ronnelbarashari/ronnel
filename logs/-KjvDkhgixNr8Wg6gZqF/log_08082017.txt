@@ -1,0 +1,14 @@
+08082017105945	withee@gmail.com : Member with Scrum Role Team Member created the story 445. 
+08082017110010	withee@gmail.com changed story with id 438's Order from '330' to '445'  : Member with Scrum Role Team Member reordered the row.  
+08082017120907	withee@gmail.com : Member with Scrum Role Team Member created the story 446. 
+08082017120926	withee@gmail.com changed story with id 438's Order from '331' to '446'  : Member with Scrum Role Team Member reordered the row.  
+08082017150732	rwithee@gmail.com : Member with Scrum Role Team Member  created the story 447. 
+08082017171249	genelyn.ancheta@portalintegrators.com changed story with id 438's Order from '332' to '447'  : Member with Scrum Role Team Member reordered the row.  
+08082017171252	genelyn.ancheta@portalintegrators.com changed story with id 447's Order from '332' to '333'  : Member with Scrum Role Team Member reordered the row.  
+08082017171321	genelyn.ancheta@portalintegrators.com changed story with id 438's Order from '332' to '333'  : Member with Scrum Role Team Member reordered the row.  
+08082017171340	genelyn.ancheta@portalintegrators.com changed story with id 447's Order from '252' to '333'  : Member with Scrum Role Team Member reordered the row.  
+08082017194427	portalintegrators@gmail.com changed story with id Recurring-Check List-439's status from 'in progress' to 'done'  
+08082017194627	portalintegrators@gmail.com changed story with id 437's status from 'in progress' to 'done'  
+08082017194634	portalintegrators@gmail.com changed story with id 418's status from 'in progress' to 'done'  
+08082017212251	ken.withee@portalintegrators.com changed story with id 317's Order from '258' to '259'  : Member with Scrum Role Team Member reordered the row.  
+08082017212255	ken.withee@portalintegrators.com changed story with id 209's Order from '258' to '259'  : Member with Scrum Role Team Member reordered the row.  

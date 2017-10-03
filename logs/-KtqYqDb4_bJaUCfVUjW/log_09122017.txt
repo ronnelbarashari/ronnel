@@ -1,0 +1,16 @@
+09122017084210	portalintegrators@gmail.com changed story with id Recurring-Story-4's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084216	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084220	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 1. 
+09122017084222	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 3. 
+09122017084225	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 5. 
+09122017084227	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 5. 
+09122017084229	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 5. 
+09122017084231	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 6. 
+09122017084300	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 7. 
+09122017084316	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 8. 
+09122017084326	portalintegrators@gmail.com changed story with id 7's as_a from 'Testing' to 'Testing 5'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084326	portalintegrators@gmail.com changed story with id 7's i_want from 'Testing' to 'Testing 5'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084326	portalintegrators@gmail.com changed story with id 7's so_that from 'test' to 'test 5'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084326	portalintegrators@gmail.com changed story with id 7's acceptance_test from 'TEST' to 'TEST 5'  : Member with Scrum Role Stakeholder made the changes. 
+09122017084330	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 7. 
+09122017084333	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 8. 

@@ -1,0 +1,2 @@
+08142017162719	withee@gmail.com : Member with Scrum Role Team Member created the story 97. 
+08142017162734	withee@gmail.com changed story with id 94's Order from '95' to '97'  : Member with Scrum Role Team Member reordered the row.  

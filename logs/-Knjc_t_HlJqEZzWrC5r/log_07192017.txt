@@ -1,0 +1,4 @@
+07192017225405	portalintegrators@gmail.com changed story with id 26's so_that from 'I can send out e-mails with personalized links for our monthlies' to 'I can send out e-mails with personalized links to our monthlies'  
+07192017225405	portalintegrators@gmail.com changed story with id 26's status from '' to 'to do'  
+07192017230106	portalintegrators@gmail.com changed story with id 27's story_points from '5' to '3'  
+07192017230106	portalintegrators@gmail.com changed story with id 27's status from '' to 'to do'  

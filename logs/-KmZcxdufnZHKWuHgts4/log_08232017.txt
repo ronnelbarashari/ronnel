@@ -1,0 +1,2 @@
+08232017005917	portalintegrators@gmail.com changed story with id 96's story_points from '5' to '8'  : Edit to a committed User Story for Sprint 93 
+08232017170717	portalintegrators@gmail.com added story with id 92 : This story has been added and sprint has already started.  

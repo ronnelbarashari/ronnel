@@ -1,0 +1,5 @@
+08082017105703	withee@gmail.com : Member with Scrum Role Team Member created the story 83. 
+08082017105714	withee@gmail.com changed story with id 78's Order from '78' to '83'  : Member with Scrum Role Team Member reordered the row.  
+08082017200936	portalintegrators@gmail.com changed story with id Recurring-Check List-73's status from 'in progress' to 'done'  
+08082017200940	portalintegrators@gmail.com changed story with id 64's status from 'in progress' to 'done'  
+08082017200946	portalintegrators@gmail.com changed story with id 65's status from 'in progress' to 'done'  

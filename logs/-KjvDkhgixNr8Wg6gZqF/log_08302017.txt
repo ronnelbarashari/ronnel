@@ -1,0 +1,8 @@
+08302017163040	withee@gmail.com changed story with id 524's Order from '403' to '404'  : Member with Scrum Role Team Member reordered the row.  
+08302017163043	withee@gmail.com changed story with id 516's Order from '297' to '298'  : Member with Scrum Role Team Member reordered the row.  
+08302017163226	withee@gmail.com : Member with Scrum Role Team Member created the story 530. 
+08302017183735	portalintegrators@gmail.com changed story with id 531's i_want from 'The wall monitor view is just blank when the user is a stakeholder only.' to 'The wall monitor view and drop down list of backlogs are just blank when the user is a stakeholder only.'  
+08302017183735	portalintegrators@gmail.com changed story with id 531's status from '' to 'to do'  
+08302017183743	portalintegrators@gmail.com changed story with id 531's story_points from '2' to '5'  
+08302017213459	withee@gmail.com : Member with Scrum Role Team Member created the story 532. 
+08302017213533	withee@gmail.com : Member with Scrum Role Team Member created the story 533. 

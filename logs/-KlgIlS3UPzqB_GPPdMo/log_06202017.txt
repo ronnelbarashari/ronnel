@@ -1,0 +1,6 @@
+06202017010315	portalintegrators@gmail.com changed story with id 1's story_points from '-- estimated points --' to ''  
+06202017010315	portalintegrators@gmail.com changed story with id 1's status from '' to 'to do'  
+06202017010330	portalintegrators@gmail.com changed story with id 2's story_points from '-- estimated points --' to ''  
+06202017010330	portalintegrators@gmail.com changed story with id 2's status from '' to 'to do'  
+06202017195702	withee@gmail.com changed story with id 19's acceptance_test from 'The Rocket Scrum documentation is on the Wiki (integrated into Scrum Now website (see previous story).' to 'The Rocket Scrum documentation is on the Wiki (integrated into Scrum Now website (see User Story 18).'  
+06202017195702	withee@gmail.com changed story with id 19's status from '' to 'to do'  

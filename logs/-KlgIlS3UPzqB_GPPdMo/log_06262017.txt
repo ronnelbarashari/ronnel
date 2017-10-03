@@ -1,0 +1,8 @@
+06262017182916	withee@gmail.com changed story with id 24's i_want from 'to be able to keep all of our Scrum Now and Rocket Scrum code in GitHub with each person having their own login and the login federated with our Office 365 accounts.' to 'to be able to keep all of our Scrum Now and Rocket Scrum code in GitHub with each person having their own login. Check with Ken when this story comes up.'  
+06262017182916	withee@gmail.com changed story with id 24's so_that from 'we can easily use GitHub using our Office 365 accounts.' to 'we can easily use GitHub source control for development.'  
+06262017182916	withee@gmail.com changed story with id 24's acceptance_test from 'Team GitHub for Scrum Now and integration SSO with Office 365.' to 'Team GitHub for Scrum Now with each person having a GitHub account and using source control properly.'  
+06262017182916	withee@gmail.com changed story with id 24's comments from 'Discuss with Ken on this one: https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-github-tutorial ' to 'Later: and the login federated with our Office 365 accounts.
+
+Discuss with Ken on this one: https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-github-tutorial '  
+06262017182916	withee@gmail.com changed story with id 24's status from '' to 'to do'  
+06262017222626	superpaulme@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  

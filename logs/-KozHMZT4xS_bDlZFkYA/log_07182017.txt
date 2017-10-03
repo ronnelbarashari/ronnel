@@ -1,0 +1,12 @@
+07182017011316	portalintegrators@gmail.com changed story with id 2's story_points from '3' to '8'  : Edit to a committed User Story for Sprint 62 
+07182017232916	portalintegrators@gmail.com changed story with id Recurring-Check List-10's status from 'in progress' to 'done'  
+07182017232919	portalintegrators@gmail.com changed story with id Recurring-Site Support-11's status from 'in progress' to 'done'  
+07182017232929	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+07182017232929	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+07182017232933	portalintegrators@gmail.com changed story with id 3's status from 'in progress' to 'done'  
+07182017232937	portalintegrators@gmail.com changed story with id 4's status from 'in progress' to 'done'  
+07182017232941	portalintegrators@gmail.com changed story with id 5's status from 'in progress' to 'done'  
+07182017232945	portalintegrators@gmail.com changed story with id 6's status from 'in progress' to 'done'  
+07182017232949	portalintegrators@gmail.com changed story with id 7's status from 'in progress' to 'done'  
+07182017232952	portalintegrators@gmail.com changed story with id 8's status from 'in progress' to 'done'  
+07182017232956	portalintegrators@gmail.com changed story with id 9's status from 'in progress' to 'done'  

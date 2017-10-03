@@ -1,0 +1,8 @@
+08172017003606	portalintegrators@gmail.com changed story with id Recurring-Story-10's story_points from '-- estimated points --' to '1'  : Edit to a committed User Story for Sprint 1 
+08172017004305	portalintegrators@gmail.com added story with id 15 : This story has been added and sprint has already started.  
+08172017004432	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+08172017004433	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+08172017023810	portalintegrators@gmail.com added story with id Recurring-Story-32 : This story has been added and sprint has already started.  
+08172017165805	portalintegrators@gmail.com added story with id Recurring-Story-43 : This story has been added and sprint has already started.  
+08172017173603	portalintegrators@gmail.com changed story with id Recurring-Story-83's story_points from '8' to '1'  
+08172017173616	portalintegrators@gmail.com added story with id Recurring-Story-83 : This story has been added and sprint has already started.  

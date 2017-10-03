@@ -1,0 +1,17 @@
+08112017015650	portalintegrators@gmail.com changed story with id 457's i_want from 'Cannot click Previous on Recurring Stories' to 'Cannot click Previous on Recurring Stories during Sprint Planning'  
+08112017015650	portalintegrators@gmail.com changed story with id 457's status from '' to 'to do'  
+08112017154639	withee@gmail.com changed story with id 317's acceptance_test from 'On the Dashboard there is a section for Product Backlogs that are assigned to the Teams I am a member of. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.
+
+See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg' to 'On the Dashboard there is a section for Product Backlogs that are assigned to the Teams I am a member of. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.
+
+See Ken mockup here: https://drive.google.com/open?id=1R1tDU7B9RHyetxR6OSwxYbKSWjgjgUas3cNtgboijYo'  : Member with Scrum Role Team Member made the changes. 
+08112017154647	withee@gmail.com changed story with id 209's comments from 'See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg
+
+Ask Ken if any questions. It is just rough mockup.' to 'See Ken mockup here: https://drive.google.com/open?id=1R1tDU7B9RHyetxR6OSwxYbKSWjgjgUas3cNtgboijYo
+
+Ask Ken if any questions. It is just rough mockup.'  : Member with Scrum Role Team Member made the changes. 
+08112017154706	withee@gmail.com changed story with id 318's acceptance_test from 'On the Dashboard, the Scrum Events for the Scrum Teams of the User is shown. See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg' to 'On the Dashboard, the Scrum Events for the Scrum Teams of the User is shown. See Ken mockup here: https://drive.google.com/open?id=1R1tDU7B9RHyetxR6OSwxYbKSWjgjgUas3cNtgboijYo'  : Member with Scrum Role Team Member made the changes. 
+08112017202156	portalintegrators@gmail.com changed story with id 459's i_want from 'When all the stories are recurring in the sprint planning, an error occurs and the Previous, Next, and End Sprint Planning buttons are not working' to 'When all the stories are recurring in the sprint planning, an error occurs and the Previous, Next, Skip, and End Sprint Planning buttons are not working'  
+08112017202156	portalintegrators@gmail.com changed story with id 459's status from '' to 'to do'  
+08112017222113	portalintegrators@gmail.com changed story with id 460's i_want from 'The browser does not support message appear when using private browser in iOS' to 'The browser does not support message appear when using private browser in iOS and Windows Phone'  
+08112017222113	portalintegrators@gmail.com changed story with id 460's status from '' to 'to do'  

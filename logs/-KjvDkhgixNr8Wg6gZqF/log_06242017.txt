@@ -1,0 +1,29 @@
+06242017032624	portalintegrators@gmail.com changed story with id 238's status from '' to 'to do'  
+06242017032640	portalintegrators@gmail.com changed story with id 239's status from '' to 'to do'  
+06242017055952	portalintegrators@gmail.com changed story with id 54's acceptance_test from 'Ability to login on the app using Office 365
+
+Might be able to use Azure Active Directory Authentication Library (ADAL) for JavaScript to connect to Office 365
+
+https://firebase.google.com/docs/auth/web/custom-auth
+https://github.com/AzureAD/azure-activedirectory-library-for-js
+https://github.com/OfficeDev/O365-jQuery-CORS' to 'Ability to login on the app using Office 365
+
+Might be able to use Azure Active Directory Authentication Library (ADAL) for JavaScript to connect to Office 365
+
+https://firebase.google.com/ docs/auth/web/ custom-auth
+https://github.com/ AzureAD/azure-activedirectory-library-for-js 
+https://github.com/ OfficeDev/O365-jQuery-CORS'  
+06242017060056	portalintegrators@gmail.com changed story with id 53's acceptance_test from 'Do configuration required on Office 365
+
+Check how to setup an app and enable oauth
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-scenarios' to 'Do configuration required on Office 365
+
+Check how to setup an app and enable oauth
+
+https://docs.microsoft.com/ en-us/azure/ active-directory/develop/ active-directory- authentication-scenarios'  
+06242017060200	portalintegrators@gmail.com changed story with id 204's acceptance_test from 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com/open?id=0BwFopPnYQL9uTDNSamdUQVFQcEE' to 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com /open? id=0BwFopPnYQL9uTDNSamd UQVFQcEE'  
+06242017060200	portalintegrators@gmail.com changed story with id 204's status from 'todo' to 'to do'  
+06242017060445	portalintegrators@gmail.com changed story with id 226's comments from 'See video here: https://drive.google.com/open?id=0BwFopPnYQL9udnI3TTFzOTZycnM' to 'See video here: https://drive.google.com/open?id=0BwFopPnYQL 9udnI3TTFzOTZycnM'  
+06242017060518	portalintegrators@gmail.com changed story with id 179's comments from 'Ken started this, see https://drive.google.com/open?id=1eHC22jsR2np-QrzkSzz-t-YeKe5O55YNncUwzSzdrAE ' to 'Ken started this, see https://drive.google.com/open?id= 1eHC22jsR2np- QrzkSzz-t- YeKe5O55YNncUwzSzdrAE '  
+06242017060639	portalintegrators@gmail.com changed story with id 179's comments from 'Ken started this, see https://drive.google.com/open?id= 1eHC22jsR2np- QrzkSzz-t- YeKe5O55YNncUwzSzdrAE ' to 'Ken started this, see https://drive.google.com/open?id= 1eHC22jsR2np- QrzkSzz-t- YeKe5O55 YNncUwzSzdrAE '  

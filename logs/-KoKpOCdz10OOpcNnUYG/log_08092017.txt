@@ -1,0 +1,2 @@
+08092017020004	portalintegrators@gmail.com changed story with id Recurring-Site Maintenace-15's status from 'in progress' to 'done'  
+08092017050714	portalintegrators@gmail.com changed story with id 18's story_points from '13' to '5'  : Edit to a committed User Story for Sprint 12 

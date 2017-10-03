@@ -1,0 +1,7 @@
+09122017173220	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 15. 
+09122017173222	portalintegrators@gmail.com changed story with id 13's Order from '14' to '15'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017232032	genelyn.ancheta@portalintegrators.com added story with id 15 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017232504	portalintegrators@gmail.com changed story with id 12's Order from '14' to '15'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017232511	portalintegrators@gmail.com changed story with id 13's Order from '14' to '15'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017232512	portalintegrators@gmail.com changed story with id 11's Order from '14' to '15'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017232525	portalintegrators@gmail.com changed story with id 13's Order from '15' to '16'  : Member with Scrum Role Stakeholder reordered the row. 

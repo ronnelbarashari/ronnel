@@ -1,0 +1,12 @@
+06262017164136	portalintegrators@gmail.com changed story with id 8's so_that from 'Security Issue: see http://www.inquisitr. com/ 3008436/quicktime-for-windows-homeland- security-says-to-uninstall -apple-media-player-asap/#utm_ source=feedburner &utm_medium=feed&utm_campaign =Feed%3A+google% 2FyDYq+%28The+Inquisitr +-+News%29' to 'Security Issue: see http://www.inquisitr. com/ 3008436/quicktime-for-windows-homeland- security-says-to-uninstall -apple-media-player-asap/#utm_ source=feedburner &utm_medium=feed&utm_campaign =Feed%3A+google% 2FyDYq+%28The+Inquisitr +-+News%2'  
+06262017212854	portalintegrators@gmail.com changed story with id 18's i_want from 'to set up the event place' to 'to assign people for the set up of the team event'  
+06262017212854	portalintegrators@gmail.com changed story with id 18's acceptance_test from 'the place has been set up for the team event' to 'team members assigned for the set up of the event place'  
+06262017212854	portalintegrators@gmail.com changed story with id 18's status from '' to 'to do'  
+06262017213002	portalintegrators@gmail.com changed story with id 19's story_points from '' to '3'  
+06262017213002	portalintegrators@gmail.com changed story with id 19's status from '' to 'to do'  
+06262017213011	portalintegrators@gmail.com changed story with id 14's story_points from '' to '3'  
+06262017213011	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+06262017214525	superpaulme@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+06262017214903	portalintegrators@gmail.com changed story with id 18's story_points from '3' to '1'  
+06262017214906	portalintegrators@gmail.com changed story with id 19's story_points from '3' to '1'  
+06262017222650	superpaulme@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  

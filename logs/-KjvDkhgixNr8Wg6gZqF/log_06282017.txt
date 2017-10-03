@@ -1,0 +1,2 @@
+06282017220245	portalintegrators@gmail.com changed story with id 265's acceptance_test from 'Test' to 'Modified'  
+06282017220245	portalintegrators@gmail.com changed story with id 265's status from '' to 'to do'  

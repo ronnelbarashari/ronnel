@@ -1,0 +1,3 @@
+09162017115229	withee@gmail.com : Member with Scrum Role Stakeholder created the story 111. 
+09162017115235	withee@gmail.com changed story with id 30's Order from '109' to '111'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017115408	withee@gmail.com changed story with id 111's acceptance_test from 'Figure out how to bring on 4 more team members to fill out AM and PM teams.' to 'Figure out how to bring on 4 more team members to fill out AM and PM teams. Things like posting on boards at schools, facebook, twitters, etc.. we can also bring on interns that are interested in learning software development but these won't count against the filling of the team. We still need 5 devs for each Scrum Team.'  : Member with Scrum Role Stakeholder made the changes. 

@@ -1,0 +1,15 @@
+09262017194012	portalintegrators@gmail.com changed story with id RECURRING STORY-90's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194020	portalintegrators@gmail.com changed story with id 70's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194027	portalintegrators@gmail.com changed story with id 84's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194115	portalintegrators@gmail.com changed story with id 86's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194126	portalintegrators@gmail.com changed story with id 85's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194230	portalintegrators@gmail.com changed story with id 87's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194238	portalintegrators@gmail.com changed story with id 78's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017221931	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 95. 
+09262017221935	portalintegrators@gmail.com changed story with id 28's Order from '87' to '95'  : Member with Scrum Role Stakeholder reordered the row. 
+09262017223802	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 96. 
+09262017223809	portalintegrators@gmail.com changed story with id 28's Order from '88' to '96'  : Member with Scrum Role Stakeholder reordered the row. 
+09262017231506	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 97. 
+09262017231506	portalintegrators@gmail.com changed story with id 28's Order from '89' to '97'  : Member with Scrum Role Stakeholder reordered the row. 
+09262017231626	portalintegrators@gmail.com changed story with id 97's i_want from 'to inquire on how we can submit application for the coop' to 'to accomplish the requirements/forms for the CDA application'  : Member with Scrum Role Stakeholder made the changes. 
+09262017231626	portalintegrators@gmail.com changed story with id 97's acceptance_test from 'inquire on how we can submit application for the coop and get the requirements' to 'accomplish the requirements/forms for the CDA application'  : Member with Scrum Role Stakeholder made the changes. 

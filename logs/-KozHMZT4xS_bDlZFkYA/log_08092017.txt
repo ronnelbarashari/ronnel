@@ -1,0 +1,24 @@
+08092017020133	portalintegrators@gmail.com changed story with id 38's status from 'in progress' to 'done'  
+08092017020136	portalintegrators@gmail.com changed story with id 49's status from 'in progress' to 'done'  
+08092017020143	portalintegrators@gmail.com changed story with id Recurring-Check List-57's status from 'in progress' to 'done'  
+08092017020146	portalintegrators@gmail.com changed story with id Recurring-Site Support-58's status from 'in progress' to 'done'  
+08092017020150	portalintegrators@gmail.com changed story with id 37's status from 'in progress' to 'done'  
+08092017020154	portalintegrators@gmail.com changed story with id 42's status from 'in progress' to 'done'  
+08092017020158	portalintegrators@gmail.com changed story with id 46's status from 'in progress' to 'done'  
+08092017020202	portalintegrators@gmail.com changed story with id 47's status from 'in progress' to 'done'  
+08092017020206	portalintegrators@gmail.com changed story with id 50's status from 'in progress' to 'done'  
+08092017020210	portalintegrators@gmail.com changed story with id 52's status from 'in progress' to 'done'  
+08092017020214	portalintegrators@gmail.com changed story with id 53's status from 'in progress' to 'done'  
+08092017020218	portalintegrators@gmail.com changed story with id 54's status from 'in progress' to 'done'  
+08092017020222	portalintegrators@gmail.com changed story with id 55's status from 'in progress' to 'done'  
+08092017021606	portalintegrators@gmail.com changed story with id 64's acceptance_test from 'the course curriculum to be redirected to the course page with the Mark This Unit Complete link' to 'figure out if it's possible to direct the users to the Course Status page when clicking on the unit in the curriculum'  
+08092017021606	portalintegrators@gmail.com changed story with id 64's status from '' to 'to do'  
+08092017022837	portalintegrators@gmail.com changed story with id 63's acceptance_test from 'create a BACK TO ALL MY COURSES button between BACK TO COURSE HOMEPAGE and WRITE A REVIEW FOR THIS COURSE. When this button is clicked, it should take the user to the dashboard where all his/her courses are listed' to 'figure out how to create a BACK TO ALL MY COURSES button between BACK TO COURSE HOMEPAGE and WRITE A REVIEW FOR THIS COURSE. When this button is clicked, it should take the user to the dashboard where all his/her courses are listed. Implement if possible'  
+08092017022837	portalintegrators@gmail.com changed story with id 63's status from '' to 'to do'  
+08092017023005	portalintegrators@gmail.com added story with id 64 : This story has been added and sprint has already started.  
+08092017023036	portalintegrators@gmail.com added story with id 65 : This story has been added and sprint has already started.  
+08092017023045	portalintegrators@gmail.com added story with id 66 : This story has been added and sprint has already started.  
+08092017023127	portalintegrators@gmail.com added story with id 39 : This story has been added and sprint has already started.  
+08092017023232	portalintegrators@gmail.com added story with id 51 : This story has been added and sprint has already started.  
+08092017023239	portalintegrators@gmail.com added story with id 51 : This story has been added and sprint has already started.  
+08092017043151	portalintegrators@gmail.com changed story with id 51's story_points from '8' to '5'  : Edit to a committed User Story for Sprint 66 

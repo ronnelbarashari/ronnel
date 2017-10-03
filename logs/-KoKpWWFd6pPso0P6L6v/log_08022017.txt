@@ -1,0 +1,22 @@
+08022017000343	portalintegrators@gmail.com changed story with id 43's status from '' to 'to do'  
+08022017000955	portalintegrators@gmail.com changed story with id 43's story_points from '8' to '13'  
+08022017001404	portalintegrators@gmail.com changed story with id 39's story_points from '13' to '8'  
+08022017001404	portalintegrators@gmail.com changed story with id 39's status from '' to 'to do'  
+08022017001850	portalintegrators@gmail.com changed story with id 36's acceptance_test from 'Blog files are donwloaded on the locally' to 'Blog files are downloaded on the locally'  
+08022017001850	portalintegrators@gmail.com changed story with id 36's status from '' to 'to do'  
+08022017001900	portalintegrators@gmail.com changed story with id 36's acceptance_test from 'Blog files are downloaded on the locally' to 'Blog files are downloaded locally'  
+08022017002959	portalintegrators@gmail.com changed story with id 37's story_points from '5' to '3'  
+08022017003120	portalintegrators@gmail.com changed story with id 40's acceptance_test from 'Make sure the data are inserted to the new site. The user and other tables from the database must be mapped' to 'Make sure the data are inserted to the new site. The user and other tables from the database must be mapped
+
+Make sure to check the all courses, units, modules, blogs, etc.'  
+08022017003120	portalintegrators@gmail.com changed story with id 40's story_points from '13' to '21'  
+08022017003231	portalintegrators@gmail.com changed story with id 38's acceptance_test from 'File contents are copied to the new site' to 'database and files are copied to the new site'  
+08022017003231	portalintegrators@gmail.com changed story with id 38's status from '' to 'to do'  
+08022017003337	portalintegrators@gmail.com changed story with id 39's acceptance_test from 'Make sure the user database from old site is prepared to be imported to the new site' to 'Make sure the user database from old site is prepared to be imported to the new site
+
+database and files are copied'  
+08022017003502	portalintegrators@gmail.com changed story with id 38's acceptance_test from 'database and files are copied to the new site' to 'database and files are copied to the new site
+
+Make sure the plugins are installed and the settings are configured and the functionalities are working'  
+08022017012459	portalintegrators@gmail.com changed story with id 62's story_points from '2' to '13'  : Edit to a committed User Story for Sprint 4 
+08022017012510	portalintegrators@gmail.com changed story with id 43's story_points from '2' to '13'  : Edit to a committed User Story for Sprint 4 

@@ -1,0 +1,10 @@
+07112017043729	portalintegrators@gmail.com changed story with id 85's acceptance_test from 'figure out how we can customize the Shopify theme and look into where to get the themes' to 'figure out how we can customize the Shopify theme and look into where to get the themes. Include setting up the environment in the stories.'  
+07112017043729	portalintegrators@gmail.com changed story with id 85's status from '' to 'to do'  
+07112017233127	portalintegrators@gmail.com added story with id 43 
+07112017233204	portalintegrators@gmail.com added story with id 43 
+07112017233204	portalintegrators@gmail.com added story with id 43 
+07112017233211	portalintegrators@gmail.com added story with id 85 : This story has been added and sprint has already started.  
+07112017233214	portalintegrators@gmail.com added story with id 85 : This story has been added and sprint has already started.  
+07112017234240	portalintegrators@gmail.com changed story with id RECURRING STORY-81's status from 'in progress' to 'done'  
+07112017234242	portalintegrators@gmail.com changed story with id RECURRING STORY-82's status from 'in progress' to 'done'  
+07112017234246	portalintegrators@gmail.com changed story with id RECURRING STORY-83's status from 'in progress' to 'done'  

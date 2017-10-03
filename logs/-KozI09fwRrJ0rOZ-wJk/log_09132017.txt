@@ -1,0 +1,8 @@
+09132017090802	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 51. 
+09132017090855	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 52. 
+09132017091011	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 53. 
+09132017091337	portalintegrators@gmail.com added story with id Recurring-Check List-2 : Member with Scrum Role Stakeholder made the changes. 
+09132017091339	portalintegrators@gmail.com added story with id Recurring-Check List-2 : Member with Scrum Role Stakeholder made the changes. 
+09132017091342	portalintegrators@gmail.com added story with id 51 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017091345	portalintegrators@gmail.com added story with id 52 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017091347	portalintegrators@gmail.com added story with id 53 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  

@@ -1,0 +1,231 @@
+.recurring-label{
+    float: left;
+}
+.recurring-field{
+    float: right;
+}
+.recurring-row{
+    display: inline-block;
+    width: 200px;
+}
+.recurring-col{
+    padding: 20px;
+}
+.delete-recurring-modal, .recurring-modal, .recurring-modal-sched{
+    width: 30% !important;
+    z-index: 9999;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+
+}
+.recurring-footer{
+    height: 35px;
+}
+
+#recurring-acceptance-test {
+    margin: 0px;
+    width: 96.5%;
+    height: 41px;
+}
+
+.recurring-cancel, .recurring-delete, .recurring-save{
+    float: right;
+    margin: 5px;
+}
+.delete-recurring-modal, .recurring-modal, .recurring-modal-sched{
+    visibility: hidden;
+}
+
+#recurring_stories_table_wrapper{
+    padding-top: 0px !important;
+}
+#recurring_stories_table_wrapper > div.dataTables_scroll > div.dataTables_scrollHead > div{
+    width: 100% !important;
+}
+#recurring_stories_table_wrapper > div.dataTables_scroll > div.dataTables_scrollHead > div > table{
+    width: 100% !important;
+}
+
+th.dt-head-left.recurring-story-sprint_number {
+    display: none;
+}
+
+th.dt-head-left.recurring-story-status {
+    display: none;
+}
+
+td.dt-head-left.recurring-story-sprint_number {
+    display: none;
+}
+
+td.dt-head-left.recurring-story-status {
+    display: none;
+}
+
+.recurring-content{
+    padding:10px;
+}
+
+#recurring-story-points{
+    width: 100%;
+}
+
+th.dt-head-left.recurring-story-id {
+    width: 8% !important;
+}
+
+th.dt-head-left.recurring-story-as-a {
+    width: 13% !important;
+}
+
+th.dt-head-left.recurring-story-i-want {
+    width: 17% !important;
+}
+
+th.dt-head-left.recurring-story-so-that {
+    width: 17% !important;
+}
+
+th.dt-head-left.recurring-story-acceptance-test {
+    width: 20% !important;
+}
+
+th.dt-head-left.recurring-story-story-points{
+    width: 14% !important;
+}
+
+th.dt-head-left.recurring-action {
+    width: 8% !important;
+}
+
+
+.recurring-story-id{
+    width: 8%;
+
+}
+.recurring-story-as-a{
+    width: 11% !important;
+}
+
+.recurring-story-i-want{
+    width: 15% !important;
+}
+
+.recurring-story-so-that{
+    width: 15% !important;
+}
+
+.recurring-story-acceptance-test{
+    width: 18% !important;
+}
+
+.recurring-story-story-points{
+    width: 10% !important;
+}
+
+.recurring-story-comments{
+    width: 9% !important;
+}
+
+.recurring-story-status{
+    width: 14% !important;
+}
+
+.recurring-action{
+    width: 8% !important;
+}
+
+
+#div-recurring-select-backlog{
+    padding-bottom: 20px;
+    width: 500px;
+}
+
+.Recurring_DTE_Field_Error{
+    color: red;
+    font-size: 11px;
+    display:none;
+}
+
+.recurring-field-group{
+    overflow-x: hidden; 
+    overflow-y: auto;
+}
+
+.recurring-modal, .recurring-modal-sched{  
+   z-index: 999999; 
+    min-width: 450px;
+}
+
+#recurring_copy{
+    width: 175px;
+}
+
+
+#drpCopy > div:nth-child(1){
+ float: left;   
+}
+
+
+/*Recurring Schedule Switch*/
+.switch-recurring {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 27px;
+}
+
+.switch-recurring input {display:none;}
+
+.slider-recurring {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  /*-webkit-transition: .4s;
+  transition: .4s;*/
+}
+
+.slider-recurring:before {
+  position: absolute;
+  content: "";
+  height: 19px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  /*-webkit-transition: .4s;
+  transition: .4s;*/
+}
+
+input:checked + .slider-recurring {
+  background-color: #ce771e;
+}
+
+input:focus + .slider-recurring {
+  box-shadow: 0 0 1px #ce771e;
+}
+
+input:checked + .slider-recurring:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider-recurring.round {
+  border-radius: 34px;
+}
+
+.slider-recurring.round:before {
+  border-radius: 50%;
+}
+
+#recurring-weekly, #recurring-monthly, #recurring-quarterly, #recurring-yearly , .manageschedule{background-color: rgb(234, 153, 70); visibility: hidden;}
+
+#recurring-number, #recurring-date{border-color: #cecece;}

@@ -1,0 +1,2 @@
+09102017083820	withee@gmail.com : Member with Scrum Role Stakeholder created the story 135. 
+09102017083831	withee@gmail.com changed story with id 64's Order from '127' to '135'  : Member with Scrum Role Stakeholder reordered the row. 

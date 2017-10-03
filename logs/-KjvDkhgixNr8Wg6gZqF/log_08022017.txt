@@ -1,0 +1,123 @@
+08022017021639	portalintegrators@gmail.com added story with id 345 : This story has been added and sprint has already started.  
+08022017021641	portalintegrators@gmail.com added story with id 345 : This story has been added and sprint has already started.  
+08022017040358	portalintegrators@gmail.com changed story with id 437's story_points from '13' to '8'  : Edit to a committed User Story for Sprint 26 
+08022017075956	withee@gmail.com changed story with id 123's Order from '261' to '263'  : Member with Scrum Role Team Member reordered the row.  
+08022017080005	withee@gmail.com changed story with id 319's Order from '261' to '262'  : Member with Scrum Role Team Member reordered the row.  
+08022017080057	withee@gmail.com changed story with id 80's Order from '266' to '267'  : Member with Scrum Role Team Member reordered the row.  
+08022017080311	withee@gmail.com changed story with id 209's acceptance_test from 'A view of the Scrum Team makeup (who is PO, SM and TM's). Also a list of the Scrum Activities and the timing.' to 'A view of the Scrum Team makeup (who is PO, SM and TM's). Also a list of the Scrum Activities and the timing. This should show on the Dashboard for a person (screen when they first log in) and be specific to the person.'  : Member with Scrum Role Team Member made the changes. 
+08022017080311	withee@gmail.com changed story with id 209's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017080338	withee@gmail.com changed story with id 80's Order from '266' to '268'  : Member with Scrum Role Team Member reordered the row.  
+08022017080611	withee@gmail.com changed story with id 218's acceptance_test from 'A button in the ribbon of Outlook that allows you to create a Bug or User Story from Outlook with the Comments of the Bug or User Story containing the email. There should be form fields for the relevant User Story (like As a.. I want.. So That.. Acceptance) or Bug (bug details) that are required in the form from outlook. There should be a drop-down that shows the backlogs the person has access on so the item can be submitted to the correct backlog.' to 'A button in the ribbon of Outlook that allows you to create a Bug or User Story from Outlook. The email message will go into the Comment of the story. The rest of the fields can be blank. This is so it is easy for stakeholders to create User Stories and then the PO will see the input and refine the story correctly. There should be a drop-down that shows the backlogs the person has access on so the item can be submitted to the correct backlog.'  : Member with Scrum Role Team Member made the changes. 
+08022017080611	withee@gmail.com changed story with id 218's story_points from '5' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017080720	withee@gmail.com changed story with id 218's as_a from 'Product Owner' to 'Stakeholder'  : Member with Scrum Role Team Member made the changes. 
+08022017081058	withee@gmail.com changed story with id 218's i_want from 'to be able to create bugs and stories from within Outlook.' to 'to be able to add bugs and stories from within Outlook.'  : Member with Scrum Role Team Member made the changes. 
+08022017081058	withee@gmail.com changed story with id 218's comments from '' to 'NOTE: I changed this one slightly since a stakeholder might not know about Scrum and things like As a.. I want.. etc... so this story is now that it just adds the email message to the Comments of a Bug or User Story and the rest of the fields are blank. The PO can then quickly see this item needs refinement and can do the proper refinement on the item since the PO knows about Scrum and how to correctly create a User Story. We will follow this method and have LOTS of ways for stakeholders to enter from Alexa to Siri to Text, Chat, Slack, Teams, etc... It is better to get the input for the PO to refine it and organize the backlog than to miss a communication from a stakeholder or client.'  : Member with Scrum Role Team Member made the changes. 
+08022017081458	withee@gmail.com changed story with id 33's acceptance_test from 'The implants should be small scanning apps that review a log and generate User Stories based on pattern matching. For example, we have implants for WP Engine, WordPress, S2, etc.. etc.. basically any 'log' output can have its own implant add-on.' to 'The implants should be small scanning apps that review a log and generate User Stories based on pattern matching. This story is to develop an add-on for scanning the logs on AWS. One step of this is to identify ALL the logs available to us on AWS. If this story needs to be broken down further between AWS logs let me know. -Ken
+
+This story is the first so it will need a feature added on settings. Then as we include add-ons we will need a section for each of the new add-ons. The 'idea' is the same though. Scanning logs and generating User Stories from the logs.'  : Member with Scrum Role Team Member made the changes. 
+08022017081458	withee@gmail.com changed story with id 33's story_points from '40' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017081458	withee@gmail.com changed story with id 33's comments from '' to 'This story needs to be broken down to specifics. Such as an add-on for scanning logs on WP Engine. Then a story for scanning logs on WordPress, then one for Fly Wheel, etc... '  : Member with Scrum Role Team Member made the changes. 
+08022017081544	withee@gmail.com changed story with id 33's i_want from 'I want to be able to add on implants for log scanning' to 'I want an add-on that will scan AWS logs and generate User Stories based on Errors and Warnings.'  : Member with Scrum Role Team Member made the changes. 
+08022017081806	withee@gmail.com changed story with id 79's acceptance_test from 'Tell Alexa - Alexa, add user story to backlog.' to 'Say "Alexa - add to backlog <backlog name> that I want a new feature".'  : Member with Scrum Role Team Member made the changes. 
+08022017081806	withee@gmail.com changed story with id 79's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08022017081820	withee@gmail.com changed story with id 79's Order from '270' to '324'  : Member with Scrum Role Team Member reordered the row.  
+08022017081957	withee@gmail.com changed story with id 124's Order from '279' to '311'  : Member with Scrum Role Team Member reordered the row.  
+08022017082050	withee@gmail.com changed story with id 312's acceptance_test from 'Be able to send a text message to a backlog and have it show up as an unfinished User Story at the bottom of the backlog.' to 'Be able to send a text message to a backlog and have it show up as an unfinished User Story at the bottom of the backlog. The contents of the message show up in the Comments.'  : Member with Scrum Role Team Member made the changes. 
+08022017082145	withee@gmail.com changed story with id 312's Order from '312' to '313'  : Member with Scrum Role Team Member reordered the row.  
+08022017082300	withee@gmail.com changed story with id 314's i_want from 'to see all the teams that I am a user of on my Dashboard.' to 'to see all the teams that I am a member of on my Dashboard.'  : Member with Scrum Role Team Member made the changes. 
+08022017082300	withee@gmail.com changed story with id 314's acceptance_test from 'A view that shows all the Teams that the current logged in user is a member of.' to 'Logged in users Dashboard shows all the Teams that the current logged in user is a member of.'  : Member with Scrum Role Team Member made the changes. 
+08022017082527	withee@gmail.com changed story with id 158's i_want from 'to be able to type a tag in the Teams channel, something like backlog:, and have the result be added to the specified backlog.' to 'A button in Teams to add a chat message to a backlog.'  : Member with Scrum Role Team Member made the changes. 
+08022017082527	withee@gmail.com changed story with id 158's acceptance_test from 'In slack channel be able to add an item to a backlog. Some type of bot type thing where you can type backlog_scrumnow: add User Story something something something' to 'A button in Teams that I can click to add a chat message to a selected backlog. The chat message goes into the Comments section. The rest of the fields are blank. '  : Member with Scrum Role Team Member made the changes. 
+08022017082527	withee@gmail.com changed story with id 158's story_points from '40' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017082527	withee@gmail.com changed story with id 158's comments from 'This might be down the road. It should be possible with bot or AI technology from Microsoft that is being rolled out.' to 'The PO can then go and refine the story in the backlog.'  : Member with Scrum Role Team Member made the changes. 
+08022017082618	withee@gmail.com changed story with id 171's Order from '283' to '284'  : Member with Scrum Role Team Member reordered the row.  
+08022017082704	withee@gmail.com changed story with id 173's Order from '277' to '278'  : Member with Scrum Role Team Member reordered the row.  
+08022017082852	withee@gmail.com changed story with id 201's Order from '295' to '296'  : Member with Scrum Role Team Member reordered the row.  
+08022017082904	withee@gmail.com changed story with id 177's Order from '257' to '258'  : Member with Scrum Role Team Member reordered the row.  
+08022017083256	withee@gmail.com changed story with id 318's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017083256	withee@gmail.com changed story with id 318's comments from '' to 'Just show each of the Scrum Events right now and the times for the team. Might need a story to add these times to the data for each Scrum Team. I realize all of our times are the same for both of our teams but use as an example a third team called Demo Team and make it have its own times and backlogs. Add me to this team so I can see it as the demo when I log in.'  : Member with Scrum Role Team Member made the changes. 
+08022017083330	withee@gmail.com changed story with id 186's Order from '304' to '305'  : Member with Scrum Role Team Member reordered the row.  
+08022017083353	withee@gmail.com changed story with id 263's Order from '257' to '263'  : Member with Scrum Role Team Member reordered the row.  
+08022017083507	withee@gmail.com changed story with id 201's comments from '' to 'Still thinking about this one so not prioritizing it yet. Should everyone see the same Dashboard regardless of role? That might reduce confusion?'  : Member with Scrum Role Team Member made the changes. 
+08022017125201	withee@gmail.com changed story with id 231's comments from '' to 'Not sure if this is still a bug or not? I am not sure what this one means so if it is nothing just delete it.'  : Member with Scrum Role Team Member made the changes. 
+08022017125219	withee@gmail.com changed story with id 224's Order from '299' to '300'  : Member with Scrum Role Team Member reordered the row.  
+08022017125251	withee@gmail.com changed story with id 224's Order from '299' to '301'  : Member with Scrum Role Team Member reordered the row.  
+08022017125537	withee@gmail.com changed story with id 199's i_want from 'a dashboard of Scrum Violations per backlog that I am on.' to 'the user Dashboard should show the Scrum Violations. In should be in a section of the dashboard that shows the backlogs. '  : Member with Scrum Role Team Member made the changes. 
+08022017125537	withee@gmail.com changed story with id 199's acceptance_test from 'A dashboard that shows Scrum Violation (the overall number per sprint) for each backlog that a User has permissions on.' to 'the user Dashboard should show the teams I am on and the backlogs that those teams are assigned. Somewhere in the area that shows the backlog there should also be a Scrum Score for the backlog and a link to Scrum Violation next to the score.'  : Member with Scrum Role Team Member made the changes. 
+08022017125537	withee@gmail.com changed story with id 199's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017125537	withee@gmail.com changed story with id 199's comments from '' to 'if we have not yet implemented the Scrum Score then just hard code it to 0 for now and then this story is to implement the link to Scrum Violations for the appropriate backlog from the Dashboard.'  : Member with Scrum Role Team Member made the changes. 
+08022017125629	withee@gmail.com changed story with id 264's Order from '302' to '303'  : Member with Scrum Role Team Member reordered the row.  
+08022017130007	withee@gmail.com changed story with id 298's i_want from 'to see my SCRUM SCORE at the top in bold. ' to 'to see the Scrum Score for each of the teams I am on.'  : Member with Scrum Role Team Member made the changes. 
+08022017130007	withee@gmail.com changed story with id 298's so_that from 'It is very clear my Scrum Score.' to 'It is very clear the Scrum Score of my team.'  : Member with Scrum Role Team Member made the changes. 
+08022017130007	withee@gmail.com changed story with id 298's acceptance_test from 'The words SCRUM SCORE: <number> at the top in the orange very top header, centered between Home and Welcome <name>. In bold.' to 'Each Scrum Team should have a Scrum Score. The Scrum Score should be displayed on the Dashboard for each user for the teams they are assigned on.'  : Member with Scrum Role Team Member made the changes. 
+08022017130007	withee@gmail.com changed story with id 298's story_points from '13' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017130007	withee@gmail.com changed story with id 298's comments from '' to ' The Scrum Score is per team and we will tweak the algorithm to calculate it. For now just hard code it at 0 but make sure there is a place to store the Scrum Score per team and that the Scrum Score shows next to the team on the Dashboard.'  : Member with Scrum Role Team Member made the changes. 
+08022017130150	withee@gmail.com changed story with id 313's Order from '314' to '315'  : Member with Scrum Role Team Member reordered the row.  
+08022017130255	withee@gmail.com changed story with id 313's Order from '312' to '317'  : Member with Scrum Role Team Member reordered the row.  
+08022017130500	withee@gmail.com changed story with id 317's i_want from 'to see the Product Backlogs on my Dashboard that the teams I am on have access to.' to 'to see the Product Backlogs on my Dashboard. The Product Backlogs are assigned to a team, so the Teams should be shown and then the Backlogs for the team. '  : Member with Scrum Role Team Member made the changes. 
+08022017130500	withee@gmail.com changed story with id 317's acceptance_test from 'On the Dashboard there is a section for Product Backlogs in addition to the section for Scrum Teams. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.' to 'On the Dashboard there is a section for Product Backlogs that are assigned to the Teams I am a member of. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.'  : Member with Scrum Role Team Member made the changes. 
+08022017130500	withee@gmail.com changed story with id 317's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017130605	withee@gmail.com changed story with id 320's Order from '318' to '319'  : Member with Scrum Role Team Member reordered the row.  
+08022017130843	withee@gmail.com changed story with id 381's Order from '328' to '330'  : Member with Scrum Role Team Member reordered the row.  
+08022017130905	withee@gmail.com changed story with id 218's Order from '263' to '264'  : Member with Scrum Role Team Member reordered the row.  
+08022017130937	withee@gmail.com changed story with id 209's i_want from 'to see the makeup of the team and when the events are planned.' to 'to see the makeup of the team and when the events are planned on the Dashboard.'  : Member with Scrum Role Team Member made the changes. 
+08022017131028	withee@gmail.com changed story with id 426's Order from '331' to '332'  : Member with Scrum Role Team Member reordered the row.  
+08022017131120	withee@gmail.com changed story with id 371's Order from '333' to '334'  : Member with Scrum Role Team Member reordered the row.  
+08022017194225	withee@gmail.com changed story with id 314's comments from '' to 'Make sure removing a team also removes the team from the backlog. If there is no team then ONLY the person that created the backlog should be able to manage it.'  : Member with Scrum Role Team Member made the changes. 
+08022017194744	withee@gmail.com changed story with id 155's comments from '' to 'Scrum Score is for the TEAM but individuals add and subtract from team score as noted.'  : Member with Scrum Role Team Member made the changes. 
+08022017195000	withee@gmail.com changed story with id 155's as_a from 'User' to 'Scrum Team'  : Member with Scrum Role Team Member made the changes. 
+08022017195913	withee@gmail.com changed story with id 155's acceptance_test from 'A gamification of the Rocket Scrum app. 
+
+Sign up and get 5 points.
+
+Add backlog and get 5 points.
+
+Answer scrum quizzes and get 10 points each quiz.
+
+Violate scrum and lose points. Scrum violations go in the log and also deduct points.' to 'A gamification of the Rocket Scrum app. 
+
+When a team is created the team gets +10 points.
+
+Add TM 1 and TM 2 and get +5 points when user joins the team.
+
+Add TM 3 through TM 9 and get +10 points.
+
+Add a PO and get +15 points.
+
+Add a SM and get +20 points.
+
+Add backlog and get +5 points.
+
+For each Scrum Violation for any of the backlogs of the team -1 point.'  : Member with Scrum Role Team Member made the changes. 
+08022017195925	withee@gmail.com changed story with id 155's story_points from '13' to ''  : Member with Scrum Role Team Member made the changes. 
+08022017200203	withee@gmail.com changed story with id 155's acceptance_test from 'A gamification of the Rocket Scrum app. 
+
+When a team is created the team gets +10 points.
+
+Add TM 1 and TM 2 and get +5 points when user joins the team.
+
+Add TM 3 through TM 9 and get +10 points.
+
+Add a PO and get +15 points.
+
+Add a SM and get +20 points.
+
+Add backlog and get +5 points.
+
+For each Scrum Violation for any of the backlogs of the team -1 point.' to 'A gamification of the Rocket Scrum app. 
+
+When a team is created the team gets +10 points.
+
+Add TM 1 and TM 2 and get +5 points when user joins the team.
+
+Add TM 3 through TM 9 and get +10 points.
+
+Each TM 10+ is -20 points.
+
+Add a PO and get +15 points.
+
+Add a SM and get +20 points.
+
+Add backlog and get +5 points.
+
+For each Scrum Violation for any of the backlogs of the team -1 point.'  : Member with Scrum Role Team Member made the changes. 

@@ -1,0 +1,9 @@
+06092017025924	portalintegrators@gmail.com changed story with id 332's i_want from '2' to '3'  : Edit to a committed User Story for Sprint 36 
+06092017025924	portalintegrators@gmail.com changed story with id 332's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 36 
+06092017032649	portalintegrators@gmail.com added story with id RECURRING STORY-260 : This story has been added and sprint has already started.  
+06092017032650	portalintegrators@gmail.com added story with id RECURRING STORY-260 : This story has been added and sprint has already started.  
+06092017032650	portalintegrators@gmail.com added story with id RECURRING STORY-260 : This story has been added and sprint has already started.  
+06092017032651	portalintegrators@gmail.com added story with id RECURRING STORY-260 : This story has been added and sprint has already started.  
+06092017032657	portalintegrators@gmail.com added story with id 334 : This story has been added and sprint has already started.  
+06092017032700	portalintegrators@gmail.com added story with id 335 : This story has been added and sprint has already started.  
+06092017032702	portalintegrators@gmail.com added story with id 335 : This story has been added and sprint has already started.  

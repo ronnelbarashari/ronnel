@@ -1,0 +1,5 @@
+06282017224430	portalintegrators@gmail.com changed story with id 77's story_points from '' to '8'  
+06282017224430	portalintegrators@gmail.com changed story with id 77's status from '' to 'to do'  
+06282017224458	portalintegrators@gmail.com added story with id 76 : This story has been added and sprint has already started.  
+06282017224505	portalintegrators@gmail.com added story with id 77 : This story has been added and sprint has already started.  
+06282017224505	portalintegrators@gmail.com added story with id 77 : This story has been added and sprint has already started.  

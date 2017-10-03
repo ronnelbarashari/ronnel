@@ -1,0 +1,6 @@
+07252017223605	portalintegrators@gmail.com changed story with id Recurring-Check List-55's status from 'in progress' to 'done'  
+07252017223609	portalintegrators@gmail.com changed story with id 49's status from 'in progress' to 'done'  
+07252017223612	portalintegrators@gmail.com changed story with id 52's status from 'in progress' to 'done'  
+07252017223943	portalintegrators@gmail.com added story with id 55 : This story has been added and sprint has already started.  
+07252017224238	portalintegrators@gmail.com changed story with id 3's story_points from '-- estimated points --' to '21'  
+07252017224238	portalintegrators@gmail.com changed story with id 3's status from '' to 'to do'  

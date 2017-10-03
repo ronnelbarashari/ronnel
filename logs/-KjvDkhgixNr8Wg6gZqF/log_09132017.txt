@@ -1,0 +1,25 @@
+09132017001226	genelyn.ancheta@portalintegrators.com added story with id 2 : Member with Scrum Role Stakeholder made the changes. 
+09132017001424	portalintegrators@gmail.com changed story with id 560's comments from '' to 'figure out how we can have lazy loading in the datatables or load only needed stories'  : Member with Scrum Role Stakeholder made the changes. 
+09132017001443	genelyn.ancheta@portalintegrators.com added story with id 560 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017001635	genelyn.ancheta@portalintegrators.com added story with id 559 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002025	genelyn.ancheta@portalintegrators.com added story with id 536 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002139	genelyn.ancheta@portalintegrators.com added story with id 537 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002246	genelyn.ancheta@portalintegrators.com added story with id 474 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002337	genelyn.ancheta@portalintegrators.com added story with id 500 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002819	genelyn.ancheta@portalintegrators.com added story with id 503 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017002905	portalintegrators@gmail.com changed story with id 536's story_points from '13' to '8'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 32 
+09132017004246	portalintegrators@gmail.com changed story with id 507's story_points from '2' to '1'  : Member with Scrum Role Stakeholder made the changes. 
+09132017004246	portalintegrators@gmail.com changed story with id 507's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09132017004306	portalintegrators@gmail.com changed story with id 480's Order from '328' to '329'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017004316	portalintegrators@gmail.com changed story with id 476's Order from '323' to '324'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017004347	portalintegrators@gmail.com changed story with id 505's Order from '331' to '332'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017004403	portalintegrators@gmail.com changed story with id 539's story_points from '2' to '1'  : Member with Scrum Role Stakeholder made the changes. 
+09132017004452	genelyn.ancheta@portalintegrators.com added story with id 507 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017004504	genelyn.ancheta@portalintegrators.com added story with id 557 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017004513	genelyn.ancheta@portalintegrators.com added story with id 539 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09132017134242	withee@gmail.com : Member with Scrum Role Stakeholder created the story 562. 
+09132017150638	withee@gmail.com : Member with Scrum Role Stakeholder created the story 563. 
+09132017185832	withee@gmail.com : Member with Scrum Role Stakeholder created the story 564. 
+09132017191333	withee@gmail.com : Member with Scrum Role Stakeholder created the story 565. 
+09132017191353	withee@gmail.com changed story with id 564's Order from '564' to '565'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017191358	withee@gmail.com changed story with id 451's Order from '322' to '323'  : Member with Scrum Role Stakeholder reordered the row. 

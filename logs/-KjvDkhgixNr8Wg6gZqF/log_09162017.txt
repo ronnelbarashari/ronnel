@@ -1,0 +1,24 @@
+09162017100344	withee@gmail.com : Member with Scrum Role Stakeholder created the story 569. 
+09162017100437	withee@gmail.com : Member with Scrum Role Stakeholder created the story 570. 
+09162017100532	withee@gmail.com : Member with Scrum Role Stakeholder created the story 571. 
+09162017100619	withee@gmail.com changed story with id 564's Order from '444' to '569'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017100647	withee@gmail.com changed story with id 552's Order from '437' to '438'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017100745	withee@gmail.com changed story with id 570's Order from '570' to '571'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017100810	withee@gmail.com changed story with id 564's Order from '444' to '445'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017104927	withee@gmail.com : Member with Scrum Role Stakeholder created the story 572. 
+09162017114258	withee@gmail.com : Member with Scrum Role Stakeholder created the story 573. 
+09162017114329	withee@gmail.com changed story with id 572's Order from '572' to '573'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017114353	withee@gmail.com changed story with id 564's Order from '446' to '447'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017114414	withee@gmail.com changed story with id 572's comments from '' to 'Prioritized this while the pain is still fresh in our minds from the all nighters. :D'  : Member with Scrum Role Stakeholder made the changes. 
+09162017114514	withee@gmail.com changed story with id 558's Order from '444' to '445'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017114736	withee@gmail.com changed story with id 380's Order from '424' to '425'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017114753	withee@gmail.com changed story with id 382's comments from '' to 'iOS Project'  : Member with Scrum Role Stakeholder made the changes. 
+09162017114753	withee@gmail.com changed story with id 382's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09162017114803	withee@gmail.com changed story with id 562's comments from '' to 'iOS Project'  : Member with Scrum Role Stakeholder made the changes. 
+09162017114859	withee@gmail.com changed story with id 380's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09162017114938	withee@gmail.com : Member with Scrum Role Stakeholder created the story 574. 
+09162017115123	withee@gmail.com : Member with Scrum Role Stakeholder created the story 575. 
+09162017115804	withee@gmail.com : Member with Scrum Role Stakeholder created the story 576. 
+09162017115827	withee@gmail.com changed story with id 575's Order from '575' to '576'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017144243	withee@gmail.com : Member with Scrum Role Stakeholder created the story 577. 
+09162017144257	withee@gmail.com changed story with id 575's Order from '450' to '577'  : Member with Scrum Role Stakeholder reordered the row. 

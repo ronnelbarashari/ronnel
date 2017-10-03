@@ -1,0 +1,31 @@
+09252017163113	withee@gmail.com : Member with Scrum Role Stakeholder created the story 598. 
+09252017163146	withee@gmail.com changed story with id 579's Order from '467' to '598'  : Member with Scrum Role Stakeholder reordered the row. 
+09252017163503	withee@gmail.com changed story with id 312's acceptance_test from 'Be able to send a text message to a backlog and have it show up as an unfinished User Story at the bottom of the backlog. The contents of the message show up in the Comments.' to 'Be able to send a text message to a backlog and have it show up as an unfinished User Story at the bottom of the backlog. The contents of the message show up in the Comments.
+
+Should get a response with the User Story # as a response.'  : Member with Scrum Role Stakeholder made the changes. 
+09252017163544	withee@gmail.com changed story with id 219's acceptance_test from 'An add-on for Teams and Slack.' to 'An add-on for Teams and Slack. When a User Story or Bug is added there should be a response to the channel of the User Story or Bug #.'  : Member with Scrum Role Stakeholder made the changes. 
+09252017163613	withee@gmail.com changed story with id 554's acceptance_test from 'Explore building a bot using Microsoft LUIS framework for natural language processing.
+
+https://dev.botframework.com/
+https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/' to 'Explore building a bot using Microsoft LUIS framework for natural language processing.
+
+https://dev.botframework.com/
+https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/
+
+The bot should give a response when it adds a User Story that includes the User Story or Bug #.'  : Member with Scrum Role Stakeholder made the changes. 
+09252017163726	withee@gmail.com : Member with Scrum Role Stakeholder created the story 599. 
+09252017163828	withee@gmail.com changed story with id 599's acceptance_test from 'https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content' to 'https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content
+
+The broken link scanner should be extended to also look for non ssl content. If anything is loading as non ssl then a bug should auto generate in the relevant backlog for any instance of non ssl.'  : Member with Scrum Role Stakeholder made the changes. 
+09252017164104	withee@gmail.com : Member with Scrum Role Stakeholder created the story 600. 
+09252017164125	withee@gmail.com changed story with id 599's Order from '599' to '600'  : Member with Scrum Role Stakeholder reordered the row. 
+09252017164310	withee@gmail.com : Member with Scrum Role Stakeholder created the story 601. 
+09252017164344	withee@gmail.com changed story with id 519's acceptance_test from 'A devops plan in place. See starter document on Ken drive.' to 'A devops plan in place. See starter document on Ken drive.
+
+As a Developer I want to be able to deploy my Git branch to a development domain for testing. A Dev Ops plan.
+
+Either AWS or Digital Ocean.
+
+Maybe we create an app called Rocket Scrum DevOps Helper and this builds the VM and deploys the branch from Git to a development domain.'  : Member with Scrum Role Stakeholder made the changes. 
+09252017164344	withee@gmail.com changed story with id 519's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09252017164416	withee@gmail.com changed story with id 601's comments from '' to 'https://developer.chrome.com/apps/first_app'  : Member with Scrum Role Stakeholder made the changes. 

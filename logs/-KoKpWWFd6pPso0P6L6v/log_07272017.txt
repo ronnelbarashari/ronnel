@@ -1,0 +1,1 @@
+07272017224233	portalintegrators@gmail.com changed story with id 33's acceptance_test from 'spam blogs is an issue with the old site' to 'spam blogs is an issue with the old site. create stories on how we  can implement the solution'  : Edit to a committed User Story for Sprint 3 

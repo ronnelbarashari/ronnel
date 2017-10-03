@@ -1,0 +1,10 @@
+09062017221526	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 115. 
+09062017221747	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 116. 
+09062017221818	portalintegrators@gmail.com changed story with id 64's Order from '109' to '111'  : Member with Scrum Role Stakeholder reordered the row. 
+09062017222234	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 121. 
+09062017222326	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 122. 
+09062017222334	portalintegrators@gmail.com changed story with id 121's Order from '121' to '122'  : Member with Scrum Role Stakeholder reordered the row. 
+09062017222335	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 120. 
+09062017222341	portalintegrators@gmail.com changed story with id 89's Order from '103' to '104'  : Member with Scrum Role Stakeholder reordered the row. 
+09062017222352	portalintegrators@gmail.com changed story with id 122's Order from '103' to '104'  : Member with Scrum Role Stakeholder reordered the row. 
+09062017222411	portalintegrators@gmail.com changed story with id 89's Order from '103' to '104'  : Member with Scrum Role Stakeholder reordered the row. 

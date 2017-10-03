@@ -1,0 +1,10 @@
+09012017162630	withee@gmail.com : Member with Scrum Role Team Member created the story 536. 
+09012017162730	withee@gmail.com changed story with id 533's Order from '410' to '536'  : Member with Scrum Role Team Member reordered the row.  
+09012017163036	withee@gmail.com : Member with Scrum Role Team Member created the story 537. 
+09012017163100	withee@gmail.com changed story with id 533's Order from '410' to '537'  : Member with Scrum Role Team Member reordered the row.  
+09012017163229	withee@gmail.com changed story with id 505's Order from '313' to '314'  : Member with Scrum Role Team Member reordered the row.  
+09012017163248	withee@gmail.com changed story with id 505's Order from '314' to '315'  : Member with Scrum Role Team Member reordered the row.  
+09012017163439	withee@gmail.com changed story with id 536's acceptance_test from 'A button on the Product Backlog that is called Product Backlog Administration. When click that you go to the Product Backlog Administration screen. It can be a pop-up like the Team Administration. For details of what is on this page see the UI mockup. If something is not yet implemented just put (coming soon).' to 'A button on the Product Backlog that is called Product Backlog Administration. When click that you go to the Product Backlog Administration screen. It can be a pop-up like the Team Administration. For details of what is on this page see the UI mockup. If something is not yet implemented just put (coming soon).
+
+NOTE: we already have a lot of functionality for this but it is on the Admin Settings page of Features. To get to it you click on the Backlogs tab and then next to a backlog you click the Edit. Then a pop up appears. This story is remove that Backlogs tab and moving the way to access it to a button on the Product Backlog page itself called Product Backlog Administration.'  : Member with Scrum Role Team Member made the changes. 
+09012017163439	withee@gmail.com changed story with id 536's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 

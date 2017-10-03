@@ -1,0 +1,8 @@
+07262017000748	portalintegrators@gmail.com changed story with id Recurring-Check List-6's status from 'in progress' to 'done'  
+07262017000801	portalintegrators@gmail.com changed story with id Recurring-Site Support-7's status from 'in progress' to 'done'  
+07262017000809	portalintegrators@gmail.com changed story with id 4's status from 'in progress' to 'done'  
+07262017030632	portalintegrators@gmail.com changed story with id 9's acceptance_test from 'the delete member/s functionality implemented. Make sure to only use flags and not actually delete from the database' to 'add the UI for the member settings in the team configuration page'  
+07262017030632	portalintegrators@gmail.com changed story with id 9's story_points from '8' to '5'  
+07262017030632	portalintegrators@gmail.com changed story with id 9's status from '' to 'to do'  
+07262017030810	portalintegrators@gmail.com added story with id 9 : This story has been added and sprint has already started.  
+07262017030811	portalintegrators@gmail.com added story with id 9 : This story has been added and sprint has already started.  

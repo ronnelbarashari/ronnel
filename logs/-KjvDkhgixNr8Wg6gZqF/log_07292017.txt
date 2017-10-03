@@ -1,0 +1,11 @@
+07292017022800	portalintegrators@gmail.com changed story with id 426's story_points from '' to '8'  
+07292017022800	portalintegrators@gmail.com changed story with id 426's status from '' to 'to do'  
+07292017045756	portalintegrators@gmail.com changed story with id 419's status from '' to 'to do'  
+07292017045832	portalintegrators@gmail.com changed story with id 320's story_points from '13' to '8'  
+07292017045934	portalintegrators@gmail.com changed story with id 426's story_points from '8' to '13'  
+07292017045951	portalintegrators@gmail.com changed story with id 426's story_points from '13' to '8'  
+07292017054018	portalintegrators@gmail.com changed story with id 418's i_want from 'to use O365 to login and use Rocket Scrum' to 'to use O365 to login and use Rocket Scrum.'  
+07292017055032	carands.benj@gmail.com changed story with id 123's Order from '255' to '257'  : Member with Scrum Role Team Member reordered the row.  
+07292017170908	withee@gmail.com changed story with id 404's Order from '249' to '253'  : Member with Scrum Role Team Member reordered the row.  
+07292017171021	withee@gmail.com changed story with id 319's Order from '254' to '255'  : Member with Scrum Role Team Member reordered the row.  
+07292017171054	withee@gmail.com changed story with id 319's Order from '255' to '256'  : Member with Scrum Role Team Member reordered the row.  

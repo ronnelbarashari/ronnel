@@ -1,0 +1,27 @@
+04202017012257	 changed story with id 72's  from '' to ''  : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017012626	rocketscrum.firebase@gmail.com added story with id 74 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017014508	rocketscrum.firebase@gmail.com added story with id 69 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017015719	rocketscrum.firebase@gmail.com added story with id 69 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017015751	rocketscrum.firebase@gmail.com added story with id 81 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017015754	rocketscrum.firebase@gmail.com added story with id 81 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017015948	rocketscrum.firebase@gmail.com added story with id 77 : Member with Scrum Role Scrum Master Team Member  made the changes.   This story has been added and sprint has already started.  
+04202017022215	portalintegrators@gmail.com changed story with id 77's acceptance_test from '14' to 'lsdjglsdk ldjflkasjd;laskj ;alkjfoiwelakjdsflj osajdl;sajd ajlasdjfoiaw lashnflkashdpfojsa kwrijasldfja slkd asflijasldk waiojf lasdk fj'  : Edit to a committed User Story for Sprint 4 
+04202017023203	portalintegrators@gmail.com changed story with id 81's acceptance_test from '18' to 'lkjfl;ksdfl nfdlgkjdflkgj lkfjh lfkdjgidlf sja;o ;aejra;oj aksjfl;kadjfpoa lakdjfipodaf a;sfjp asoj f;o hgh'  : Edit to a committed User Story for Sprint 2 
+04202017023833	portalintegrators@gmail.com changed story with id 61's status from 'in progress' to 'done'  
+04202017184520	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'to do'  
+04202017184529	portalintegrators@gmail.com changed story with id 77's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 4 
+04202017184631	portalintegrators@gmail.com changed story with id 77's i_want from '14' to '14123123'  : Edit to a committed User Story for Sprint 4 
+04202017184648	portalintegrators@gmail.com changed story with id 77's as_a from '14' to '14123123123'  : Edit to a committed User Story for Sprint 4 
+04202017185502	portalintegrators@gmail.com changed story with id 77's so_that from '14' to '14zssd'  : Edit to a committed User Story for Sprint 4 
+04202017190828	portalintegrators@gmail.com added story with id 88 : This story has been added and sprint has already started.  
+04202017190839	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'to do'  
+04202017190854	portalintegrators@gmail.com changed story with id 77's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 4 
+04202017190934	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'to do'  
+04202017190942	portalintegrators@gmail.com changed story with id 77's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 4 
+04202017190956	portalintegrators@gmail.com changed story with id 66's status from '' to 'in progress'  
+04202017191015	portalintegrators@gmail.com changed story with id 66's status from 'in progress' to 'to do'  
+04202017191022	portalintegrators@gmail.com changed story with id 66's status from 'to do' to 'in progress'  
+04202017191036	portalintegrators@gmail.com changed story with id 66's status from 'in progress' to 'to do'  
+04202017212754	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'to do'  : Member with Scrum Role Scrum Master  made the changes. 
+04202017212855	portalintegrators@gmail.com changed story with id 77's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 4 
+04202017212926	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'to do'  : Member with Scrum Role Team Member  made the changes. 

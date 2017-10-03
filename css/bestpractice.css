@@ -1,0 +1,106 @@
+.bestpractice-row {
+    display: inline-block;
+    width: 200px;
+}
+
+.bestpractice-label {
+    float: left;
+}
+
+.bestpractice-cancel, .bestpractice-delete, .bestpractice-save {
+    float: right;
+    margin: 5px;
+    background: -webkit-linear-gradient(top, #c3681a 0%, #ce771e 100%);
+}
+
+.best_practice_modal{
+	  transform: translateY(-215px);
+    position: fixed;
+    left: 8%;
+    top: 60%;
+    width: 80%;
+}
+
+#bestpractice_stories_table_wrapper{
+	padding-top: 0px;
+}
+
+.delete-bestpractices-modal{
+	display: none;
+}
+
+.modal-content.bestpractice-modal {
+    transform: translateY(-100px);
+}
+
+div#recurring-modal-body {
+    transform: translateY(-200px);
+    position: fixed;
+    left: 8%;
+    top: 60%;
+    width: 80%;
+}
+
+
+.switch-backlog, .switch-bestpractice {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 27px;
+
+}
+.switch-bestpractice input {display:none;}
+
+.slider-bestpractice {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  /*-webkit-transition: .4s;
+  transition: .4s;*/
+}
+
+.slider-bestpractice:before {
+  position: absolute;
+  content: "";
+  height: 19px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  /*-webkit-transition: .4s;
+  transition: .4s;*/
+}
+
+input:checked + .slider-bestpractice {
+  background-color: #ce771e;
+}
+
+input:focus + .slider-bestpractice {
+  box-shadow: 0 0 1px #ce771e;
+}
+
+input:checked + .slider-bestpractice:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider-bestpractice.round {
+  border-radius: 34px;
+}
+.slider-bestpractice.round:before {
+  border-radius: 50%;
+}
+#best-practice-add-backlog{
+    display: none;
+}
+
+#add-to-backlog-button{
+  margin-right: 10px; color: white; background-color: #008cba; color: white; padding: 10px 5px; text-align: center; text-decoration: none; display: inline-block; font-size: 15px; cursor: pointer; background: -webkit-linear-gradient(top, #c3681a 0%, #ce771e 100%); border: 1px solid black;
+}
+

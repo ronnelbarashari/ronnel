@@ -1,0 +1,19 @@
+06272017043215	portalintegrators@gmail.com changed story with id 12's i_want from 'to create a PowerApp for the SharePoint list where user can add items' to 'to create a PowerApp where I can view the SharePoint list'  
+06272017043215	portalintegrators@gmail.com changed story with id 12's so_that from 'I can add items to the list using PowerApps' to 'I can access the list on mobile devices'  
+06272017043215	portalintegrators@gmail.com changed story with id 12's acceptance_test from 'PowerApp created that is connected to the SharePoint list that we created based on the Treehouse problem. Make sure that user can add items to the list.' to 'PowerApp created that is connected to the SharePoint list that we created based on the Treehouse problem.'  
+06272017043215	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  
+06272017202736	portalintegrators@gmail.com changed story with id 11's i_want from 'to create a SharePoint list based on the Treehouse requirements' to 'to create a SharePoint Employee list based on the Treehouse requirements'  
+06272017202736	portalintegrators@gmail.com changed story with id 11's acceptance_test from 'a list created based on the Treehouse requirements' to 'create list for employees with the following data input - first name, last name, preferred name, start date, team name, position title, department, supervisor, hiring manager; Y/N IT Set-Up Completed'  
+06272017202736	portalintegrators@gmail.com changed story with id 11's status from '' to 'to do'  
+06272017211011	portalintegrators@gmail.com changed story with id 15's story_points from '' to '8'  
+06272017211011	portalintegrators@gmail.com changed story with id 15's status from '' to 'to do'  
+06272017211023	portalintegrators@gmail.com changed story with id 11's story_points from '' to '3'  
+06272017211533	portalintegrators@gmail.com changed story with id 16's comments from '' to 'New Employees will be the form where we will combine the Employees, Hardware and Software lists. 
+
+This is so the Hiring Manager can find the name of the new hire from the dropdown then select hardware and software
+
+Note:
+Use lists and forms within SharePoint and no conditions'  
+06272017211533	portalintegrators@gmail.com changed story with id 16's status from '' to 'to do'  
+06272017215422	portalintegrators@gmail.com changed story with id 17's acceptance_test from 'When I select a new employee, hardware, and software and complete the New Employee form, the flow is triggered and goes to Dana (Software) and William (Hardware) simultaneously' to 'When I select a new employee, hardware, and software and complete the New Employee form, the flow is triggered and goes to Software Approver and Hardware Approver simultaneously'  
+06272017215422	portalintegrators@gmail.com changed story with id 17's status from '' to 'to do'  

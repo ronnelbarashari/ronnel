@@ -1,0 +1,106 @@
+04282017001526	rocketscrum.firebase@gmail.com changed story with id 90's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+04282017001529	rocketscrum.firebase@gmail.com changed story with id 91's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+04282017001534	rocketscrum.firebase@gmail.com changed story with id 92's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+04282017003354	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'to do'  
+04282017032245	portalintegrators@gmail.com changed story with id 93's status from 'in progress' to 'done'  
+04282017032249	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017032445	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017032736	portalintegrators@gmail.com changed story with id 121's status from '' to 'done'  
+04282017032905	portalintegrators@gmail.com changed story with id 123's status from '' to 'done'  
+04282017033130	portalintegrators@gmail.com changed story with id 126's status from '' to 'done'  
+04282017033309	portalintegrators@gmail.com changed story with id 129's status from '' to 'done'  
+04282017033358	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017033707	portalintegrators@gmail.com changed story with id 132's status from '' to 'done'  
+04282017033836	portalintegrators@gmail.com changed story with id 135's status from '' to 'done'  
+04282017034012	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017034017	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017041440	portalintegrators@gmail.com changed story with id 139's status from '' to 'done'  
+04282017041953	portalintegrators@gmail.com changed story with id 142's status from '' to 'done'  
+04282017042324	portalintegrators@gmail.com changed story with id 145's status from '' to 'done'  
+04282017042410	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017042415	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017042419	portalintegrators@gmail.com changed story with id 146's status from 'in progress' to 'done'  
+04282017042614	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017042618	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017042623	portalintegrators@gmail.com changed story with id 147's status from 'in progress' to 'done'  
+04282017043316	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043321	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043325	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043330	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043333	portalintegrators@gmail.com changed story with id 148's status from 'in progress' to 'done'  
+04282017043337	portalintegrators@gmail.com changed story with id 149's status from 'in progress' to 'done'  
+04282017043520	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043525	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017043529	portalintegrators@gmail.com changed story with id 150's status from 'in progress' to 'done'  
+04282017045458	portalintegrators@gmail.com changed story with id 151's status from 'in progress' to 'done'  
+04282017045505	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017045508	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172526	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172530	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172533	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172540	portalintegrators@gmail.com changed story with id 152's status from 'in progress' to 'done'  
+04282017172718	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172722	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172922	portalintegrators@gmail.com changed story with id 153's status from 'in progress' to 'done'  
+04282017172926	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017172930	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017173305	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017173308	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017173311	portalintegrators@gmail.com changed story with id 154's status from 'in progress' to 'done'  
+04282017173634	portalintegrators@gmail.com changed story with id 158's status from '' to 'done'  
+04282017173638	portalintegrators@gmail.com changed story with id 159's status from '' to 'done'  
+04282017175929	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017175931	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017175934	portalintegrators@gmail.com changed story with id 160's status from 'in progress' to 'done'  
+04282017175938	portalintegrators@gmail.com changed story with id 162's status from '' to 'done'  
+04282017182442	portalintegrators@gmail.com changed story with id 167's status from '' to 'done'  
+04282017184911	portalintegrators@gmail.com changed story with id 174's status from '' to 'done'  
+04282017185013	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017185028	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017185054	portalintegrators@gmail.com changed story with id 175's status from 'in progress' to 'done'  
+04282017185534	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017185541	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017185550	portalintegrators@gmail.com changed story with id 176's status from 'in progress' to 'done'  
+04282017190809	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017190828	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  
+04282017192933	portalintegrators@gmail.com changed story with id 177's status from 'in progress' to 'done'  
+04282017194907	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+04282017194912	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+04282017204759	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017204802	portalintegrators@gmail.com changed story with id 178's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017204810	portalintegrators@gmail.com changed story with id 180's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205212	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205216	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205219	portalintegrators@gmail.com changed story with id 191's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205451	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205530	portalintegrators@gmail.com changed story with id RECURRING STORY's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017205553	portalintegrators@gmail.com changed story with id 194's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211039	portalintegrators@gmail.com changed story with id RECURRING STORY-199's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211047	portalintegrators@gmail.com changed story with id 195's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211051	portalintegrators@gmail.com changed story with id RECURRING STORY-200's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211606	portalintegrators@gmail.com changed story with id RECURRING STORY-210's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211609	portalintegrators@gmail.com changed story with id RECURRING STORY-211's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017211613	portalintegrators@gmail.com changed story with id 200's status from 'in progress' to 'done'  : Member with Scrum Role Team Member  made the changes. 
+04282017212038	portalintegrators@gmail.com changed story with id RECURRING STORY-214's status from 'in progress' to 'done'  
+04282017213221	portalintegrators@gmail.com changed story with id RECURRING STORY-217's status from 'in progress' to 'done'  
+04282017213844	portalintegrators@gmail.com changed story with id 214's status from 'in progress' to 'done'  
+04282017213850	portalintegrators@gmail.com changed story with id RECURRING STORY-218's status from 'in progress' to 'done'  
+04282017231322	portalintegrators@gmail.com changed story with id RECURRING STORY-220's status from 'in progress' to 'done'  
+04282017231326	portalintegrators@gmail.com changed story with id RECURRING STORY-221's status from 'in progress' to 'done'  
+04282017231329	portalintegrators@gmail.com changed story with id 197's status from 'in progress' to 'done'  
+04282017231707	portalintegrators@gmail.com changed story with id 204's status from '' to 'done'  
+04282017231714	portalintegrators@gmail.com changed story with id RECURRING STORY-223's status from 'in progress' to 'done'  
+04282017231722	portalintegrators@gmail.com changed story with id RECURRING STORY-224's status from 'in progress' to 'done'  
+04282017232338	portalintegrators@gmail.com changed story with id RECURRING STORY-225's status from 'in progress' to 'done'  
+04282017232343	portalintegrators@gmail.com changed story with id RECURRING STORY-226's status from 'in progress' to 'done'  
+04282017233001	portalintegrators@gmail.com changed story with id 174's status from 'in progress' to 'done'  
+04282017233203	portalintegrators@gmail.com changed story with id 229's status from '' to 'done'  
+04282017234019	portalintegrators@gmail.com changed story with id 229's status from 'in progress' to 'done'  
+04282017234023	portalintegrators@gmail.com changed story with id 230's status from '' to 'done'  
+04282017234027	portalintegrators@gmail.com changed story with id RECURRING STORY-232's status from 'in progress' to 'done'  
+04282017234032	portalintegrators@gmail.com changed story with id RECURRING STORY-233's status from 'in progress' to 'done'  
+04282017234532	portalintegrators@gmail.com changed story with id 229's status from 'in progress' to 'done'  
+04282017234843	portalintegrators@gmail.com changed story with id 229's status from 'in progress' to 'done'  
+04282017235201	portalintegrators@gmail.com changed story with id RECURRING STORY-236's status from 'in progress' to 'done'  
+04282017235317	portalintegrators@gmail.com changed story with id 237's status from '' to 'done'  
+04282017235650	portalintegrators@gmail.com changed story with id 241's status from '' to 'done'  

@@ -1,0 +1,3 @@
+06192017222008	portalintegrators@gmail.com changed story with id 160's story_points from '8' to '5'  
+06192017222139	portalintegrators@gmail.com changed story with id 212's story_points from '34' to '21'  
+06192017222139	portalintegrators@gmail.com changed story with id 212's status from 'todo' to 'to do'  

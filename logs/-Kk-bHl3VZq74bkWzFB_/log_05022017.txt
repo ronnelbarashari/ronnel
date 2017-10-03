@@ -1,0 +1,10 @@
+05022017002208	rocketscrum.firebase@gmail.com changed story with id 289's Order from '318' to '319'  : Member with Scrum Role Team Member reordered the row.  
+05022017003426	rocketscrum.firebase@gmail.com : Member with Scrum Role Team Member created the story with ID 329. 
+05022017013934	portalintegrators@gmail.com changed story with id RECURRING STORY-357's status from 'in progress' to 'to do'  : Member with Scrum Role Team Member  made the changes. 
+05022017020108	portalintegrators@gmail.com changed story with id RECURRING STORY-361's status from 'in progress' to 'to do'  : Member with Scrum Role Team Member  made the changes. 
+05022017020112	portalintegrators@gmail.com changed story with id RECURRING STORY-362's status from 'in progress' to 'to do'  : Member with Scrum Role Team Member  made the changes. 
+05022017195657	portalintegrators@gmail.com changed story with id RECURRING STORY-376's comments from '1' to '32'  : Member with Scrum Role Scrum Master Team Member  made the changes.   Edit to a committed User Story for Sprint 14 
+05022017200006	portalintegrators@gmail.com changed story with id RECURRING STORY-376's status from 'in progress' to 'to do'  : Member with Scrum Role Scrum Master Team Member  made the changes. 
+05022017232158	portalintegrators@gmail.com : Member with Scrum Role Team Member  created the story 379. 
+05022017232341	portalintegrators@gmail.com changed story with id 329's Order from '362' to '379'  : Member with Scrum Role Team Member  reordered the row.  
+05022017235814	portalintegrators@gmail.com changed story with id 379's Order from '371' to '379'  : Member with Scrum Role Team Member  reordered the row.  

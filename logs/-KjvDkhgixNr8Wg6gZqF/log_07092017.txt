@@ -1,0 +1,2 @@
+07092017113124	withee@gmail.com changed story with id 29's acceptance_test from 'All Scrum activities are built into the app and guide the team.' to 'All Scrum activities are built into the app and guide the team. These include: Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.'  
+07092017113124	withee@gmail.com changed story with id 29's story_points from '100' to ''  

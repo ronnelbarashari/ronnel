@@ -1,0 +1,9 @@
+08182017132151	withee@gmail.com changed story with id 485's i_want from 'to have a type an Organizational Account in Rocket Scrum.' to 'to have an Organization Account in Rocket Scrum.'  : Member with Scrum Role Team Member made the changes. 
+08182017132151	withee@gmail.com changed story with id 485's acceptance_test from 'A way to create an Organization Account. When I create the Organization Account I am the Administrator of the Organization Account.' to 'A way to create an Organization Account. When I create the Organization Account I am the Administrator of the Organization Account. I can add people to the organization.'  : Member with Scrum Role Team Member made the changes. 
+08182017132151	withee@gmail.com changed story with id 485's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08182017132235	withee@gmail.com changed story with id 438's Order from '367' to '368'  : Member with Scrum Role Team Member reordered the row.  
+08182017132949	withee@gmail.com changed story with id 485's Order from '298' to '299'  : Member with Scrum Role Team Member reordered the row.  
+08182017133000	withee@gmail.com changed story with id 440's Order from '296' to '300'  : Member with Scrum Role Team Member reordered the row.  
+08182017133018	withee@gmail.com changed story with id 155's Order from '295' to '300'  : Member with Scrum Role Team Member reordered the row.  
+08182017133026	withee@gmail.com changed story with id 440's Order from '299' to '300'  : Member with Scrum Role Team Member reordered the row.  
+08182017133039	withee@gmail.com changed story with id 298's Order from '294' to '298'  : Member with Scrum Role Team Member reordered the row.  

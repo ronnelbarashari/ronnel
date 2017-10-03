@@ -1,0 +1,29 @@
+09272017013714	portalintegrators@gmail.com added story with id 2 : Member with Scrum Role Stakeholder made the changes. 
+09272017013923	portalintegrators@gmail.com added story with id 598 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017013939	portalintegrators@gmail.com added story with id 600 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017013954	portalintegrators@gmail.com added story with id 476 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014021	portalintegrators@gmail.com added story with id 577 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014051	portalintegrators@gmail.com added story with id 504 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014130	portalintegrators@gmail.com added story with id 502 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014221	portalintegrators@gmail.com added story with id 460 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014527	portalintegrators@gmail.com added story with id 578 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014535	portalintegrators@gmail.com added story with id 480 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014541	portalintegrators@gmail.com added story with id 485 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014548	portalintegrators@gmail.com added story with id 516 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014552	portalintegrators@gmail.com added story with id 581 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014559	portalintegrators@gmail.com added story with id 535 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017014605	portalintegrators@gmail.com added story with id 542 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015055	portalintegrators@gmail.com added story with id 447 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015104	portalintegrators@gmail.com added story with id 572 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015111	portalintegrators@gmail.com added story with id 426 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015118	portalintegrators@gmail.com added story with id 541 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015126	portalintegrators@gmail.com added story with id 570 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017015139	portalintegrators@gmail.com added story with id 371 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09272017181808	withee@gmail.com : Member with Scrum Role Stakeholder created the story 603. 
+09272017181916	withee@gmail.com changed story with id 564's Order from '456' to '457'  : Member with Scrum Role Stakeholder reordered the row. 
+09272017181916	withee@gmail.com changed story with id 603's acceptance_test from 'Figure out a way to check a site based on various bandwidth performance. No network, minimal, 56kb, etc.. up to 1 gig.' to 'Figure out a way to check a site based on various bandwidth performance. No network, minimal, 56kb, etc.. up to 1 gig. Rocket Scrum should then generate User Stories based on the results.'  : Member with Scrum Role Stakeholder made the changes. 
+09272017223511	portalintegrators@gmail.com changed story with id 582's Order from '360' to '361'  : Member with Scrum Role Stakeholder reordered the row. 
+09272017223518	portalintegrators@gmail.com changed story with id 298's Order from '360' to '361'  : Member with Scrum Role Stakeholder reordered the row. 
+09272017230642	portalintegrators@gmail.com changed story with id 371's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09272017230716	portalintegrators@gmail.com changed story with id 574's Order from '354' to '355'  : Member with Scrum Role Stakeholder reordered the row. 
+09272017230852	portalintegrators@gmail.com changed story with id 603's Order from '603' to '604'  : Member with Scrum Role Stakeholder reordered the row. 

@@ -1,0 +1,30 @@
+07252017090845	portalintegrators@gmail.com changed story with id 399's story_points from '' to '5'  
+07252017090845	portalintegrators@gmail.com changed story with id 399's status from '' to 'to do'  
+07252017120149	withee@gmail.com : Member with Scrum Role Team Member created the story 401. 
+07252017120210	withee@gmail.com changed story with id 400's Order from '400' to '401'  : Member with Scrum Role Team Member reordered the row.  
+07252017120210	withee@gmail.com changed story with id 400's Order from '400' to '312'  : Member with Scrum Role Team Member reordered the row.  
+07252017142210	withee@gmail.com changed story with id 401's acceptance_test from 'A list of supported device/browser/OS on the wiki.' to 'A list of supported device/browser/OS on the wiki. Also, if the page can detect the browser and it is not supported, can we show a message that the browser is not supported and provide a link to the list of supported browsers? If we need another user story to do this that is OK.'  : Member with Scrum Role Team Member made the changes. 
+07252017142210	withee@gmail.com changed story with id 401's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+07252017191317	withee@gmail.com : Member with Scrum Role Team Member created the story 402. 
+07252017191339	withee@gmail.com changed story with id 400's Order from '312' to '402'  : Member with Scrum Role Team Member reordered the row.  
+07252017191339	withee@gmail.com changed story with id 400's Order from '312' to '313'  : Member with Scrum Role Team Member reordered the row.  
+07252017191359	withee@gmail.com changed story with id 402's Order from '229' to '232'  : Member with Scrum Role Team Member reordered the row.  
+07252017191359	withee@gmail.com changed story with id 402's Order from '229' to '232'  : Member with Scrum Role Team Member reordered the row.  
+07252017194804	portalintegrators@gmail.com changed story with id Recurring-Check List-372's status from 'in progress' to 'done'  
+07252017194818	portalintegrators@gmail.com changed story with id RECURRING STORY-373's status from 'in progress' to 'done'  
+07252017194832	portalintegrators@gmail.com changed story with id 346's status from 'in progress' to 'done'  
+07252017194848	portalintegrators@gmail.com changed story with id 349's status from 'in progress' to 'done'  
+07252017194902	portalintegrators@gmail.com changed story with id 347's status from 'in progress' to 'done'  
+07252017194918	portalintegrators@gmail.com changed story with id 368's status from 'in progress' to 'done'  
+07252017194932	portalintegrators@gmail.com changed story with id 369's status from 'in progress' to 'done'  
+07252017194949	portalintegrators@gmail.com changed story with id 204's status from 'in progress' to 'done'  
+07252017195002	portalintegrators@gmail.com changed story with id 351's status from 'in progress' to 'done'  
+07252017195025	portalintegrators@gmail.com changed story with id 367's status from 'in progress' to 'done'  
+07252017201912	withee@gmail.com : Member with Scrum Role Team Member created the story 403. 
+07252017201933	withee@gmail.com changed story with id 400's Order from '313' to '403'  : Member with Scrum Role Team Member reordered the row.  
+07252017201933	withee@gmail.com changed story with id 400's Order from '313' to '314'  : Member with Scrum Role Team Member reordered the row.  
+07252017214101	withee@gmail.com : Member with Scrum Role Team Member created the story 404. 
+07252017214126	withee@gmail.com changed story with id 400's Order from '314' to '404'  : Member with Scrum Role Team Member reordered the row.  
+07252017214126	withee@gmail.com changed story with id 400's Order from '314' to '315'  : Member with Scrum Role Team Member reordered the row.  
+07252017214151	withee@gmail.com changed story with id 398's Order from '314' to '315'  : Member with Scrum Role Team Member reordered the row.  
+07252017214151	withee@gmail.com changed story with id 398's Order from '314' to '315'  : Member with Scrum Role Team Member reordered the row.  

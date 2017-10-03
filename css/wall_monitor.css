@@ -1,0 +1,48 @@
+li {
+    display: inline-block;
+    width: 16%;
+    text-align: right;
+}
+#wallmonitor_body {
+    font-size: 1.3vw;
+    line-height: 0.7;
+}
+
+#header{
+    padding-bottom: 0.01%;
+}
+
+.section-2{
+    width: 32%;
+
+}
+.wm_center{
+    text-align: center;
+}
+
+#sprint_start_date_wallmonitor, #sprint_end_date_wallmonitor, #current_date{
+    border: solid 0px;
+    font-size: 1.3vw;
+    text-align: center;
+}
+#sprint_start_date_wallmonitor{
+    width: 100%
+}
+#rs-et-secondary-nav > li{
+    width: 100%
+}
+#main-loading-container_wall_monitor {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    height: auto;
+    background-color: white;
+    z-index: 111111;
+}
+
+#wallmonitor_status {
+    padding-top: 147px;
+    width: 90%;
+    margin: 0 auto;
+    display: none;
+}

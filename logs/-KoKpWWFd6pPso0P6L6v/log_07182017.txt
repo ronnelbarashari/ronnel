@@ -1,0 +1,10 @@
+07182017202100	portalintegrators@gmail.com changed story with id 27's story_points from '8' to '13'  
+07182017202100	portalintegrators@gmail.com changed story with id 27's status from '' to 'to do'  
+07182017233017	portalintegrators@gmail.com changed story with id 11's status from 'in progress' to 'done'  
+07182017233021	portalintegrators@gmail.com changed story with id 12's status from 'in progress' to 'done'  
+07182017233024	portalintegrators@gmail.com changed story with id 13's status from 'in progress' to 'done'  
+07182017233029	portalintegrators@gmail.com changed story with id 14's status from 'in progress' to 'done'  
+07182017233033	portalintegrators@gmail.com changed story with id 15's status from 'in progress' to 'done'  
+07182017233042	portalintegrators@gmail.com changed story with id 16's status from 'in progress' to 'done'  
+07182017233046	portalintegrators@gmail.com changed story with id 17's status from 'in progress' to 'done'  
+07182017233729	portalintegrators@gmail.com changed story with id 26's story_points from '0' to '13'  : Edit to a committed User Story for Sprint 2 

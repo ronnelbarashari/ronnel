@@ -1,0 +1,16 @@
+08292017053152	portalintegrators@gmail.com changed story with id 12's story_points from '2' to '1'  
+08292017053152	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  
+08292017053158	portalintegrators@gmail.com changed story with id 12's story_points from '1' to '89'  
+08292017053535	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  
+08292017053659	portalintegrators@gmail.com changed story with id 13's status from '' to 'to do'  
+08292017053725	portalintegrators@gmail.com changed story with id 13's story_points from '3' to ''  
+08292017053725	portalintegrators@gmail.com changed story with id 13's status from '' to 'to do'  
+08292017053736	portalintegrators@gmail.com changed story with id 14's story_points from '1' to ''  
+08292017053736	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+08292017053855	portalintegrators@gmail.com changed story with id 13's story_points from '3' to ''  
+08292017054006	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  
+08292017054139	portalintegrators@gmail.com changed story with id 15's story_points from '5' to ''  
+08292017054139	portalintegrators@gmail.com changed story with id 15's status from '' to 'to do'  
+08292017054146	portalintegrators@gmail.com changed story with id 13's story_points from '144' to ''  
+08292017054152	portalintegrators@gmail.com changed story with id 14's story_points from '89' to ''  
+08292017054310	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  

@@ -1,0 +1,25 @@
+05122017020134	portalintegrators@gmail.com changed story with id 124's story_points from 'r' to '3'  
+05122017020134	portalintegrators@gmail.com changed story with id 124's status from '' to 'to do'  
+05122017022449	portalintegrators@gmail.com changed story with id RECURRING STORY-1's status from 'in progress' to 'done'  
+05122017041421	portalintegrators@gmail.com changed story with id RECURRING STORY-4's status from 'in progress' to 'done'  
+05122017041435	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+05122017041444	portalintegrators@gmail.com changed story with id RECURRING STORY-5's status from 'in progress' to 'done'  
+05122017041450	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+05122017044251	portalintegrators@gmail.com changed story with id RECURRING STORY-5's status from 'in progress' to 'done'  
+05122017044254	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+05122017044257	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+05122017190319	portalintegrators@gmail.com changed story with id RECURRING STORY-1's status from 'in progress' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+05122017190542	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 8. 
+05122017190551	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 9. 
+05122017190556	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 10. 
+05122017190600	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 11. 
+05122017190609	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 12. 
+05122017190803	portalintegrators@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05122017191013	portalintegrators@gmail.com : Member with Scrum Role Team Member created the story 1. 
+05122017193122	portalintegrators@gmail.com changed story with id 17's Order from '18' to '18'  : Member with Scrum Role Team Member reordered the row.  
+05122017193124	portalintegrators@gmail.com changed story with id 17's Order from '18' to '18'  : Member with Scrum Role Team Member reordered the row.  
+05122017193126	portalintegrators@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05122017205410	portalintegrators@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05122017230407	portalintegrators@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05122017235032	portalintegrators@gmail.com changed story with id RECURRING STORY-7's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 
+05122017235035	portalintegrators@gmail.com changed story with id 6's status from 'in progress' to 'done'  : Member with Scrum Role Team Member made the changes. 

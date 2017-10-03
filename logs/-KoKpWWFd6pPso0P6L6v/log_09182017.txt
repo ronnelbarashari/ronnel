@@ -1,0 +1,4 @@
+09182017103708	withee@gmail.com : Member with Scrum Role Stakeholder created the story 185. 
+09182017125744	withee@gmail.com : Member with Scrum Role Stakeholder created the story 186. 
+09182017161740	withee@gmail.com : Member with Scrum Role Stakeholder created the story 187. 
+09182017161753	withee@gmail.com changed story with id 186's Order from '186' to '187'  : Member with Scrum Role Stakeholder reordered the row. 

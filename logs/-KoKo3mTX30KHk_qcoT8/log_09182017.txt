@@ -1,0 +1,51 @@
+09182017190241	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 117. 
+09182017190332	portalintegrators@gmail.com changed story with id 117's acceptance_test from 'check Divi installation and look for way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL
+
+from Elegant support:
+check the jquery selectors in custom.js of the /js/ folder, as it's most likely one of those selectors that doesn't play nice with #! 
+' to 'check Divi installation and look for way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL
+
+list of stories needed for this
+
+'  : Member with Scrum Role Stakeholder made the changes. 
+09182017190332	portalintegrators@gmail.com changed story with id 117's comments from '' to 'Response from Elegant support:
+check the jquery selectors in custom.js of the /js/ folder, as it's most likely one of those selectors that doesn't play nice with #! '  : Member with Scrum Role Stakeholder made the changes. 
+09182017210733	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 117. 
+09182017211002	portalintegrators@gmail.com : Member with Scrum Role Stakeholder restored the story 117. 
+09182017211016	portalintegrators@gmail.com changed story with id 117's story_points from '8' to '21'  : Member with Scrum Role Stakeholder made the changes. 
+09182017211016	portalintegrators@gmail.com changed story with id 117's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09182017211103	portalintegrators@gmail.com changed story with id 117's acceptance_test from 'check Divi installation and look for way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL
+
+list of stories needed for this
+
+' to 'check Divi installation and look for a way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL
+
+this is a story to explore the possibilities of making hashbang syntax work with Divi
+
+'  : Member with Scrum Role Stakeholder made the changes. 
+09182017211120	portalintegrators@gmail.com changed story with id 117's i_want from 'to figure out how to make the hashbang syntax work with Divi' to 'to figure out how to make the hashbang syntax work with Divi
+
+check Divi installation and look for a way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL'  : Member with Scrum Role Stakeholder made the changes. 
+09182017211120	portalintegrators@gmail.com changed story with id 117's acceptance_test from 'check Divi installation and look for a way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL
+
+this is a story to explore the possibilities of making hashbang syntax work with Divi
+
+' to '
+
+this is a story to explore the possibilities of making hashbang syntax work with Divi
+
+'  : Member with Scrum Role Stakeholder made the changes. 
+09182017214133	portalintegrators@gmail.com changed story with id 117's i_want from 'to figure out how to make the hashbang syntax work with Divi
+
+check Divi installation and look for a way to possibly integrate ajax functionality through custom functionality since WordPress doesn't add #! in the URL's by default so the end user won't reach any URL's with #! in the URL' to 'to figure out if hashbang #! is something we can use on our URLs
+
+this is a story to explore what is or isn't working on the hashtag syntax, issues with WordPress and/or Divi theme, etc.'  : Member with Scrum Role Stakeholder made the changes. 
+09182017214133	portalintegrators@gmail.com changed story with id 117's so_that from 'I can use #! in our urls' to 'I can determine if hashbang is something we can potentially use'  : Member with Scrum Role Stakeholder made the changes. 
+09182017214133	portalintegrators@gmail.com changed story with id 117's acceptance_test from '
+
+this is a story to explore the possibilities of making hashbang syntax work with Divi
+
+' to 'understanding of how it is currently, when using hashbang URLs by checking errors we're getting or what's not working with WordPress and Divi
+
+check WordPress and current Divi setup and see if this is something that is already integrated that just needs to be fixed or something not currently supported and something we would need to do through custom functionality, if possible '  : Member with Scrum Role Stakeholder made the changes. 
+09182017214133	portalintegrators@gmail.com changed story with id 117's story_points from '21' to '34'  : Member with Scrum Role Stakeholder made the changes. 

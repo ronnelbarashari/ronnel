@@ -1,0 +1,3 @@
+09142017181133	withee@gmail.com : Member with Scrum Role Stakeholder created the story 164. 
+09142017181846	withee@gmail.com : Member with Scrum Role Stakeholder created the story 165. 
+09142017223358	portalintegrators@gmail.com changed story with id 128's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 10 

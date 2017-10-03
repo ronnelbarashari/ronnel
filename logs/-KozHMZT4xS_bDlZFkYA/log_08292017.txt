@@ -1,0 +1,44 @@
+08292017013804	portalintegrators@gmail.com changed story with id 107's story_points from '' to '3'  
+08292017013804	portalintegrators@gmail.com changed story with id 107's status from '' to 'to do'  
+08292017013817	portalintegrators@gmail.com changed story with id 105's story_points from '' to '3'  
+08292017013817	portalintegrators@gmail.com changed story with id 105's status from '' to 'to do'  
+08292017190528	portalintegrators@gmail.com changed story with id 94's status from 'in progress' to 'done'  
+08292017190532	portalintegrators@gmail.com changed story with id Recurring-Check List-102's status from 'in progress' to 'done'  
+08292017190537	portalintegrators@gmail.com changed story with id Recurring-Site Support-103's status from 'in progress' to 'done'  
+08292017190541	portalintegrators@gmail.com changed story with id 90's status from 'in progress' to 'done'  
+08292017190545	portalintegrators@gmail.com changed story with id 96's status from 'in progress' to 'done'  
+08292017190552	portalintegrators@gmail.com changed story with id 97's status from 'in progress' to 'done'  
+08292017190558	portalintegrators@gmail.com changed story with id 98's status from 'in progress' to 'done'  
+08292017190602	portalintegrators@gmail.com changed story with id 95's status from 'in progress' to 'done'  
+08292017190607	portalintegrators@gmail.com changed story with id 100's status from 'in progress' to 'done'  
+08292017190620	portalintegrators@gmail.com changed story with id 89's status from 'in progress' to 'done'  
+08292017190623	portalintegrators@gmail.com changed story with id 91's status from 'in progress' to 'done'  
+08292017190745	portalintegrators@gmail.com changed story with id 99's status from 'in progress' to 'done'  
+08292017190752	portalintegrators@gmail.com changed story with id 77's status from 'in progress' to 'done'  
+08292017190756	portalintegrators@gmail.com changed story with id 93's status from 'in progress' to 'done'  
+08292017190803	portalintegrators@gmail.com changed story with id 101's status from 'in progress' to 'done'  
+08292017190807	portalintegrators@gmail.com changed story with id 104's status from 'in progress' to 'done'  
+08292017192929	portalintegrators@gmail.com changed story with id 109's acceptance_test from 'Can we check that the people on the spreadsheet below have access to the Parenting in Digital Age (6 Units) please. 
+
+https://docs.google.com/spreadsheets/d/1TJbAVVV0jn09Nq05slCyKZ-pg2X-bokjFQlPoJmJYtI/edit?usp=sharing
+' to 'Can we check that the people on the spreadsheet below have access to the Parenting in Digital Age (6 Units) please. 
+
+https://docs.google.com/spreadsheets/d/1TJbAVVV0jn09Nq05slCyKZ-pg2X-bokjFQlPoJmJYtI/edit?usp=sharing
+
+If they don't have access, give them access to the course'  
+08292017192929	portalintegrators@gmail.com changed story with id 109's status from '' to 'to do'  
+08292017193848	portalintegrators@gmail.com changed story with id 111's i_want from 'to move the Log In button on top of the social media logins' to 'to move the Log In button on top of the social media logins and the Lost your password? under the Log In button'  
+08292017193848	portalintegrators@gmail.com changed story with id 111's status from '' to 'to do'  
+08292017201028	portalintegrators@gmail.com changed story with id 114's story_points from '' to '3'  
+08292017201028	portalintegrators@gmail.com changed story with id 114's status from '' to 'to do'  
+08292017201715	portalintegrators@gmail.com changed story with id 115's comments from '' to 'Reference is the Teaching Empathy course'  
+08292017201715	portalintegrators@gmail.com changed story with id 115's status from '' to 'to do'  
+08292017203937	portalintegrators@gmail.com changed story with id 116's i_want from 'to make the Recommended Courses box similar to the Related Courses box' to 'to remove the badge in the Recommended Courses box'  
+08292017203937	portalintegrators@gmail.com changed story with id 116's so_that from 'the box for the courses in the LMS is consistent' to 'the Recommended Courses box looks nicer and more organized'  
+08292017203937	portalintegrators@gmail.com changed story with id 116's acceptance_test from 'change the Recommended Courses box similar to the Related Courses box with border around the image' to 'remove the badge in the Recommended Courses box. Similar to the Hold the Learning Community Accountable course'  
+08292017203937	portalintegrators@gmail.com changed story with id 116's status from '' to 'to do'  
+08292017204043	portalintegrators@gmail.com changed story with id 113's i_want from 'to remove the Reviews tab and the (_ Reviews) text and the Write a Review button in the courses in the LMS' to 'to remove the Reviews tab, (_ Reviews) text, Write a Review button, and the star ratings in the courses in the LMS'  
+08292017204043	portalintegrators@gmail.com changed story with id 113's acceptance_test from 'remove the Reviews tab and the (_ Reviews) text and the Write a Review button in the courses in the LMS. make sure to check for any references to the Review functionality and hide those as well.' to 'remove the Reviews tab and the (_ Reviews) text and the Write a Review button in the courses in the LMS. make sure to check for any references to the Review functionality and hide those as well. Also remove the star ratings'  
+08292017204043	portalintegrators@gmail.com changed story with id 113's status from '' to 'to do'  
+08292017234959	portalintegrators@gmail.com added story with id 106 : This story has been added and sprint has already started.  
+08292017235250	portalintegrators@gmail.com changed story with id 110's comments from '' to 'https://wordpress.org/plugins/woocommerce-product-stock-alert/'  : Edit to a committed User Story for Sprint 68 

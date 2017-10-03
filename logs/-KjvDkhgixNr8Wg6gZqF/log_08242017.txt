@@ -1,0 +1,6 @@
+08242017102855	withee@gmail.com : Member with Scrum Role Team Member created the story 517. 
+08242017102913	withee@gmail.com changed story with id 495's Order from '391' to '517'  : Member with Scrum Role Team Member reordered the row.  
+08242017103239	withee@gmail.com : Member with Scrum Role Team Member created the story 518. 
+08242017120650	withee@gmail.com : Member with Scrum Role Team Member created the story 519. 
+08242017120704	withee@gmail.com changed story with id 518's Order from '518' to '519'  : Member with Scrum Role Team Member reordered the row.  
+08242017130423	withee@gmail.com : Member with Scrum Role Team Member created the story 520. 

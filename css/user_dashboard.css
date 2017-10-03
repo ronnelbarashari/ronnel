@@ -1,0 +1,137 @@
+#dashboard-container{max-width:90%;margin:0 auto;margin-top:60px;}
+.dashboard-section{padding-bottom:40px;}
+.dashboard-section-title{font-size:1.2em;font-weight:bolder;}
+.dashboard-link, .dashboard-new{color:#00f;}
+.dashboard-new{font-size:0.8em;}
+.dashboard-team-container{display:table;width:100%;}
+.dashboard-column{display:table-cell;}
+.dashboard-column.left{width:15%;}
+.dashboard-column.right{width:85%;}
+.dashboard-modal-profile,.scrum-events-modal,.best-practices-modal{position:fixed;transform:translate(-50%, -50%);left:50%;top:50%;}
+.dashboard-modal-profile-content{padding:20px;}
+.dashboard-column.left.profile{width:35%;}
+.dashboard-column.right.profile{width:65%;}
+.dashboard-modal{float:right;padding-top:5px;}
+#close-dashboard-modal{color:#fff;padding:10px 10px;font-size:15px;cursor:pointer;background:-webkit-linear-gradient(top, #c3681a 0%, #ce771e 100%);border:1px solid black;}
+.dashboard-team-footer{float:right;padding-top:15px;}
+.dashboard-team-footer-btn{font-size:15px;cursor:pointer;background:-webkit-linear-gradient(top, #c3681a 0%, #ce771e 100%);border:1px solid black;padding:5px 10px;text-decoration:none;color:#fff;margin-right:19px;}
+#teams-description{width:98% !important;}
+#backlogs-title{line-height:1.8em;}
+.container.dashboard_no_access{margin-top:0px !important;}
+.btn.waves-effect.waves-light{padding:10px 30px;border:none;box-shadow:inset 0 0 0 1px #27496d;}
+.btn.waves-effect.waves-light a{text-decoration:none;}
+.dashboard-loading-animation-initial{position:fixed;transform:translate(-50%, -50%);left:50%;top:50%;}
+select,textarea,input[type="text"]{ font-size: 1em;}
+
+/*animation*/
+#loader {position:relative;width:240px;height:29px}
+.loader {
+    position:absolute;
+    top:0;
+    background-color:#878787;
+    width:29px;
+    height:29px;
+    -moz-animation-name:bounce_loader;
+    -moz-animation-duration:1.4s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-direction:linear;
+    -moz-transform:scale(.3);
+    -webkit-animation-name:bounce_loader;
+    -webkit-animation-duration:1.4s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-direction:linear;
+    -webkit-transform:scale(.3);
+    -ms-animation-name:bounce_loader;
+    -ms-animation-duration:1.4s;
+    -ms-animation-iteration-count:infinite;
+    -ms-animation-direction:linear;
+    -ms-transform:scale(.3);
+    -o-animation-name:bounce_loader;
+    -o-animation-duration:1.4s;
+    -o-animation-iteration-count:infinite;
+    -o-animation-direction:linear;
+    -o-transform:scale(.3);
+    animation-name:bounce_loader;
+    animation-duration:1.4s;
+    animation-iteration-count:infinite;
+    animation-direction:linear;
+    transform:scale(.3);
+}
+
+#loader_1 {
+    left:0;
+    -moz-animation-delay:0.56s;
+    -webkit-animation-delay:0.56s;
+    -ms-animation-delay:0.56s;
+    -o-animation-delay:0.56s;
+    animation-delay:0.56s;
+}
+
+#loader_2 {
+    left:30px;
+    -moz-animation-delay:0.7s;
+    -webkit-animation-delay:0.7s;
+    -ms-animation-delay:0.7s;
+    -o-animation-delay:0.7s;
+    animation-delay:0.7s;
+}
+
+#loader_3 {
+    left:60px;
+    -moz-animation-delay:0.84s;
+    -webkit-animation-delay:0.84s;
+    -ms-animation-delay:0.84s;
+    -o-animation-delay:0.84s;
+    animation-delay:0.84s;
+}
+
+#loader_4 {
+    left:90px;
+    -moz-animation-delay:0.98s;
+    -webkit-animation-delay:0.98s;
+    -ms-animation-delay:0.98s;
+    -o-animation-delay:0.98s;
+    animation-delay:0.98s;
+}
+
+#loader_5 {
+    left:120px;
+    -moz-animation-delay:1.12s;
+    -webkit-animation-delay:1.12s;
+    -ms-animation-delay:1.12s;
+    -o-animation-delay:1.12s;
+    animation-delay:1.12s;
+}
+
+@-moz-keyframes bounce_loader {
+    0% { -moz-transform:scale(1); background-color:#878787; }
+    100% { -moz-transform:scale(.3); background-color:#AD4725; }
+}
+
+@-webkit-keyframes bounce_loader {
+    0% { -webkit-transform:scale(1); background-color:#878787; }
+    100% { -webkit-transform:scale(.3); background-color:#AD4725; }
+}
+
+@-ms-keyframes bounce_loader {
+    0% { -ms-transform:scale(1); background-color:#878787; }
+    100% { -ms-transform:scale(.3); background-color:#AD4725; }
+}
+
+@-o-keyframes bounce_loader {
+    0% { -o-transform:scale(1); background-color:#878787; }
+    100% { -o-transform:scale(.3); background-color:#AD4725; }
+}
+
+@keyframes bounce_loader {
+    0% { transform:scale(1); background-color:#878787; }
+    100% { transform:scale(.3); background-color:#AD4725; }
+}
+#tbl_backlog_po tr td{
+    border: 0px;
+    padding: 0px;
+}
+#tbl_backlog_po{
+    width: 30%;
+    margin-left: 3%;
+}

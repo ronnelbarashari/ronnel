@@ -1,0 +1,6 @@
+08032017043048	portalintegrators@gmail.com changed story with id 6's acceptance_test from 'I can get familiar with how we can get data from Intercom before putting it live' to 'I can get familiar with how we can get data from Intercom before going live'  
+08032017043048	portalintegrators@gmail.com changed story with id 6's status from '' to 'to do'  
+08032017043101	portalintegrators@gmail.com changed story with id 6's story_points from '3' to '5'  
+08032017053816	portalintegrators@gmail.com changed story with id 7's story_points from '13' to '21'  
+08032017053816	portalintegrators@gmail.com changed story with id 7's status from '' to 'to do'  
+08032017053828	portalintegrators@gmail.com changed story with id 7's story_points from '21' to '34'  

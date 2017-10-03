@@ -1,0 +1,22 @@
+07262017015445	portalintegrators@gmail.com changed story with id 405's story_points from '5' to '13'  
+07262017015445	portalintegrators@gmail.com changed story with id 405's status from '' to 'to do'  
+07262017015724	portalintegrators@gmail.com changed story with id 402's acceptance_test from 'Our Rocket Scrum plugin for WordPress should provide a configuration to specify the backlog. It should also include a username/password area that has write access to the backlog. The plugin should check for updates each day and when a new update is available it should add the update to the specified backlog.' to 'Our Rocket Scrum plugin for WordPress should provide a configuration to specify the backlog. It should also include a username/password area that has write access to the backlog. '  
+07262017015724	portalintegrators@gmail.com changed story with id 402's status from '' to 'to do'  
+07262017015731	portalintegrators@gmail.com changed story with id 406's acceptance_test from 'the plugin should check for updates each day' to 'The plugin should check for updates each day and when a new update is available it should add the update to the specified backlog.'  
+07262017015731	portalintegrators@gmail.com changed story with id 406's status from '' to 'to do'  
+07262017020517	portalintegrators@gmail.com changed story with id 405's story_points from '3' to '13'  
+07262017021538	portalintegrators@gmail.com added story with id 401 : This story has been added and sprint has already started.  
+07262017021553	portalintegrators@gmail.com added story with id 405 : This story has been added and sprint has already started.  
+07262017021608	portalintegrators@gmail.com added story with id 362 : This story has been added and sprint has already started.  
+07262017021621	portalintegrators@gmail.com added story with id 371 : This story has been added and sprint has already started.  
+07262017021703	portalintegrators@gmail.com added story with id 402 : This story has been added and sprint has already started.  
+07262017021747	portalintegrators@gmail.com added story with id 398 : This story has been added and sprint has already started.  
+07262017021935	portalintegrators@gmail.com added story with id 406 : This story has been added and sprint has already started.  
+07262017032846	portalintegrators@gmail.com added story with id 370 : This story has been added and sprint has already started.  
+07262017041224	portalintegrators@gmail.com added story with id 415 : This story has been added and sprint has already started.  
+07262017041225	portalintegrators@gmail.com added story with id 416 : This story has been added and sprint has already started.  
+07262017041226	portalintegrators@gmail.com added story with id 417 : This story has been added and sprint has already started.  
+07262017041227	portalintegrators@gmail.com added story with id 417 : This story has been added and sprint has already started.  
+07262017070716	withee@gmail.com : Member with Scrum Role Team Member created the story 418. 
+07262017070744	withee@gmail.com changed story with id 371's Order from '324' to '418'  : Member with Scrum Role Team Member reordered the row.  
+07262017070745	withee@gmail.com changed story with id 371's Order from '324' to '325'  : Member with Scrum Role Team Member reordered the row.  

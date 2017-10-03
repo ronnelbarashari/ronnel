@@ -1,0 +1,38 @@
+09142017220947	portalintegrators@gmail.com changed story with id 50's acceptance_test from 'Email address is automatically filled up' to 'Add User email field should automatically pull from the user's first and last name to create the email (i.e. first-last@domain.com)
+
+The format could change from client to client so there should be a way for adjustments. for example a client could have bob@domain.com, bsmith@domain.com, bobs@domain.com or bob.smith@domain.com'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017220947	portalintegrators@gmail.com changed story with id 50's story_points from '5' to '8'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017220958	portalintegrators@gmail.com changed story with id 53's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09142017221245	portalintegrators@gmail.com changed story with id 51's acceptance_test from 'add a checkbox to set the manager field as required or not' to 'Manager field should pull up from a list of existing users and should have a drop down to select a user from the user's list
+
+On the admin side, can this field have an option to change from required and not required.  Typically, this is when adding a new company, the user list is empty'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017221245	portalintegrators@gmail.com changed story with id 51's comments from 'Manager field should pull up from a list of existing users' to '
+
+'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017221315	portalintegrators@gmail.com changed story with id 52's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09142017221331	portalintegrators@gmail.com changed story with id 53's Order from '54' to '55'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017221433	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 56. 
+09142017221438	portalintegrators@gmail.com changed story with id 53's Order from '55' to '56'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017221554	portalintegrators@gmail.com changed story with id 51's story_points from '13' to '8'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017222041	portalintegrators@gmail.com changed story with id 51's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017222524	portalintegrators@gmail.com changed story with id 51's story_points from '13' to '8'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017222718	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 57. 
+09142017222725	portalintegrators@gmail.com changed story with id 53's Order from '56' to '57'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017222736	portalintegrators@gmail.com changed story with id 56's story_points from '3' to '5'  : Member with Scrum Role Stakeholder made the changes. 
+09142017222749	portalintegrators@gmail.com changed story with id 53's story_points from '13' to '8'  : Member with Scrum Role Stakeholder made the changes. 
+09142017222840	portalintegrators@gmail.com changed story with id 57's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes. 
+09142017222851	portalintegrators@gmail.com changed story with id 56's story_points from '5' to '3'  : Member with Scrum Role Stakeholder made the changes. 
+09142017222856	portalintegrators@gmail.com changed story with id 52's Order from '56' to '57'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017222913	portalintegrators@gmail.com changed story with id 53's acceptance_test from 'show text instead of IDs on certain fields on Users History list' to 'Make sure all columns show the data and not the item ID.'  : Member with Scrum Role Stakeholder made the changes. 
+09142017223147	portalintegrators@gmail.com added story with id 57 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09142017223149	portalintegrators@gmail.com added story with id 56 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09142017223205	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 53. 
+09142017223225	portalintegrators@gmail.com : Member with Scrum Role Stakeholder restored the story 53. 
+09142017224517	portalintegrators@gmail.com changed story with id 52's Order from '57' to '58'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017233913	portalintegrators@gmail.com changed story with id 56's as_a from 'PI -SharePoint Vendor' to 'PI -SharePoint Vendor '  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017233922	portalintegrators@gmail.com changed story with id 56's as_a from 'PI -SharePoint Vendor ' to 'PI - SharePoint Vendor '  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 16 
+09142017234455	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 59. 
+09142017234603	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 60. 
+09142017234620	portalintegrators@gmail.com changed story with id 59's i_want from 'the client to select from a list of email addresses that when selected will automatically populate all user information fields except Current Workstation' to 'Edit User - the client to select from a list of email addresses that when selected will automatically populate all user information fields except Current Workstation'  : Member with Scrum Role Stakeholder made the changes. 
+09142017234631	portalintegrators@gmail.com changed story with id 60's i_want from 'The client to be able to select by using the “Email Address” field, this should be a drop down they would choose the users.  Once the user is chosen all fields accept for “Remove Access Date/Time PST” should auto populate.' to 'Remove User - The client to be able to select by using the “Email Address” field, this should be a drop down they would choose the users.  Once the user is chosen all fields accept for “Remove Access Date/Time PST” should auto populate.'  : Member with Scrum Role Stakeholder made the changes. 
+09142017234744	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 61. 

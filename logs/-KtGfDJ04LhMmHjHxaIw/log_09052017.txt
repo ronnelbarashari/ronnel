@@ -1,0 +1,15 @@
+09052017035359	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the backlog Test Backlog 2. 
+09052017035431	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 1. 
+09052017035949	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 2. 
+09052017035959	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 3. 
+09052017040126	portalintegrators@gmail.com added story with id 2 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09052017040152	portalintegrators@gmail.com added story with id 3 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09052017041421	portalintegrators@gmail.com added story with id 1 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09052017041429	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09052017041452	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 1. 
+09052017041528	portalintegrators@gmail.com : Member with Scrum Role Stakeholder restored the story 1. 
+09052017041600	portalintegrators@gmail.com changed story with id 3's Order from '2' to '5'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017041607	portalintegrators@gmail.com changed story with id 3's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09052017041616	portalintegrators@gmail.com changed story with id 1's Order from '5' to '6'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017041643	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 7. 
+09052017041726	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 7. 

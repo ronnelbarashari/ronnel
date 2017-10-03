@@ -1,0 +1,25 @@
+07122017190923	withee@gmail.com changed story with id 345's i_want from 'the Name of the Product Backlog at the top of the Word document that is exported on Walkthrough Templates feature.' to 'the Name of the Product Backlog and the Sprint Dates (start and stop) in addition to the Sprint # at the top of the Word document that is exported on Walkthrough Templates feature.'  
+07122017190923	withee@gmail.com changed story with id 345's acceptance_test from 'The name of the Product Backlog at the top of the Walkthrough Templates feature for exporting into Word.' to 'The name of the Product Backlog and the Sprint Date (start and stop) in addition to the Sprint # at the top of the Walkthrough Templates feature for exporting into Word.'  
+07122017190923	withee@gmail.com changed story with id 345's status from '' to 'to do'  
+07122017193137	withee@gmail.com changed story with id 347's comments from '' to 'IMPORTANT - make sure the import does NOT overwrite any stories. The imported stories should be added as new stories to the Product Backlog. We don't want to lose any data.'  
+07122017193137	withee@gmail.com changed story with id 347's status from '' to 'to do'  
+07122017212126	portalintegrators@gmail.com changed story with id 339's story_points from '8' to '5'  : Edit to a committed User Story for Sprint 23 
+07122017213421	portalintegrators@gmail.com changed story with id 309's story_points from '8' to '5'  : Edit to a committed User Story for Sprint 23 
+07122017214538	portalintegrators@gmail.com changed story with id 322's story_points from '5' to '3'  : Edit to a committed User Story for Sprint 23 
+07122017214715	portalintegrators@gmail.com changed story with id 247's story_points from '13' to '5'  : Edit to a committed User Story for Sprint 23 
+07122017221255	portalintegrators@gmail.com changed story with id 306's i_want from 'to create a custom authentication on the server' to 'to create a custom authentication on the firebe using the Firebase SDK'  
+07122017221255	portalintegrators@gmail.com changed story with id 306's acceptance_test from 'Custom authentication for Rocket Scrum is created on the server' to 'Custom authentication for Rocket Scrum is created on the server. Make sure that using the created app we can login through the custom token.'  
+07122017221255	portalintegrators@gmail.com changed story with id 306's story_points from '34' to '8'  
+07122017221255	portalintegrators@gmail.com changed story with id 306's status from '' to 'to do'  
+07122017222343	portalintegrators@gmail.com changed story with id 54's i_want from 'to integrate Firebase with Office 365' to 'to setup application on the O365 to used as the authentication gateway. '  
+07122017222343	portalintegrators@gmail.com changed story with id 54's so_that from 'I can use another login on the Firebase app' to 'I can authenticate a user if he/she has a valid credentials.'  
+07122017222343	portalintegrators@gmail.com changed story with id 54's acceptance_test from 'Ability to login on the app using Office 365
+
+Might be able to use Azure Active Directory Authentication Library (ADAL) for JavaScript to connect to Office 365
+
+https://firebase.google.com/docs/auth/web/custom-auth
+https://github.com/AzureAD/azure-activedirectory-library-for-js 
+https://github.com/OfficeDev/O365-jQuery-CORS' to 'App is build on the office 365 which will accept authentication request from the node js server. Also the node js server will request custom token to be used by the user.'  
+07122017222343	portalintegrators@gmail.com changed story with id 54's story_points from '34' to '13'  
+07122017222457	portalintegrators@gmail.com added story with id 54 : This story has been added and sprint has already started.  
+07122017222504	portalintegrators@gmail.com added story with id 54 : This story has been added and sprint has already started.  

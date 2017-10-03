@@ -1,0 +1,26 @@
+09072017000100	portalintegrators@gmail.com added story with id 546 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017000435	portalintegrators@gmail.com added story with id 545 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017000548	portalintegrators@gmail.com added story with id 538 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017000621	portalintegrators@gmail.com added story with id 531 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017000837	portalintegrators@gmail.com added story with id 525 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017001034	portalintegrators@gmail.com added story with id 448 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09072017004538	portalintegrators@gmail.com changed story with id 515's status from 'in progress' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09072017004619	portalintegrators@gmail.com changed story with id 544's Order from '426' to '551'  : Member with Scrum Role Stakeholder reordered the row. 
+09072017113622	withee@gmail.com : Member with Scrum Role Stakeholder created the story 552. 
+09072017114809	withee@gmail.com : Member with Scrum Role Stakeholder created the story 553. 
+09072017153902	withee@gmail.com : Member with Scrum Role Stakeholder created the story 554. 
+09072017154237	withee@gmail.com changed story with id 554's acceptance_test from 'Explore building a bot using Microsoft LUIS framework for natural language processing. ' to 'Explore building a bot using Microsoft LUIS framework for natural language processing.
+
+https://dev.botframework.com/
+https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/'  : Member with Scrum Role Stakeholder made the changes. 
+09072017175126	withee@gmail.com : Member with Scrum Role Stakeholder created the story 555. 
+09072017180350	withee@gmail.com changed story with id 554's Order from '554' to '555'  : Member with Scrum Role Stakeholder reordered the row. 
+09072017183740	withee@gmail.com : Member with Scrum Role Stakeholder created the story 556. 
+09072017183954	withee@gmail.com changed story with id 119's comments from 'Should include documentation and also videos like WP Engine documentation or Digital Ocean documentation.' to 'Should include documentation and also videos like WP Engine documentation or Digital Ocean documentation.
+
+Also, check out google style guide: https://developers.google.com/style/'  : Member with Scrum Role Stakeholder made the changes. 
+09072017183954	withee@gmail.com changed story with id 119's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09072017184041	withee@gmail.com changed story with id 524's comments from '' to 'http://www.techrepublic.com/article/how-to-run-vulnerability-scanning-against-your-web-server-with-nikto2/'  : Member with Scrum Role Stakeholder made the changes. 
+09072017184041	withee@gmail.com changed story with id 524's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09072017184201	withee@gmail.com changed story with id 116's comments from '' to 'Make sure plan includes finding bloggers to review and post and link about it. Also make sure plan includes engaging Scrum Trainers. maybe a reseller program?'  : Member with Scrum Role Stakeholder made the changes. 
+09072017184201	withee@gmail.com changed story with id 116's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 

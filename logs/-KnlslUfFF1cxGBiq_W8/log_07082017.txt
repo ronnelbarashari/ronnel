@@ -1,0 +1,19 @@
+07082017070529	portalintegrators@gmail.com added story with id Recurring-Site Support-3 
+07082017070603	portalintegrators@gmail.com added story with id 29 : This story has been added and sprint has already started.  
+07082017070823	portalintegrators@gmail.com added story with id 37 : This story has been added and sprint has already started.  
+07082017070824	portalintegrators@gmail.com added story with id 37 : This story has been added and sprint has already started.  
+07082017071102	portalintegrators@gmail.com added story with id Recurring-Site Support-3 
+07082017071118	portalintegrators@gmail.com added story with id Recurring-Site Support-3 
+07082017071138	portalintegrators@gmail.com added story with id Recurring-Site Support-3 
+07082017071730	portalintegrators@gmail.com changed story with id 64's as_a from 'Test' to 'Test Chrome'  
+07082017071730	portalintegrators@gmail.com changed story with id 64's status from '' to 'to do'  
+07082017071736	portalintegrators@gmail.com changed story with id 65's as_a from 'Test' to 'Test Moz'  
+07082017071736	portalintegrators@gmail.com changed story with id 65's status from '' to 'to do'  
+07082017072202	portalintegrators@gmail.com changed story with id 65's status from '' to 'to do'  
+07082017072212	portalintegrators@gmail.com changed story with id 64's status from '' to 'to do'  
+07082017072533	portalintegrators@gmail.com added story with id 68 : This story has been added and sprint has already started.  
+07082017072539	portalintegrators@gmail.com added story with id 69 : This story has been added and sprint has already started.  
+07082017072543	portalintegrators@gmail.com added story with id 69 : This story has been added and sprint has already started.  
+07082017072723	portalintegrators@gmail.com added story with id 65 : This story has been added and sprint has already started.  
+07082017072724	portalintegrators@gmail.com added story with id 64 : This story has been added and sprint has already started.  
+07082017072727	portalintegrators@gmail.com added story with id 64 : This story has been added and sprint has already started.  

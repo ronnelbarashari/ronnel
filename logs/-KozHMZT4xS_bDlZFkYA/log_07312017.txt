@@ -1,0 +1,8 @@
+07312017191857	portalintegrators@gmail.com changed story with id 18's i_want from 'to connect courses of the new LMS to the existing users as well as the progress' to 'to check if courses of the new LMS are linked to the existing users as well as the progress'  
+07312017191857	portalintegrators@gmail.com changed story with id 18's acceptance_test from 'export the current progress of users who are currently enrolled in courses from the live site to the WPLMS site' to 'make sure the current progress of users who are currently enrolled in courses from the live site to the WPLMS site'  
+07312017191857	portalintegrators@gmail.com changed story with id 18's comments from 'After go live' to ''  
+07312017191905	portalintegrators@gmail.com changed story with id 18's story_points from '13' to '5'  
+07312017200306	portalintegrators@gmail.com changed story with id 50's comments from '' to 'the profile photo shouldn't look pixelated since that would look unprofessional'  
+07312017200306	portalintegrators@gmail.com changed story with id 50's status from '' to 'to do'  
+07312017215012	portalintegrators@gmail.com changed story with id 49's comments from '' to 'Correct size: https://drive.google.com/open?id=0BxrW6tgitUUCQmNPb1Jtd2h0ZEE'  
+07312017215012	portalintegrators@gmail.com changed story with id 49's status from '' to 'to do'  

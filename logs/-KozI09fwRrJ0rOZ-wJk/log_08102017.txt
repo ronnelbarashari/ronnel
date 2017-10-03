@@ -1,0 +1,9 @@
+08102017041327	portalintegrators@gmail.com changed story with id 34's acceptance_test from 'picture libraries and all contents are exported and backup file is downloaded' to 'picture libraries and all contents are exported and backup file is downloaded
+
+make sure they can be re-imported successfully to any destination '  
+08102017041327	portalintegrators@gmail.com changed story with id 34's story_points from '5' to '8'  
+08102017041327	portalintegrators@gmail.com changed story with id 34's status from '' to 'to do'  
+08102017041729	portalintegrators@gmail.com changed story with id 33's acceptance_test from 'setup or identify an archive area for the pictures' to 'setup or identify an archive area for the pictures
+
+identify pictures that will be archived either based on date or other criteria'  
+08102017041729	portalintegrators@gmail.com changed story with id 33's status from '' to 'to do'  

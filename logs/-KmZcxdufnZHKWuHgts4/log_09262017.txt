@@ -1,0 +1,8 @@
+09262017194342	portalintegrators@gmail.com changed story with id Recurring-Story-113's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194351	portalintegrators@gmail.com changed story with id Recurring-Story-114's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194410	portalintegrators@gmail.com changed story with id 111's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194423	portalintegrators@gmail.com changed story with id 115's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194434	portalintegrators@gmail.com changed story with id 66's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09262017194625	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 118. 
+09262017194630	portalintegrators@gmail.com changed story with id 112's Order from '79' to '118'  : Member with Scrum Role Stakeholder reordered the row. 
+09262017194655	portalintegrators@gmail.com changed story with id 117's acceptance_test from 'release the stickers on Android and messaging apps such as Messenger, Telegram, and WhatsApp' to 'release the stickers on Android and messaging apps such as Telegram and WhatsApp'  : Member with Scrum Role Stakeholder made the changes. 

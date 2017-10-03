@@ -1,0 +1,23 @@
+06082017002034	portalintegrators@gmail.com changed story with id 306's status from '' to 'to do'  
+06082017002037	portalintegrators@gmail.com changed story with id 317's status from '' to 'to do'  
+06082017002040	portalintegrators@gmail.com changed story with id 319's status from '' to 'to do'  
+06082017002936	portalintegrators@gmail.com added story with id 317 : This story has been added and sprint has already started.  
+06082017002941	portalintegrators@gmail.com added story with id 319 : This story has been added and sprint has already started.  
+06082017002943	portalintegrators@gmail.com added story with id 322 : This story has been added and sprint has already started.  
+06082017002949	portalintegrators@gmail.com added story with id 323 : This story has been added and sprint has already started.  
+06082017002954	portalintegrators@gmail.com added story with id 324 : This story has been added and sprint has already started.  
+06082017010013	portalintegrators@gmail.com added story with id RECURRING STORY-260 : This story has been added and sprint has already started.  
+06082017010243	portalintegrators@gmail.com added story with id 323 : This story has been added and sprint has already started.  
+06082017010246	portalintegrators@gmail.com added story with id 325 : This story has been added and sprint has already started.  
+06082017010254	portalintegrators@gmail.com added story with id 327 : This story has been added and sprint has already started.  
+06082017010304	portalintegrators@gmail.com added story with id 327 : This story has been added and sprint has already started.  
+06082017010327	portalintegrators@gmail.com changed story with id 325's status from '' to 'to do'  
+06082017010329	portalintegrators@gmail.com changed story with id 328's status from '' to 'to do'  
+06082017010332	portalintegrators@gmail.com changed story with id 329's status from '' to 'to do'  
+06082017233256	portalintegrators@gmail.com added story with id 328 : This story has been added and sprint has already started.  
+06082017233301	portalintegrators@gmail.com added story with id 329 : This story has been added and sprint has already started.  
+06082017233306	portalintegrators@gmail.com added story with id 332 : This story has been added and sprint has already started.  
+06082017233713	portalintegrators@gmail.com added story with id 332 : This story has been added and sprint has already started.  
+06082017233730	portalintegrators@gmail.com added story with id 332 : This story has been added and sprint has already started.  
+06082017234347	portalintegrators@gmail.com changed story with id 336's comments from '2' to 'move to scrum inc'  
+06082017234347	portalintegrators@gmail.com changed story with id 336's status from '' to 'to do'  

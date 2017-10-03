@@ -1,0 +1,7 @@
+07242017232322	portalintegrators@gmail.com changed story with id 15's story_points from '' to '5'  
+07242017232322	portalintegrators@gmail.com changed story with id 15's status from '' to 'to do'  
+07242017235429	portalintegrators@gmail.com changed story with id 16's story_points from '2' to ''  
+07242017235429	portalintegrators@gmail.com changed story with id 16's status from '' to 'to do'  
+07242017235532	portalintegrators@gmail.com changed story with id 16's story_points from '2' to ''  
+07242017235742	portalintegrators@gmail.com changed story with id 16's story_points from '' to '2'  
+07242017235834	portalintegrators@gmail.com changed story with id 16's story_points from '2' to ''  

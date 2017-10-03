@@ -1,0 +1,16 @@
+07262017000652	portalintegrators@gmail.com changed story with id 54's story_points from '5' to '3'  
+07262017000652	portalintegrators@gmail.com changed story with id 54's status from '' to 'to do'  
+07262017000729	portalintegrators@gmail.com changed story with id 54's story_points from '3' to '5'  
+07262017022544	portalintegrators@gmail.com changed story with id 53's i_want from 'to have access to the live database and FTP' to 'to have a site audit of the live environment'  
+07262017022544	portalintegrators@gmail.com changed story with id 53's acceptance_test from 'have access to the live environment's database and FTP and understand how the data are stored in the database and what files are needed to be migrated into the new environment. Make sure to add details to the migration plan.' to 'have a site audit of the live environment, check how many users, blogs/sites, courses, and plugins are in the live site'  
+07262017022544	portalintegrators@gmail.com changed story with id 53's story_points from '5' to '8'  
+07262017022544	portalintegrators@gmail.com changed story with id 53's status from '' to 'to do'  
+07262017034533	portalintegrators@gmail.com added story with id 11 
+07262017034539	portalintegrators@gmail.com added story with id 32 : This story has been added and sprint has already started.  
+07262017034541	portalintegrators@gmail.com added story with id 42 : This story has been added and sprint has already started.  
+07262017034544	portalintegrators@gmail.com added story with id 33 : This story has been added and sprint has already started.  
+07262017034548	portalintegrators@gmail.com added story with id 53 : This story has been added and sprint has already started.  
+07262017034551	portalintegrators@gmail.com added story with id 55 : This story has been added and sprint has already started.  
+07262017034554	portalintegrators@gmail.com added story with id 54 : This story has been added and sprint has already started.  
+07262017034556	portalintegrators@gmail.com added story with id 54 : This story has been added and sprint has already started.  
+07262017041527	portalintegrators@gmail.com changed story with id 32's story_points from '2' to '5'  : Edit to a committed User Story for Sprint 3 

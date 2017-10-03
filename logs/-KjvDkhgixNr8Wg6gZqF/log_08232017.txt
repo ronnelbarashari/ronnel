@@ -1,0 +1,22 @@
+08232017005309	portalintegrators@gmail.com added story with id 472 : This story has been added and sprint has already started.  
+08232017014019	portalintegrators@gmail.com added story with id 514 : This story has been added and sprint has already started.  
+08232017182325	withee@gmail.com : Member with Scrum Role Team Member created the story 515. 
+08232017182452	withee@gmail.com : Member with Scrum Role Team Member created the story 516. 
+08232017182509	withee@gmail.com changed story with id 507's Order from '389' to '515'  : Member with Scrum Role Team Member reordered the row.  
+08232017182528	withee@gmail.com changed story with id 507's Order from '390' to '516'  : Member with Scrum Role Team Member reordered the row.  
+08232017183148	withee@gmail.com changed story with id 506's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+08232017183201	withee@gmail.com changed story with id 505's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+08232017183218	withee@gmail.com changed story with id 495's Order from '387' to '388'  : Member with Scrum Role Team Member reordered the row.  
+08232017183231	withee@gmail.com changed story with id 504's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+08232017183241	withee@gmail.com changed story with id 503's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+08232017183254	withee@gmail.com changed story with id 495's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+08232017183327	withee@gmail.com changed story with id 490's Order from '388' to '389'  : Member with Scrum Role Team Member reordered the row.  
+08232017183424	withee@gmail.com changed story with id 379's Order from '378' to '379'  : Member with Scrum Role Team Member reordered the row.  
+08232017183512	withee@gmail.com changed story with id 124's Order from '369' to '370'  : Member with Scrum Role Team Member reordered the row.  
+08232017183538	withee@gmail.com changed story with id 38's Order from '356' to '357'  : Member with Scrum Role Team Member reordered the row.  
+08232017183551	withee@gmail.com changed story with id 117's Order from '353' to '354'  : Member with Scrum Role Team Member reordered the row.  
+08232017183606	withee@gmail.com changed story with id 158's Order from '346' to '350'  : Member with Scrum Role Team Member reordered the row.  
+08232017183617	withee@gmail.com changed story with id 169's Order from '346' to '349'  : Member with Scrum Role Team Member reordered the row.  
+08232017183628	withee@gmail.com changed story with id 170's Order from '346' to '349'  : Member with Scrum Role Team Member reordered the row.  
+08232017183750	withee@gmail.com changed story with id 218's Order from '321' to '323'  : Member with Scrum Role Team Member reordered the row.  
+08232017183807	withee@gmail.com changed story with id 420's Order from '318' to '323'  : Member with Scrum Role Team Member reordered the row.  

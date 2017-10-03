@@ -1,0 +1,5 @@
+07192017001049	portalintegrators@gmail.com changed story with id Recurring-Story-54's status from 'in progress' to 'done'  
+07192017001057	portalintegrators@gmail.com changed story with id 56's status from 'in progress' to 'done'  
+07192017001119	portalintegrators@gmail.com changed story with id 6's story_points from '' to '8'  
+07192017001317	portalintegrators@gmail.com added story with id 58 : This story has been added and sprint has already started.  
+07192017001319	portalintegrators@gmail.com added story with id 49 : This story has been added and sprint has already started.  

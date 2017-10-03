@@ -1,0 +1,31 @@
+09052017171920	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 132. 
+09052017171930	portalintegrators@gmail.com changed story with id 25's Order from '129' to '132'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017171936	portalintegrators@gmail.com changed story with id 41's Order from '118' to '119'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017202554	portalintegrators@gmail.com changed story with id Recurring-Check List-129's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202557	portalintegrators@gmail.com changed story with id Recurring-Site Support-130's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202603	portalintegrators@gmail.com changed story with id 108's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202607	portalintegrators@gmail.com changed story with id 109's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202613	portalintegrators@gmail.com changed story with id 110's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202645	portalintegrators@gmail.com changed story with id 113's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202654	portalintegrators@gmail.com changed story with id 111's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202722	portalintegrators@gmail.com changed story with id 105's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202726	portalintegrators@gmail.com changed story with id 112's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202730	portalintegrators@gmail.com changed story with id 114's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202734	portalintegrators@gmail.com changed story with id 115's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202740	portalintegrators@gmail.com changed story with id 116's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202744	portalintegrators@gmail.com changed story with id 117's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202749	portalintegrators@gmail.com changed story with id 118's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017202753	portalintegrators@gmail.com changed story with id 106's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09052017203414	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 133. 
+09052017203421	portalintegrators@gmail.com changed story with id 25's Order from '130' to '133'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017203503	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 134. 
+09052017203508	portalintegrators@gmail.com changed story with id 25's Order from '131' to '134'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017205249	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 135. 
+09052017205258	portalintegrators@gmail.com changed story with id 25's Order from '132' to '135'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017205809	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 136. 
+09052017205945	portalintegrators@gmail.com changed story with id 25's Order from '133' to '136'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017205951	portalintegrators@gmail.com changed story with id 136's story_points from '' to '5'  : Member with Scrum Role Stakeholder made the changes. 
+09052017214520	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 137. 
+09052017214541	portalintegrators@gmail.com changed story with id 25's Order from '134' to '137'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017214544	portalintegrators@gmail.com changed story with id 41's Order from '123' to '124'  : Member with Scrum Role Stakeholder reordered the row. 
+09052017214936	portalintegrators@gmail.com changed story with id 137's comments from '' to 'Sprint 69 checklist'  : Member with Scrum Role Stakeholder made the changes. 

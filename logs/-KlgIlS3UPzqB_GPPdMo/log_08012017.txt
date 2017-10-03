@@ -1,0 +1,4 @@
+08012017201022	portalintegrators@gmail.com changed story with id Recurring-Check List-61's status from 'in progress' to 'done'  
+08012017201026	portalintegrators@gmail.com changed story with id 50's status from 'in progress' to 'done'  
+08012017201030	portalintegrators@gmail.com changed story with id 55's status from 'in progress' to 'done'  
+08012017233007	portalintegrators@gmail.com changed story with id Recurring-Check List-73's story_points from '1' to '3'  : Edit to a committed User Story for Sprint 8 

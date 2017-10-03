@@ -1,0 +1,4 @@
+07182017211222	portalintegrators@gmail.com added story with id 6 : This story has been added and sprint has already started.  
+07182017212004	portalintegrators@gmail.com changed story with id 6's i_want from 'to update the Divi Theme to the latest version' to 'to update the Akismet plugin to the latest version'  : Edit to a committed User Story for Sprint 56 
+07182017212004	portalintegrators@gmail.com changed story with id 6's acceptance_test from 'Divi Theme updated to the latest version' to 'Akismet plugin updated to the latest version'  : Edit to a committed User Story for Sprint 56 
+07182017212004	portalintegrators@gmail.com changed story with id 6's story_points from '5' to '2'  : Edit to a committed User Story for Sprint 56 

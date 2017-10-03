@@ -1,0 +1,14 @@
+08092017105321	portalintegrators@gmail.com changed story with id 28's i_want from 'to have recommendations of archiving images' to 'to look into archiving the images from the sensory site'  
+08092017105321	portalintegrators@gmail.com changed story with id 28's acceptance_test from 'recommendations forr archiving images' to 'list of stories for implemtation including estimates for the effort'  
+08092017105321	portalintegrators@gmail.com changed story with id 28's story_points from '5' to '8'  
+08092017105321	portalintegrators@gmail.com changed story with id 28's status from '' to 'to do'  
+08092017105429	portalintegrators@gmail.com changed story with id 29's i_want from 'to list the stories needed for implementing image archiving solution' to 'to figure out error 7043 on the app server'  
+08092017105429	portalintegrators@gmail.com changed story with id 29's so_that from 'I have an idea on the effort needed' to 'I can work on resolving these server errors'  
+08092017105429	portalintegrators@gmail.com changed story with id 29's comments from '' to 'Load control template file /_controltemplates/WorkflowStatus.ascx failed: One of the properties of the Web Part has an incorrect format. Microsoft SharePoint Foundation cannot deserialize the Web Part.  Check the format of the properties and try again.'  
+08092017105429	portalintegrators@gmail.com changed story with id 29's status from '' to 'to do'  
+08092017233312	portalintegrators@gmail.com changed story with id Recurring-Check List-26's status from 'in progress' to 'done'  
+08092017233317	portalintegrators@gmail.com changed story with id Recurring-Site Support-27's status from 'in progress' to 'done'  
+08092017233320	portalintegrators@gmail.com changed story with id 25's status from 'in progress' to 'done'  
+08092017233325	portalintegrators@gmail.com changed story with id 21's status from 'in progress' to 'done'  
+08092017233541	portalintegrators@gmail.com changed story with id 29's acceptance_test from 'understanding of archiving the images including stories and estimated points of effort' to 'understanding of the error 7043 and fix if possible'  : Edit to a committed User Story for Sprint 54 
+08092017233546	portalintegrators@gmail.com changed story with id 29's story_points from '8' to '5'  : Edit to a committed User Story for Sprint 54 

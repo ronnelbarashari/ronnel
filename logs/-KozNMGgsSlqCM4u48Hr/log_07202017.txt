@@ -1,0 +1,1 @@
+07202017235640	portalintegrators@gmail.com changed story with id 3's acceptance_test from 'detailed understanding of the ConnectWise SOAP API and implementation' to 'check if there's a way we can use SOAP API in integrating ConnectWise with Power BI'  : Edit to a committed User Story for Sprint 5 

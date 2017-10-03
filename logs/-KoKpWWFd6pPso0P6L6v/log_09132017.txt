@@ -1,0 +1,8 @@
+09132017001047	genelyn.ancheta@portalintegrators.com changed story with id 141's story_points from '8' to '5'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 10 
+09132017014654	portalintegrators@gmail.com changed story with id 143's i_want from '"emails are sent" not sure what this means from the checklist.' to 'to make sure emails are sent'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 10 
+09132017022911	portalintegrators@gmail.com changed story with id 122's i_want from 'to set up the courses and course sync in the main site (DEV SITE)' to 'to set up the courses and course sync in the main site'  : Member with Scrum Role Stakeholder made the changes.   Edit to a committed User Story for Sprint 10 
+09132017023519	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 161. 
+09132017023728	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 162. 
+09132017042135	portalintegrators@gmail.com changed story with id 135's Order from '137' to '162'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017042150	portalintegrators@gmail.com changed story with id 162's Order from '158' to '159'  : Member with Scrum Role Stakeholder reordered the row. 
+09132017220004	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 163. 

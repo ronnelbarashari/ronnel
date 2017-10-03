@@ -1,0 +1,8 @@
+09122017220225	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 52. 
+09122017220229	portalintegrators@gmail.com changed story with id 47's Order from '50' to '52'  : Member with Scrum Role Stakeholder reordered the row. 
+09122017220234	portalintegrators@gmail.com changed story with id Recurring-Check List-50's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017220239	portalintegrators@gmail.com changed story with id Recurring-Site Support-51's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017231333	genelyn.ancheta@portalintegrators.com added story with id Recurring-Check List-2 : Member with Scrum Role Stakeholder made the changes. 
+09122017231335	genelyn.ancheta@portalintegrators.com added story with id Recurring-Check List-2 : Member with Scrum Role Stakeholder made the changes. 
+09122017231341	genelyn.ancheta@portalintegrators.com added story with id 52 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017231433	genelyn.ancheta@portalintegrators.com added story with id 19 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  

@@ -1,0 +1,13 @@
+06262017162744	portalintegrators@gmail.com changed story with id 6's acceptance_test from '"Read the Encrypting Data at Rest
+
+https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf"' to '"Read the Encrypting Data at Rest
+
+https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_ Rest_with_Encryption.pdf"'  
+06262017162744	portalintegrators@gmail.com changed story with id 6's status from '' to 'to do'  
+06262017164201	portalintegrators@gmail.com changed story with id 6's acceptance_test from '"Read the Encrypting Data at Rest
+
+https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_ Rest_with_Encryption.pdf"' to '"Read the Encrypting Data at Rest
+
+https://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf"'  
+06262017214617	superpaulme@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+06262017214619	superpaulme@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  

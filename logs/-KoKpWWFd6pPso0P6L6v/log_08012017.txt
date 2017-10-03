@@ -1,0 +1,22 @@
+08012017204050	portalintegrators@gmail.com changed story with id Recurring-Check List-56's status from 'in progress' to 'done'  
+08012017204054	portalintegrators@gmail.com changed story with id Recurring-Check List-57's status from 'in progress' to 'done'  
+08012017204105	portalintegrators@gmail.com changed story with id Recurring-Check List-58's status from 'in progress' to 'done'  
+08012017204126	portalintegrators@gmail.com changed story with id 31's status from 'in progress' to 'done'  
+08012017204129	portalintegrators@gmail.com changed story with id 32's status from 'in progress' to 'done'  
+08012017204135	portalintegrators@gmail.com changed story with id 42's status from 'in progress' to 'done'  
+08012017204139	portalintegrators@gmail.com changed story with id 33's status from 'in progress' to 'done'  
+08012017204143	portalintegrators@gmail.com changed story with id 53's status from 'in progress' to 'done'  
+08012017204149	portalintegrators@gmail.com changed story with id 55's status from 'in progress' to 'done'  
+08012017204153	portalintegrators@gmail.com changed story with id 54's status from 'in progress' to 'done'  
+08012017231607	portalintegrators@gmail.com changed story with id 37's acceptance_test from 'Must be increased the storage of the new site' to 'Must be increased the storage of the new site to accommodate the migration'  
+08012017231607	portalintegrators@gmail.com changed story with id 37's status from '' to 'to do'  
+08012017233107	portalintegrators@gmail.com changed story with id 62's comments from 'Design samples: http://www.digitalpodge.co.uk/2009/
+https://carbonmade.com/
+http://www.futureof.design/ *' to 'Design samples: http://www.digitalpodge.co.uk/2009/
+https://carbonmade.com/
+http://www.futureof.design/ *
+http://lemonly.com/2016report/ *'  
+08012017233107	portalintegrators@gmail.com changed story with id 62's status from '' to 'to do'  
+08012017233324	portalintegrators@gmail.com changed story with id 62's acceptance_test from 'an infographic type homepage where we can see the information about COETAIL' to 'an infographic type homepage where we can see the information about COETAIL
+
+For now, just use colors of COETAIL'  

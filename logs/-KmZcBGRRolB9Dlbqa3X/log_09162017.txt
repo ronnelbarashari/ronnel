@@ -1,0 +1,22 @@
+09162017112758	withee@gmail.com : Member with Scrum Role Stakeholder created the story 86. 
+09162017112809	withee@gmail.com changed story with id 83's Order from '80' to '86'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017112943	withee@gmail.com changed story with id 86's acceptance_test from 'Figure out options to improve the road for the compound of Gen. Something like bringing in road base or gravel. Be creative in options since we don't have very much money but we want to improve the compound and help the community.' to 'Figure out options to improve the road for the compound of Gen. Something like bringing in road base or gravel. Be creative in options since we don't have very much money but we want to improve the compound and help the community. For example, maybe we start with paying a small company to clean the road and fill in pot holes and add gravel if there are muddy places.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017113006	withee@gmail.com changed story with id 28's Order from '80' to '81'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017113046	withee@gmail.com changed story with id 84's comments from 'Ken can help with research on this too.' to 'Ken can help with research on this too.
+
+COMBINE USER STORY 83 and 84. THIS IS DUPLICATE.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017113100	withee@gmail.com changed story with id 84's comments from 'Ken can help with research on this too.
+
+COMBINE USER STORY 83 and 84. THIS IS DUPLICATE.' to 'Ken can help with research on this too.
+
+COMBINE USER STORY 83 and 84. Duplicates.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017113108	withee@gmail.com changed story with id 84's Order from '70' to '71'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017113132	withee@gmail.com changed story with id 78's Order from '74' to '75'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192146	withee@gmail.com : Member with Scrum Role Stakeholder created the story 87. 
+09162017192216	withee@gmail.com changed story with id 28's Order from '81' to '87'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192250	withee@gmail.com : Member with Scrum Role Stakeholder created the story 88. 
+09162017192316	withee@gmail.com : Member with Scrum Role Stakeholder created the story 89. 
+09162017192329	withee@gmail.com changed story with id 28's Order from '82' to '88'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192334	withee@gmail.com changed story with id 28's Order from '83' to '89'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192339	withee@gmail.com changed story with id 72's Order from '82' to '83'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192343	withee@gmail.com changed story with id 89's Order from '80' to '81'  : Member with Scrum Role Stakeholder reordered the row. 

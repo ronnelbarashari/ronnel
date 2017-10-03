@@ -1,0 +1,20 @@
+07042017042203	portalintegrators@gmail.com changed story with id 299's story_points from '' to '8'  
+07042017042203	portalintegrators@gmail.com changed story with id 299's status from '' to 'to do'  
+07042017045314	portalintegrators@gmail.com changed story with id 298's story_points from '' to '13'  
+07042017045314	portalintegrators@gmail.com changed story with id 298's status from '' to 'to do'  
+07042017215145	portalintegrators@gmail.com changed story with id Recurring-Check List-250's status from 'in progress' to 'done'  
+07042017215153	portalintegrators@gmail.com changed story with id RECURRING STORY-251's status from 'in progress' to 'done'  
+07042017215201	portalintegrators@gmail.com changed story with id 249's status from 'in progress' to 'done'  
+07042017215205	portalintegrators@gmail.com changed story with id 241's status from 'in progress' to 'done'  
+07042017215212	portalintegrators@gmail.com changed story with id 240's status from 'in progress' to 'done'  
+07042017215216	portalintegrators@gmail.com changed story with id 226's status from 'in progress' to 'done'  
+07042017215222	portalintegrators@gmail.com changed story with id 225's status from 'in progress' to 'done'  
+07042017215227	portalintegrators@gmail.com changed story with id 202's status from 'in progress' to 'done'  
+07042017215233	portalintegrators@gmail.com changed story with id 211's status from 'in progress' to 'done'  
+07042017215236	portalintegrators@gmail.com changed story with id 248's status from 'in progress' to 'done'  
+07042017215241	portalintegrators@gmail.com changed story with id 245's status from 'in progress' to 'done'  
+07042017215643	portalintegrators@gmail.com changed story with id 304's so_that from 'I can prepare to create a Firebase authentication' to 'I can be prepared to create a Firebase authentication'  
+07042017215643	portalintegrators@gmail.com changed story with id 304's status from '' to 'to do'  
+07042017223031	portalintegrators@gmail.com changed story with id 36's acceptance_test from 'make sure that user stories are displayed on Rocket Scrum app.' to 'make sure that user stories are displayed on Rocket Scrum app. For now the credentials to connect to Firebase is static. Create stories to make these dynamic/flexible.'  : Edit to a committed User Story for Sprint 22 
+07042017223139	portalintegrators@gmail.com added story with id 305 : This story has been added and sprint has already started.  
+07042017223159	portalintegrators@gmail.com added story with id 305 : This story has been added and sprint has already started.  

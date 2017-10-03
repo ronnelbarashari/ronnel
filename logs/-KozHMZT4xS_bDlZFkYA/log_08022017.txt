@@ -1,0 +1,4 @@
+08022017015538	portalintegrators@gmail.com changed story with id 38's story_points from '5' to '8'  
+08022017015538	portalintegrators@gmail.com changed story with id 38's status from '' to 'to do'  
+08022017015736	portalintegrators@gmail.com changed story with id 53's story_points from '3' to '5'  
+08022017040905	portalintegrators@gmail.com changed story with id 42's story_points from '8' to '3'  : Edit to a committed User Story for Sprint 65 

@@ -1,0 +1,13 @@
+05252017193346	portalintegrators@gmail.com changed story with id RECURRING STORY-9's status from 'in progress' to 'to do'  
+05252017194214	portalintegrators@gmail.com changed story with id 16's status from 'in progress' to 'to do'  
+05252017194308	portalintegrators@gmail.com changed story with id RECURRING STORY-12's comments from '' to 'test'  : Edit to a committed User Story for Sprint 4 
+05252017194313	portalintegrators@gmail.com changed story with id RECURRING STORY-12's status from 'in progress' to 'to do'  
+05252017194412	superpaulme@gmail.com : Member with Scrum Role Team Member created the story 71. 
+05252017212014	stchdsh@gmail.com changed story with id 26's Order from '32' to '33'  : Member with Scrum Role Team Member reordered the row.  
+05252017212126	stchdsh@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05252017214534	portalintegrators@gmail.com changed story with id RECURRING STORY-13's status from 'in progress' to 'to do'  
+05252017214546	portalintegrators@gmail.com changed story with id RECURRING STORY-51's status from 'in progress' to 'to do'  
+05252017214557	portalintegrators@gmail.com changed story with id RECURRING STORY-56's status from 'in progress' to 'to do'  
+05252017214631	portalintegrators@gmail.com changed story with id RECURRING STORY-57's status from 'in progress' to 'to do'  
+05252017214640	portalintegrators@gmail.com changed story with id RECURRING STORY-52's status from 'in progress' to 'to do'  
+05252017223713	stchdsh@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  

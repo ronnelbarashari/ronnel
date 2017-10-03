@@ -1,0 +1,41 @@
+08172017004505	portalintegrators@gmail.com changed story with id 89's acceptance_test from 'have an onboarding guided tour on the LMS site. Install https://www.onboardingplugin.com/ on the dev site first. Then create the guided tour for the following scenarios:
+
+1. first time to sign up
+2. dashboard
+3. then the different dashboards sections/parts
+4. how to complete a course' to 'have an onboarding guided tour on the LMS site. As an option,  we can install https://www.onboardingplugin.com/ on the dev site first. Then create the guided tour for the following scenarios:
+
+1. first time to sign up
+2. dashboard
+3. then the different dashboards sections/parts
+4. how to complete a course
+
+If there are other ways to have a guided tour without a plugin, we can also do that'  
+08172017004505	portalintegrators@gmail.com changed story with id 89's comments from '' to 'https://mikejolley.com/2015/09/26/user-onboarding-for-wordpress-plugins-slides-wcnl/
+
+https://remkusdevries.com/on-theme-onboarding-in-wordpress/'  
+08172017004505	portalintegrators@gmail.com changed story with id 89's status from '' to 'to do'  
+08172017180306	portalintegrators@gmail.com changed story with id 90's i_want from 'to update the plugins with 100% compatibility with the WP version' to 'to update the plugins with 100% compatibility with the WP version:
+
+Active Directory Integration for Cloud
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+WooCommerce
+Yoast SEO'  
+08172017180306	portalintegrators@gmail.com changed story with id 90's acceptance_test from 'update the plugins with 100% compatibility with the WP version. test first on dev site before going live' to 'update the plugins with 100% compatibility with the WP version. 
+
+Active Directory Integration for Cloud
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+WooCommerce
+Yoast SEO
+
+test first on dev site before going live'  
+08172017180306	portalintegrators@gmail.com changed story with id 90's status from '' to 'to do'  
+08172017180456	portalintegrators@gmail.com changed story with id 91's story_points from '' to '5'  
+08172017180456	portalintegrators@gmail.com changed story with id 91's status from '' to 'to do'  
+08172017224754	portalintegrators@gmail.com changed story with id 93's status from '' to 'to do'  

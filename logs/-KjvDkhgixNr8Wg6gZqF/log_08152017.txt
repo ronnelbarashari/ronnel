@@ -1,0 +1,26 @@
+08152017172738	portalintegrators@gmail.com changed story with id Recurring-Check List-452's status from 'in progress' to 'done'  
+08152017172746	portalintegrators@gmail.com changed story with id Recurring-Story-453's status from 'in progress' to 'done'  
+08152017172755	portalintegrators@gmail.com changed story with id 446's status from 'in progress' to 'done'  
+08152017172804	portalintegrators@gmail.com changed story with id 445's status from 'in progress' to 'done'  
+08152017172812	portalintegrators@gmail.com changed story with id 231's status from 'in progress' to 'done'  
+08152017172819	portalintegrators@gmail.com changed story with id 436's status from 'in progress' to 'done'  
+08152017172826	portalintegrators@gmail.com changed story with id 454's status from 'in progress' to 'done'  
+08152017172833	portalintegrators@gmail.com changed story with id 450's status from 'in progress' to 'done'  
+08152017201114	withee@gmail.com : Member with Scrum Role Team Member created the story 478. 
+08152017201137	withee@gmail.com changed story with id 471's Order from '361' to '478'  : Member with Scrum Role Team Member reordered the row.  
+08152017201309	withee@gmail.com : Member with Scrum Role Team Member created the story 479. 
+08152017201350	withee@gmail.com changed story with id 471's Order from '362' to '479'  : Member with Scrum Role Team Member reordered the row.  
+08152017201437	withee@gmail.com changed story with id 469's Order from '362' to '363'  : Member with Scrum Role Team Member reordered the row.  
+08152017201515	withee@gmail.com : Member with Scrum Role Team Member created the story 480. 
+08152017201532	withee@gmail.com changed story with id 469's Order from '363' to '480'  : Member with Scrum Role Team Member reordered the row.  
+08152017201603	withee@gmail.com changed story with id 480's comments from '' to 'Select multiple stories and drag. It 'looks' like multiple stories are dragging but when drop only one stories was actually dragged.'  : Member with Scrum Role Team Member made the changes. 
+08152017201603	withee@gmail.com changed story with id 480's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08152017201633	withee@gmail.com changed story with id 468's Order from '363' to '364'  : Member with Scrum Role Team Member reordered the row.  
+08152017202142	withee@gmail.com : Member with Scrum Role Team Member created the story 481. 
+08152017202223	withee@gmail.com changed story with id 468's Order from '364' to '481'  : Member with Scrum Role Team Member reordered the row.  
+08152017203408	withee@gmail.com : Member with Scrum Role Team Member created the story 482. 
+08152017203440	withee@gmail.com changed story with id 468's Order from '365' to '482'  : Member with Scrum Role Team Member reordered the row.  
+08152017213035	portalintegrators@gmail.com added story with id 463 : This story has been added and sprint has already started.  
+08152017213043	portalintegrators@gmail.com added story with id 470 : This story has been added and sprint has already started.  
+08152017213052	portalintegrators@gmail.com added story with id 472 : This story has been added and sprint has already started.  
+08152017213137	portalintegrators@gmail.com added story with id 475 : This story has been added and sprint has already started.  

@@ -1,0 +1,18 @@
+09122017222516	portalintegrators@gmail.com changed story with id 20's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017222523	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017222530	portalintegrators@gmail.com changed story with id 21's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017222534	portalintegrators@gmail.com changed story with id 47's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017222541	portalintegrators@gmail.com changed story with id 48's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017223105	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 50. 
+09122017223806	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 51. 
+09122017224119	portalintegrators@gmail.com changed story with id 51's comments from '' to 'Manager field should pull up from a list of existing users'  : Member with Scrum Role Stakeholder made the changes. 
+09122017224638	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 52. 
+09122017224748	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 53. 
+09122017224810	portalintegrators@gmail.com changed story with id 53's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes. 
+09122017224832	portalintegrators@gmail.com changed story with id 51's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes. 
+09122017224959	portalintegrators@gmail.com changed story with id 53's story_points from '13' to '8'  : Member with Scrum Role Stakeholder made the changes. 
+09122017225409	portalintegrators@gmail.com changed story with id 53's story_points from '8' to '13'  : Member with Scrum Role Stakeholder made the changes. 
+09122017231538	genelyn.ancheta@portalintegrators.com added story with id 50 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017231541	genelyn.ancheta@portalintegrators.com added story with id 51 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017231548	genelyn.ancheta@portalintegrators.com added story with id 52 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017231549	genelyn.ancheta@portalintegrators.com added story with id 53 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  

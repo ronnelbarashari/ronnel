@@ -1,0 +1,15 @@
+08092017013609	portalintegrators@gmail.com changed story with id 398's status from 'in progress' to 'done'  
+08092017013617	portalintegrators@gmail.com changed story with id 429's status from 'in progress' to 'done'  
+08092017013623	portalintegrators@gmail.com changed story with id 428's status from 'in progress' to 'done'  
+08092017013630	portalintegrators@gmail.com changed story with id 350's status from 'in progress' to 'done'  
+08092017013639	portalintegrators@gmail.com changed story with id 345's status from 'in progress' to 'done'  
+08092017035424	portalintegrators@gmail.com added story with id 454 : This story has been added and sprint has already started.  
+08092017035648	portalintegrators@gmail.com changed story with id 450's acceptance_test from 'user should be given access when he/she has been added to a team' to 'user should be given access when he/she has been added to a team, fix the flicker of the you have no permission message'  
+08092017035648	portalintegrators@gmail.com changed story with id 450's status from '' to 'to do'  
+08092017040015	portalintegrators@gmail.com added story with id 450 : This story has been added and sprint has already started.  
+08092017191336	ken.withee@portalintegrators.com changed story with id 314's acceptance_test from 'Logged in users Dashboard shows all the Teams that the current logged in user is a member of.' to 'Logged in users Dashboard shows all the Teams that the current logged in user is a member of.
+
+See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg'  : Member with Scrum Role Team Member made the changes. 
+08092017191427	ken.withee@portalintegrators.com changed story with id 317's acceptance_test from 'On the Dashboard there is a section for Product Backlogs that are assigned to the Teams I am a member of. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.' to 'On the Dashboard there is a section for Product Backlogs that are assigned to the Teams I am a member of. The Product Backlogs that show up are any Product Backlogs that the Scrum Teams the User is on has access to.
+
+See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg'  : Member with Scrum Role Team Member made the changes. 

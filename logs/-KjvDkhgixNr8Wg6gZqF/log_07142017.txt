@@ -1,0 +1,17 @@
+07142017205954	portalintegrators@gmail.com changed story with id 345's story_points from '' to '5'  
+07142017210011	portalintegrators@gmail.com changed story with id 346's story_points from '' to '3'  
+07142017210011	portalintegrators@gmail.com changed story with id 346's status from '' to 'to do'  
+07142017210019	portalintegrators@gmail.com changed story with id 345's story_points from '5' to '3'  
+07142017210049	portalintegrators@gmail.com changed story with id 349's story_points from '' to '3'  
+07142017210049	portalintegrators@gmail.com changed story with id 349's status from '' to 'to do'  
+07142017210130	portalintegrators@gmail.com changed story with id 347's story_points from '' to '5'  
+07142017210130	portalintegrators@gmail.com changed story with id 347's comments from 'IMPORTANT - make sure the import does NOT overwrite any stories. The imported stories should be added as new stories to the Product Backlog. We don't want to lose any data.' to 'IMPORTANT - make sure the import does NOT overwrite any stories. The imported stories should be added as new stories to the Product Backlog. We don't want to lose any data.
+
+Explore first then create stories'  
+07142017210207	portalintegrators@gmail.com changed story with id 351's story_points from '' to '13'  
+07142017210207	portalintegrators@gmail.com changed story with id 351's status from '' to 'to do'  
+07142017210229	portalintegrators@gmail.com changed story with id 344's story_points from '' to '3'  
+07142017210229	portalintegrators@gmail.com changed story with id 344's status from '' to 'to do'  
+07142017210249	portalintegrators@gmail.com changed story with id 350's story_points from '' to '5'  
+07142017210249	portalintegrators@gmail.com changed story with id 350's comments from '' to 'Explore first'  
+07142017210249	portalintegrators@gmail.com changed story with id 350's status from '' to 'to do'  

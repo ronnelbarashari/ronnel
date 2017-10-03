@@ -1,0 +1,12 @@
+07262017024622	portalintegrators@gmail.com added story with id 29 : This story has been added and sprint has already started.  
+07262017024711	portalintegrators@gmail.com added story with id 26 : This story has been added and sprint has already started.  
+07262017024953	portalintegrators@gmail.com added story with id 18 : This story has been added and sprint has already started.  
+07262017025028	portalintegrators@gmail.com added story with id 27 : This story has been added and sprint has already started.  
+07262017025142	portalintegrators@gmail.com changed story with id 16's story_points from '5' to '13'  
+07262017025714	portalintegrators@gmail.com changed story with id 18's comments from '' to 'After go live'  
+07262017025800	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+07262017025801	portalintegrators@gmail.com added story with id 36 : This story has been added and sprint has already started.  
+07262017025815	portalintegrators@gmail.com added story with id 28 : This story has been added and sprint has already started.  
+07262017025828	portalintegrators@gmail.com added story with id 27 : This story has been added and sprint has already started.  
+07262017025835	portalintegrators@gmail.com added story with id 27 : This story has been added and sprint has already started.  
+07262017090435	portalintegrators@gmail.com changed story with id 36's story_points from '8' to '13'  : Edit to a committed User Story for Sprint 64 

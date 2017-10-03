@@ -1,0 +1,2 @@
+08022017040615	portalintegrators@gmail.com changed story with id 19's acceptance_test from 'all plugins that have 100% compatibility with the current WordPress version are updated' to 'all plugins that have 100% compatibility with the current WordPress version are updated in both Rapid and Robo Scrum sites'  
+08022017040615	portalintegrators@gmail.com changed story with id 19's status from '' to 'to do'  

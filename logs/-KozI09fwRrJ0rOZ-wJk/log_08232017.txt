@@ -1,0 +1,16 @@
+08232017083726	portalintegrators@gmail.com changed story with id Recurring-Check List-38's status from 'in progress' to 'done'  
+08232017083736	portalintegrators@gmail.com changed story with id Recurring-Site Support-39's status from 'in progress' to 'done'  
+08232017083934	portalintegrators@gmail.com changed story with id 37's status from 'in progress' to 'done'  
+08232017083943	portalintegrators@gmail.com changed story with id 34's status from 'in progress' to 'done'  
+08232017083952	portalintegrators@gmail.com changed story with id 33's status from 'in progress' to 'done'  
+08232017084112	portalintegrators@gmail.com changed story with id 22's i_want from 'to follow-up and confirm if we can proceed and implement the custom solution we created for the upload file limit on the production site' to 'to implement the custom solution we created for the upload file limit on the production site'  
+08232017084112	portalintegrators@gmail.com changed story with id 22's so_that from 'I can confirm if we can go live with the custom file size limit solution' to 'I can go live with the custom file size limit solution'  
+08232017084112	portalintegrators@gmail.com changed story with id 22's acceptance_test from 'follow up and confirm if we can go live' to 'custom solution for the upload file limit is implemented on the live site'  
+08232017084112	portalintegrators@gmail.com changed story with id 22's story_points from '3' to '13'  
+08232017084319	portalintegrators@gmail.com changed story with id 42's story_points from '3' to '1'  
+08232017084319	portalintegrators@gmail.com changed story with id 42's status from '' to 'to do'  
+08232017084339	portalintegrators@gmail.com added story with id 42 : This story has been added and sprint has already started.  
+08232017210113	portalintegrators@gmail.com changed story with id 42's i_want from 'to follow-up the location where we can archive the pictures' to 'to have anything 2015 and older being archived here: T:\Department\Quality_Sensory\Old Server QASensory'  : Edit to a committed User Story for Sprint 56 
+08232017210113	portalintegrators@gmail.com changed story with id 42's so_that from 'I can proceed with the archiving' to 'I can archive old pictures'  : Edit to a committed User Story for Sprint 56 
+08232017210113	portalintegrators@gmail.com changed story with id 42's acceptance_test from 'send a follow-up email on the location where pictures will be archived' to 'anything 2015 and older are archived here: T:\Department\Quality_Sensory\Old Server QASensory'  : Edit to a committed User Story for Sprint 56 
+08232017210113	portalintegrators@gmail.com changed story with id 42's story_points from '1' to '5'  : Edit to a committed User Story for Sprint 56 

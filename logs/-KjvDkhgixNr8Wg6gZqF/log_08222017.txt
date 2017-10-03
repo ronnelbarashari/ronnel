@@ -1,0 +1,69 @@
+08222017193043	portalintegrators@gmail.com changed story with id 457's status from 'in progress' to 'done'  
+08222017193050	portalintegrators@gmail.com changed story with id Recurring-Check List-483's status from 'in progress' to 'done'  
+08222017193057	portalintegrators@gmail.com changed story with id Recurring-Story-484's status from 'in progress' to 'done'  
+08222017193104	portalintegrators@gmail.com changed story with id 458's status from 'in progress' to 'done'  
+08222017193111	portalintegrators@gmail.com changed story with id 459's status from 'in progress' to 'done'  
+08222017193117	portalintegrators@gmail.com changed story with id 477's status from 'in progress' to 'done'  
+08222017193125	portalintegrators@gmail.com changed story with id 482's status from 'in progress' to 'done'  
+08222017193134	portalintegrators@gmail.com changed story with id 209's status from 'in progress' to 'done'  
+08222017193147	portalintegrators@gmail.com changed story with id 444's status from 'in progress' to 'done'  
+08222017193155	portalintegrators@gmail.com changed story with id 462's status from 'in progress' to 'done'  
+08222017193201	portalintegrators@gmail.com changed story with id 463's status from 'in progress' to 'done'  
+08222017193208	portalintegrators@gmail.com changed story with id 470's status from 'in progress' to 'done'  
+08222017193221	portalintegrators@gmail.com changed story with id 475's status from 'in progress' to 'done'  
+08222017194919	portalintegrators@gmail.com changed story with id 505's story_points from '' to '3'  
+08222017194919	portalintegrators@gmail.com changed story with id 505's status from '' to 'to do'  
+08222017194954	portalintegrators@gmail.com changed story with id 506's story_points from '' to '3'  
+08222017194954	portalintegrators@gmail.com changed story with id 506's status from '' to 'to do'  
+08222017195034	portalintegrators@gmail.com changed story with id 466's story_points from '' to '5'  
+08222017195049	portalintegrators@gmail.com changed story with id 500's story_points from '' to '2'  
+08222017195049	portalintegrators@gmail.com changed story with id 500's status from '' to 'to do'  
+08222017195111	withee@gmail.com : Member with Scrum Role Team Member created the story 505. 
+08222017195600	withee@gmail.com changed story with id 505's Order from '505' to '505'  : Member with Scrum Role Team Member reordered the row.  
+08222017195705	withee@gmail.com changed story with id 505's comments from 'See new mockup. A team should have a new grouping called Stakeholder. The Stakeholder is considered part of the team but anything they do in the backlog triggers a Scrum Violation and lowers the Scrum Score.' to 'See new mockup. A team should have a new grouping called Stakeholder. The Stakeholder is considered part of the team but anything they do in the backlog triggers a Scrum Violation and lowers the Scrum Score.
+
+See Dashboard Mockup and Team Creation Mockup and Team Administration Mockup here: https://drive.google.com/open?id=0BwFopPnYQL9ud1lLZ1NYbTRudmc'  : Member with Scrum Role Team Member made the changes. 
+08222017195705	withee@gmail.com changed story with id 505's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08222017195755	portalintegrators@gmail.com changed story with id 501's story_points from '' to '1'  
+08222017195755	portalintegrators@gmail.com changed story with id 501's status from '' to 'to do'  
+08222017195923	portalintegrators@gmail.com changed story with id 478's story_points from '' to '1'  
+08222017200012	withee@gmail.com changed story with id 318's comments from '' to 'See mockups here: https://drive.google.com/open?id=0BwFopPnYQL9ud1lLZ1NYbTRudmc'  : Member with Scrum Role Team Member made the changes. 
+08222017200325	withee@gmail.com changed story with id 481's comments from 'Combine Backlog Summary into the Status Link (Backlog Summary). Don't break the current Status Link since that is what customers are using right now.' to 'Combine Backlog Summary into the Status Link (Backlog Summary). Don't break the current Status Link since that is what customers are using right now. Make sure to keep the GUID functionality for the link to the page. Include all functionality from both pages into the single page. Should still have all functionality like send message to PO etc..'  : Member with Scrum Role Team Member made the changes. 
+08222017200325	withee@gmail.com changed story with id 481's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08222017200336	withee@gmail.com changed story with id 481's story_points from '3' to ''  : Member with Scrum Role Team Member made the changes. 
+08222017200429	withee@gmail.com changed story with id 448's comments from '' to 'see backlog creation page mockup here: https://drive.google.com/open?id=0BwFopPnYQL9ud1lLZ1NYbTRudmc'  : Member with Scrum Role Team Member made the changes. 
+08222017200847	withee@gmail.com changed story with id 480's Order from '285' to '298'  : Member with Scrum Role Team Member reordered the row.  
+08222017200950	withee@gmail.com changed story with id 460's Order from '280' to '298'  : Member with Scrum Role Team Member reordered the row.  
+08222017201054	withee@gmail.com changed story with id 485's comments from '' to 'See mockup here: https://drive.google.com/open?id=0BwFopPnYQL9ud1lLZ1NYbTRudmc
+'  : Member with Scrum Role Team Member made the changes. 
+08222017202107	withee@gmail.com changed story with id 500's Order from '284' to '285'  : Member with Scrum Role Team Member reordered the row.  
+08222017202120	withee@gmail.com changed story with id 500's Order from '285' to '286'  : Member with Scrum Role Team Member reordered the row.  
+08222017202137	withee@gmail.com changed story with id 500's Order from '286' to '287'  : Member with Scrum Role Team Member reordered the row.  
+08222017202153	withee@gmail.com changed story with id 500's Order from '287' to '288'  : Member with Scrum Role Team Member reordered the row.  
+08222017202205	withee@gmail.com changed story with id 500's Order from '288' to '289'  : Member with Scrum Role Team Member reordered the row.  
+08222017202223	withee@gmail.com changed story with id 500's Order from '289' to '290'  : Member with Scrum Role Team Member reordered the row.  
+08222017202241	withee@gmail.com changed story with id 486's Order from '291' to '292'  : Member with Scrum Role Team Member reordered the row.  
+08222017203030	portalintegrators@gmail.com changed story with id 488's story_points from '' to '8'  
+08222017203030	portalintegrators@gmail.com changed story with id 488's status from '' to 'to do'  
+08222017203054	portalintegrators@gmail.com changed story with id 489's story_points from '' to '13'  
+08222017203054	portalintegrators@gmail.com changed story with id 489's status from '' to 'to do'  
+08222017203219	portalintegrators@gmail.com changed story with id 487's story_points from '' to '8'  
+08222017203219	portalintegrators@gmail.com changed story with id 487's status from '' to 'to do'  
+08222017203238	portalintegrators@gmail.com changed story with id 490's story_points from '' to '13'  
+08222017203238	portalintegrators@gmail.com changed story with id 490's status from '' to 'to do'  
+08222017203247	portalintegrators@gmail.com changed story with id 493's story_points from '' to '5'  
+08222017203247	portalintegrators@gmail.com changed story with id 493's status from '' to 'to do'  
+08222017203347	portalintegrators@gmail.com changed story with id 505's story_points from '' to '8'  
+08222017203407	portalintegrators@gmail.com changed story with id 318's story_points from '' to '8'  
+08222017203426	portalintegrators@gmail.com changed story with id 499's story_points from '' to '3'  
+08222017203510	portalintegrators@gmail.com changed story with id 481's story_points from '' to '3'  
+08222017203532	portalintegrators@gmail.com changed story with id 448's story_points from '' to '5'  
+08222017203607	portalintegrators@gmail.com changed story with id 486's story_points from '' to '5'  
+08222017203624	portalintegrators@gmail.com changed story with id 485's story_points from '' to '8'  
+08222017210550	withee@gmail.com changed story with id 466's Order from '276' to '308'  : Member with Scrum Role Team Member reordered the row.  
+08222017210621	withee@gmail.com changed story with id 210's Order from '276' to '278'  : Member with Scrum Role Team Member reordered the row.  
+08222017210844	withee@gmail.com changed story with id 210's acceptance_test from 'A setting for each Product Backlog that is set to Active or Inactive. This should be on the Settings page for Product Backlogs and each Product Backlog should be listed and a toggle that it is either Active or Inactive.' to 'A setting for each Product Backlog that is set to Active or Inactive. This should be on the Product Backlog Administration. There should be a toggle that it is either Active or Inactive.
+
+If a Product Backlog is set to INACTIVE then it should NOT show up on the Dashboard for the Scrum Team. It should still show up in the Team Administration though as Inactive.'  : Member with Scrum Role Team Member made the changes. 
+08222017210844	withee@gmail.com changed story with id 210's story_points from '8' to ''  : Member with Scrum Role Team Member made the changes. 
+08222017210844	withee@gmail.com changed story with id 210's comments from 'Should be able to see all backlogs and see the toggle. So it is easy to quickly see which backlogs that I have permission on are active or inactive.' to 'See mockup for more info on idea on how to implement.'  : Member with Scrum Role Team Member made the changes. 

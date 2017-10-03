@@ -1,0 +1,6 @@
+04192017021714	rocketscrum.firebase@gmail.com changed story with id 61's i_want from '11' to '112'  : Member with Scrum Role Team Member made the changes. Edit to a committed User Story for Sprint 2 
+04192017021754	rocketscrum.firebase@gmail.com changed story with id 63's story_points from '5' to '8'  : Member with Scrum Role Team Member  made the changes. 
+04192017022211	rocketscrum.firebase@gmail.com changed story with id 63's comments from '3' to 'Test'  
+04192017034302	portalintegrators@gmail.com changed story with id 61's so_that from '1' to '3'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 2 
+04192017040122	portalintegrators@gmail.com changed story with id 64's acceptance_test from '1' to '2'  : Member with Scrum Role Scrum Master  made the changes. 
+04192017040122	portalintegrators@gmail.com changed story with id 64's status from '' to 'to do'  : Member with Scrum Role Scrum Master  made the changes. 

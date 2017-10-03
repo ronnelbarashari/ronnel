@@ -1,0 +1,11 @@
+09142017143340	withee@gmail.com : Member with Scrum Role Stakeholder created the story 566. 
+09142017143416	withee@gmail.com changed story with id 564's Order from '442' to '566'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017182405	withee@gmail.com : Member with Scrum Role Stakeholder created the story 567. 
+09142017182423	withee@gmail.com changed story with id 564's Order from '443' to '567'  : Member with Scrum Role Stakeholder reordered the row. 
+09142017183135	withee@gmail.com changed story with id 564's comments from '' to 'Use tools such as: https://www.csoonline.com/article/2943524/network-security/17-pen-testing-tools-the-pros-use.html'  : Member with Scrum Role Stakeholder made the changes. 
+09142017223732	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 505. 
+09142017223801	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 493. 
+09142017224007	portalintegrators@gmail.com changed story with id 565's story_points from '' to '3'  : Member with Scrum Role Stakeholder made the changes. 
+09142017224326	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 451. 
+09142017224405	portalintegrators@gmail.com : Member with Scrum Role Stakeholder restored the story 451. 
+09142017224427	portalintegrators@gmail.com : Member with Scrum Role Stakeholder deleted the story 451. 

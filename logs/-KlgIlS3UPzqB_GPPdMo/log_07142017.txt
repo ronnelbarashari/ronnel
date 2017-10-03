@@ -1,0 +1,6 @@
+07142017125527	withee@gmail.com changed story with id 50's acceptance_test from 'Create a design for the card container found here: http://www.makeplayingcards.com/design/tin-box-playing-cards.html
+
+Run the design past Rosemarie and then upload it to the makeplayingcards.com site, confirm it looks correct, and then let Ken know to order one.' to 'Create a design for the card container found here: http://www.makeplayingcards.com/design/custom-tin-box-poker-bridge-size.html
+
+Run the design past Rosemarie and then upload it to the makeplayingcards.com site, confirm it looks correct, and then let Ken know to order one.'  
+07142017125527	withee@gmail.com changed story with id 50's status from '' to 'to do'  

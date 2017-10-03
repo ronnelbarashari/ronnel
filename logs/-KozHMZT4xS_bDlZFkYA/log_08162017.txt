@@ -1,0 +1,15 @@
+08162017004134	portalintegrators@gmail.com added story with id 73 : This story has been added and sprint has already started.  
+08162017004140	portalintegrators@gmail.com added story with id 74 : This story has been added and sprint has already started.  
+08162017004147	portalintegrators@gmail.com added story with id 75 : This story has been added and sprint has already started.  
+08162017004152	portalintegrators@gmail.com added story with id 83 : This story has been added and sprint has already started.  
+08162017004204	portalintegrators@gmail.com added story with id 82 : This story has been added and sprint has already started.  
+08162017004210	portalintegrators@gmail.com added story with id 87 : This story has been added and sprint has already started.  
+08162017004218	portalintegrators@gmail.com added story with id 70 : This story has been added and sprint has already started.  
+08162017004437	portalintegrators@gmail.com added story with id 81 : This story has been added and sprint has already started.  
+08162017004440	portalintegrators@gmail.com added story with id 79 : This story has been added and sprint has already started.  
+08162017004447	portalintegrators@gmail.com added story with id 78 : This story has been added and sprint has already started.  
+08162017004455	portalintegrators@gmail.com added story with id 68 : This story has been added and sprint has already started.  
+08162017004457	portalintegrators@gmail.com added story with id 68 : This story has been added and sprint has already started.  
+08162017204140	portalintegrators@gmail.com changed story with id 88's i_want from 'LMS Menu on mobile is wacky-doodle' to 'LMS Dashboard Menu on mobile is wacky-doodle'  
+08162017204140	portalintegrators@gmail.com changed story with id 88's status from '' to 'to do'  
+08162017224916	portalintegrators@gmail.com changed story with id 88's story_points from '' to '3'  

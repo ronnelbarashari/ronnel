@@ -1,0 +1,5 @@
+09112017184107	withee@gmail.com changed story with id 549's Order from '328' to '329'  : Member with Scrum Role Stakeholder reordered the row. 
+09112017184126	withee@gmail.com changed story with id 549's Order from '329' to '330'  : Member with Scrum Role Stakeholder reordered the row. 
+09112017184424	withee@gmail.com changed story with id 517's Order from '334' to '338'  : Member with Scrum Role Stakeholder reordered the row. 
+09112017184826	withee@gmail.com : Member with Scrum Role Stakeholder created the story 560. 
+09112017184847	withee@gmail.com changed story with id 558's Order from '436' to '560'  : Member with Scrum Role Stakeholder reordered the row. 

@@ -1,0 +1,11 @@
+06222017063620	portalintegrators@gmail.com changed story with id 68's comments from 'When having permissions, doing it on test environment then replicating it on the live then making sure any updates don't overwrite the changes are all part of changing a line of code.
+
+THIS NEEDS TO MOVE TO PI BUSINESS BACKLOG. AS SOON AS THE FEATURE TO MOVE A STORY IS AVAILABLE. I ADDED IT ON WRONG BACKLOG.' to 'When having permissions, doing it on test environment then replicating it on the live then making sure any updates don't overwrite the changes are all. part of changing a line of code.
+
+THIS NEEDS TO MOVE TO PI BUSINESS BACKLOG. AS SOON AS THE FEATURE TO MOVE A STORY IS AVAILABLE. I ADDED IT ON WRONG BACKLOG.'  
+06222017063620	portalintegrators@gmail.com changed story with id 68's status from '' to 'to do'  
+06222017064412	portalintegrators@gmail.com added story with id 38 : This story has been added and sprint has already started.  
+06222017064419	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  
+06222017064426	portalintegrators@gmail.com added story with id 24 : This story has been added and sprint has already started.  
+06222017065431	portalintegrators@gmail.com added story with id 38 : This story has been added and sprint has already started.  
+06222017065434	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  

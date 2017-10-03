@@ -1,0 +1,8 @@
+05242017005824	rocketscrum.firebase@gmail.com : Member with Scrum Role Scrum Master Team Member  created the story 55. 
+05242017011047	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+05242017012029	portalintegrators@gmail.com added story with id 1 
+05242017192440	portalintegrators@gmail.com changed story with id RECURRING STORY-5's status from 'in progress' to 'done'  
+05242017192447	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+05242017192452	portalintegrators@gmail.com changed story with id RECURRING STORY-3's status from 'in progress' to 'done'  
+05242017192457	portalintegrators@gmail.com changed story with id RECURRING STORY-6's status from 'in progress' to 'done'  
+05242017192504	portalintegrators@gmail.com changed story with id RECURRING STORY-7's status from 'in progress' to 'done'  

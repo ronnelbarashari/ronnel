@@ -1,0 +1,7 @@
+07302017085211	withee@gmail.com : Member with Scrum Role Team Member created the story 65. 
+07302017085222	withee@gmail.com changed story with id 1's Order from '40' to '65'  : Member with Scrum Role Team Member reordered the row.  
+07302017085226	withee@gmail.com changed story with id 65's Order from '26' to '27'  : Member with Scrum Role Team Member reordered the row.  
+07302017085504	withee@gmail.com changed story with id 65's acceptance_test from 'The "revised" Scrum Guide from Ken is at the front of the Scrum Now Scrum Guide. It is the MAIN text. Then the "original" Scrum Guide in the Appendix of the Scrum Now Scrum Guide with a heading that says "Original Copy of Scrum Guide".' to 'The "revised" Scrum Guide from Ken is at the front of the Scrum Now Scrum Guide. It is the MAIN text. Then the "original" Scrum Guide in the Appendix of the Scrum Now Scrum Guide with a heading that says "Original Copy of Scrum Guide".
+
+The guide should be formatted in the same matter as the Scrum Now Scrum Guide that we just had printed. It should be finalized and in the shopping cart and then let Ken know so he can order a copy.'  : Member with Scrum Role Team Member made the changes. 
+07302017085504	withee@gmail.com changed story with id 65's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 

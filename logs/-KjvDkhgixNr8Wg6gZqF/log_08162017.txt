@@ -1,0 +1,9 @@
+08162017132709	withee@gmail.com changed story with id 469's Order from '289' to '290'  : Member with Scrum Role Team Member reordered the row.  
+08162017150524	ken.withee@portalintegrators.com changed story with id 449's Order from '366' to '367'  : Member with Scrum Role Team Member reordered the row.  
+08162017150642	ken.withee@portalintegrators.com changed story with id 466's acceptance_test from 'Only show Google login and Office 365 login for now since these are the only two options that are working' to 'Only show Google login and Office 365 login as active, clickable, buttons, and the others make non-clickable images and put (COMING SOON) next to them so it is clear they are not yet implemented. '  : Member with Scrum Role Team Member made the changes. 
+08162017150642	ken.withee@portalintegrators.com changed story with id 466's story_points from '2' to ''  : Member with Scrum Role Team Member made the changes. 
+08162017150642	ken.withee@portalintegrators.com changed story with id 466's comments from '' to 'Let's just make it a non link image and put a (COMING SOON) next to it. Then we can implement in future. '  : Member with Scrum Role Team Member made the changes. 
+08162017150642	ken.withee@portalintegrators.com changed story with id 466's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08162017150811	ken.withee@portalintegrators.com changed story with id 447's Order from '365' to '366'  : Member with Scrum Role Team Member reordered the row.  
+08162017202321	ken.withee@portalintegrators.com : Member with Scrum Role Team Member created the story 485. 
+08162017202402	ken.withee@portalintegrators.com changed story with id 468's Order from '368' to '485'  : Member with Scrum Role Team Member reordered the row.  

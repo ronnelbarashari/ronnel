@@ -1,0 +1,6 @@
+08052017080404	portalintegrators@gmail.com changed story with id 30's story_points from '' to '13'  
+08052017080404	portalintegrators@gmail.com changed story with id 30's status from '' to 'to do'  
+08052017080712	portalintegrators@gmail.com changed story with id 11's acceptance_test from 'understanding of how we can create the VHN list from the info of the User Management app' to 'understanding of how we can create the VHN list from the info of the app'  
+08052017080712	portalintegrators@gmail.com changed story with id 11's status from '' to 'to do'  
+08052017080727	portalintegrators@gmail.com changed story with id 23's i_want from 'to figure out how we can get data from the User Management app' to 'to figure out how we can get data from the app'  
+08052017080727	portalintegrators@gmail.com changed story with id 23's status from '' to 'to do'  

@@ -1,0 +1,3 @@
+08122017021707	portalintegrators@gmail.com changed story with id 27's story_points from '' to '3'  
+08122017021707	portalintegrators@gmail.com changed story with id 27's status from '' to 'to do'  
+08122017021720	portalintegrators@gmail.com changed story with id 27's i_want from 'Team Page ID can be clicked by non-Scrum Master roles' to 'Team Page ID link in the menu can be clicked by non-Scrum Master roles'  

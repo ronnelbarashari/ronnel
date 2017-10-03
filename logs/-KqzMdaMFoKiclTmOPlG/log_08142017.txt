@@ -1,0 +1,40 @@
+08142017170852	ronnel.barashari@portalintegrators.com changed story with id 21's Order from '64' to '64'  : Member with Scrum Role Team Member reordered the row.  
+08142017171719	portalintegrators@gmail.com added story with id Recurring-Story-48 : This story has been added and sprint has already started.  
+08142017171721	portalintegrators@gmail.com added story with id Recurring-Story-48 : This story has been added and sprint has already started.  
+08142017171845	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08142017171846	portalintegrators@gmail.com added story with id 57 : This story has been added and sprint has already started.  
+08142017172054	portalintegrators@gmail.com added story with id 58 : This story has been added and sprint has already started.  
+08142017172058	portalintegrators@gmail.com added story with id 57 : This story has been added and sprint has already started.  
+08142017172101	portalintegrators@gmail.com added story with id 57 : This story has been added and sprint has already started.  
+08142017173509	portalintegrators@gmail.com changed story with id 72's story_points from '' to '2'  
+08142017173509	portalintegrators@gmail.com changed story with id 72's status from '' to 'to do'  
+08142017185308	portalintegrators@gmail.com changed story with id 67's story_points from '1' to ''  
+08142017185308	portalintegrators@gmail.com changed story with id 67's status from '' to 'to do'  
+08142017185318	portalintegrators@gmail.com changed story with id 69's story_points from '3' to ''  
+08142017185318	portalintegrators@gmail.com changed story with id 69's status from '' to 'to do'  
+08142017185410	portalintegrators@gmail.com changed story with id 67's story_points from '3' to ''  
+08142017185414	portalintegrators@gmail.com changed story with id 58's story_points from '2' to ''  
+08142017190026	portalintegrators@gmail.com changed story with id 67's story_points from '1' to ''  
+08142017190030	portalintegrators@gmail.com changed story with id 68's story_points from '5' to ''  
+08142017190030	portalintegrators@gmail.com changed story with id 68's status from '' to 'to do'  
+08142017190034	portalintegrators@gmail.com changed story with id 70's story_points from '13' to ''  
+08142017190034	portalintegrators@gmail.com changed story with id 70's status from '' to 'to do'  
+08142017190039	portalintegrators@gmail.com changed story with id 69's story_points from '3' to ''  
+08142017190049	portalintegrators@gmail.com changed story with id 58's story_points from '3' to ''  
+08142017193705	portalintegrators@gmail.com added story with id 67 : This story has been added and sprint has already started.  
+08142017193709	portalintegrators@gmail.com added story with id 70 : This story has been added and sprint has already started.  
+08142017193711	portalintegrators@gmail.com added story with id 72 : This story has been added and sprint has already started.  
+08142017193713	portalintegrators@gmail.com added story with id 78 : This story has been added and sprint has already started.  
+08142017193715	portalintegrators@gmail.com added story with id 78 : This story has been added and sprint has already started.  
+08142017193857	portalintegrators@gmail.com added story with id 79 : This story has been added and sprint has already started.  
+08142017193900	portalintegrators@gmail.com added story with id 81 : This story has been added and sprint has already started.  
+08142017193903	portalintegrators@gmail.com added story with id 83 : This story has been added and sprint has already started.  
+08142017193905	portalintegrators@gmail.com added story with id 85 : This story has been added and sprint has already started.  
+08142017193906	portalintegrators@gmail.com added story with id 85 : This story has been added and sprint has already started.  
+08142017194736	portalintegrators@gmail.com added story with id 81 : This story has been added and sprint has already started.  
+08142017194737	portalintegrators@gmail.com added story with id 81 : This story has been added and sprint has already started.  
+08142017194824	portalintegrators@gmail.com added story with id 86 : This story has been added and sprint has already started.  
+08142017194825	portalintegrators@gmail.com added story with id 86 : This story has been added and sprint has already started.  
+08142017230158	barasharironnel29@gmail.com added story with id 67 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08142017230159	barasharironnel29@gmail.com added story with id 67 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08142017231525	ronnel.barashari@portalintegrators.com changed story with id 73's Order from '107' to '108'  : Member with Scrum Role Team Member reordered the row.  

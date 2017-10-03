@@ -1,0 +1,4 @@
+08092017015426	portalintegrators@gmail.com changed story with id 15's status from 'in progress' to 'done'  
+08092017015430	portalintegrators@gmail.com changed story with id Recurring-Check List-17's status from 'in progress' to 'done'  
+08092017015434	portalintegrators@gmail.com changed story with id Recurring-Site Support-18's status from 'in progress' to 'done'  
+08092017015921	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  

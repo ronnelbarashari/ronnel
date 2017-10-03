@@ -1,0 +1,7 @@
+#sprint_summary { padding-top: 147px;width: 90%;margin: 0 auto; }
+#summary_title {padding-left: 0px; }
+#summary_stories { padding-left: 5%; padding-right: 5%; padding-bottom: :5%;}
+.table_summary { border: 1px solid }
+.table_summary th,td { border: 1px solid; padding: 1%; width:10%; }
+.summary_stories p { font-weight: bold; }
+.summary_footer { padding-bottom: 5%; }

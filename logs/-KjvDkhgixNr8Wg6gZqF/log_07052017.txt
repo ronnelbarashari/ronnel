@@ -1,0 +1,2 @@
+07052017193932	withee@gmail.com changed story with id 133's comments from '' to 'I don't know what is going on with the dragging. Sometimes I can drag a story from the bottom up quickly and sometime it seems like I am going to grow old and retire it goes so slow. Let's see if there is a way to drag faster from the bottom. To test this have a test backlog with 500 stories. Add a new one to the bottom. Then drag it to the top. Make sure to test on Linux too with Firefox and Chrome.'  
+07052017193932	withee@gmail.com changed story with id 133's status from '' to 'to do'  

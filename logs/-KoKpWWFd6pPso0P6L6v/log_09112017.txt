@@ -1,0 +1,4 @@
+09112017120017	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 136. 
+09112017191815	withee@gmail.com : Member with Scrum Role Stakeholder created the story 137. 
+09112017191826	withee@gmail.com changed story with id 136's Order from '136' to '137'  : Member with Scrum Role Stakeholder reordered the row. 
+09112017191851	withee@gmail.com changed story with id 64's Order from '129' to '130'  : Member with Scrum Role Stakeholder reordered the row. 

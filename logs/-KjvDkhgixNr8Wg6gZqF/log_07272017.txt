@@ -1,0 +1,5 @@
+07272017171845	portalintegrators@gmail.com changed story with id 418's i_want from 'to use O365 to login and use Rocket Scrum.' to 'to use O365 to login and use Rocket Scrum'  
+07272017171845	portalintegrators@gmail.com changed story with id 418's status from '' to 'to do'  
+07272017190240	withee@gmail.com : Member with Scrum Role Team Member created the story 420. 
+07272017190301	withee@gmail.com changed story with id 419's Order from '419' to '420'  : Member with Scrum Role Team Member reordered the row.  
+07272017190301	withee@gmail.com changed story with id 419's Order from '419' to '327'  : Member with Scrum Role Team Member reordered the row.  

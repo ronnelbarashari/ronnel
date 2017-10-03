@@ -1,0 +1,5 @@
+09282017030424	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 222. 
+09282017030432	portalintegrators@gmail.com changed story with id 222's Order from '222' to '224'  : Member with Scrum Role Stakeholder reordered the row. 
+09282017174706	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 223. 
+09282017174714	portalintegrators@gmail.com changed story with id 222's Order from '193' to '223'  : Member with Scrum Role Stakeholder reordered the row. 
+09282017174723	portalintegrators@gmail.com changed story with id 193's Order from '193' to '194'  : Member with Scrum Role Stakeholder reordered the row. 

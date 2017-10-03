@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<div style="height: 1000px">
+	<div class="status_container" id="todo"> 
+		To do
+		<div class="board" id="board1" draggable=true> 1 </div>
+	</div>
+	<div class="status_container" id="start">
+		Started
+		<div class="board" id="board2" draggable=true> 2 </div>
+	</div>
+
+	<div class="status_container" id="blocked">
+		Blocked
+		<div class="board" id="board3" draggable=true> 3 </div>
+		<div class="board" id="board4" draggable=true> 4 </div>
+		<div class="board" id="board5" draggable=true> 5 </div>
+	</div>
+	<div class="status_container" id="testing">
+		Testing
+		<div class="board" id="board6" draggable=true> 6 </div>
+		<div class="board" id="board7" draggable=true> 7 </div>
+		<div class="board" id="board8" draggable=true> 8 </div>
+	</div>
+	<div class="status_container" id="done">
+		Done
+		<div class="board" id="board9" draggable=true> 9 </div>
+		<div class="board" id="board10" draggable=true> 10 </div>
+		<div class="board" id="board11" draggable=true> 11 </div>
+	</div>
+</div>
+
+
+<style>
+	.status_container{
+		width: 200px; 
+		float:left; 
+		padding: 10px;
+		border: 2px solid gray;
+    	border-radius: 12px;
+    	margin-left: 10px;
+    	padding-bottom: 50px;
+	}
+	.board{
+		cursor: pointer;
+		border: 2px solid gray;
+		margin-bottom: 2px;
+		text-align: center;
+		padding: 2px;
+	}
+</style>
+<script>
+	window.onload=function(){
+		try{
+			var elDiv=document.getElementsByTagName("div");
+			for (var x=0; x<elDiv.length; x++){
+				if(elDiv[x].className=="status_container"){
+					elDiv[x].addEventListener('drop', function (ev){
+						ev.preventDefault();
+					    var data = ev.dataTransfer.getData("html");
+					    if(ev.target.className=="status_container")
+						    ev.target.appendChild(document.getElementById(data));
+					    else
+					    	ev.target.parentElement.insertBefore(document.getElementById(data),ev.target);
+	            	}, false);
+	            	elDiv[x].addEventListener('dragover',function(ev){
+	            		ev.preventDefault();
+	            	});
+				}
+				if(elDiv[x].className=="board"){
+					elDiv[x].addEventListener('dragstart',function(ev){
+						ev.dataTransfer.setData("html", ev.target.id);
+					});
+				}
+			}
+		}catch(ex){alert(ex.message);}	
+	};
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+05242017000550	portalintegrators@gmail.com changed story with id RECURRING STORY-190's as_a from '2' to '21'  : Edit to a committed User Story for Sprint 29 
+05242017000550	portalintegrators@gmail.com changed story with id RECURRING STORY-190's i_want from '2' to '21'  : Edit to a committed User Story for Sprint 29 
+05242017194131	portalintegrators@gmail.com changed story with id RECURRING STORY-237's story_points from '1' to '2'  : Edit to a committed User Story for Sprint 1 
+05242017194310	portalintegrators@gmail.com changed story with id RECURRING STORY-237's story_points from '2' to '1'  : Edit to a committed User Story for Sprint 1 
+05242017194421	portalintegrators@gmail.com added story with id 236 : This story has been added and sprint has already started.  

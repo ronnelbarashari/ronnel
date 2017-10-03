@@ -1,0 +1,4 @@
+07012017044957	portalintegrators@gmail.com changed story with id 289's story_points from '' to '55'  
+07012017044957	portalintegrators@gmail.com changed story with id 289's status from '' to 'to do'  
+07012017045007	portalintegrators@gmail.com changed story with id 289's story_points from '55' to '34'  
+07012017050612	portalintegrators@gmail.com changed story with id 36's acceptance_test from 'make sure that user stories are displayed on Rocket Scrum app' to 'make sure that user stories are displayed on Rocket Scrum app.'  

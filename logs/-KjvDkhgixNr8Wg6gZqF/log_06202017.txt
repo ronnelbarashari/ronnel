@@ -1,0 +1,10 @@
+06202017004538	portalintegrators@gmail.com added story with id 2 
+06202017004918	portalintegrators@gmail.com added story with id 181 : This story has been added and sprint has already started.  
+06202017025402	portalintegrators@gmail.com added story with id 181 : This story has been added and sprint has already started.  
+06202017025416	portalintegrators@gmail.com added story with id 175 : This story has been added and sprint has already started.  
+06202017025421	portalintegrators@gmail.com added story with id 188 : This story has been added and sprint has already started.  
+06202017025424	portalintegrators@gmail.com added story with id 212 : This story has been added and sprint has already started.  
+06202017025430	portalintegrators@gmail.com added story with id 212 : This story has been added and sprint has already started.  
+06202017163414	withee@gmail.com changed story with id 224's i_want from 'to have a Happiness Metric built into Rocket Scrum Retrospective Event.' to 'to have a Happiness Metric Exercise built into Rocket Scrum Retrospective Event.'  
+06202017163414	withee@gmail.com changed story with id 224's acceptance_test from 'Rocket Scrum should have a Sprint Retrospective event that guides the team through the event. Within the event there should be a Happiness Metric for Company, Team, and Role.' to 'Rocket Scrum should have a Sprint Retrospective event that guides the team through the event. Within the event there should be a Happiness Metric for Company, Team, and Role. The Happiness Metric Exercise should also include a discussion on what can be done to improve the scores.'  
+06202017163414	withee@gmail.com changed story with id 224's status from '' to 'to do'  

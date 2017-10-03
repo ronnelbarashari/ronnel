@@ -1,0 +1,4 @@
+07282017012628	portalintegrators@gmail.com changed story with id 60's as_a from 'Developer' to 'Development Team'  
+07282017012628	portalintegrators@gmail.com changed story with id 60's status from '' to 'to do'  
+07282017012644	portalintegrators@gmail.com changed story with id 59's as_a from 'Site Admin' to 'AWS Maintenance Team'  
+07282017012644	portalintegrators@gmail.com changed story with id 59's status from '' to 'to do'  

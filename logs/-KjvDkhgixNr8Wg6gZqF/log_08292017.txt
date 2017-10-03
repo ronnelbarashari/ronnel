@@ -1,0 +1,29 @@
+08292017173822	withee@gmail.com : Member with Scrum Role Team Member created the story 526. 
+08292017173841	withee@gmail.com changed story with id 525's Order from '525' to '526'  : Member with Scrum Role Team Member reordered the row.  
+08292017174148	withee@gmail.com changed story with id 486's Order from '292' to '309'  : Member with Scrum Role Team Member reordered the row.  
+08292017174152	withee@gmail.com changed story with id 371's Order from '308' to '322'  : Member with Scrum Role Team Member reordered the row.  
+08292017174316	withee@gmail.com : Member with Scrum Role Team Member created the story 527. 
+08292017174336	withee@gmail.com changed story with id 525's Order from '401' to '527'  : Member with Scrum Role Team Member reordered the row.  
+08292017174401	withee@gmail.com changed story with id 522's Order from '294' to '307'  : Member with Scrum Role Team Member reordered the row.  
+08292017174405	withee@gmail.com changed story with id 522's Order from '307' to '308'  : Member with Scrum Role Team Member reordered the row.  
+08292017174432	withee@gmail.com changed story with id 486's Order from '309' to '310'  : Member with Scrum Role Team Member reordered the row.  
+08292017174448	withee@gmail.com changed story with id 469's Order from '311' to '312'  : Member with Scrum Role Team Member reordered the row.  
+08292017182751	portalintegrators@gmail.com changed story with id 466's status from 'in progress' to 'done'  
+08292017182759	portalintegrators@gmail.com changed story with id Recurring-Check List-509's status from 'in progress' to 'done'  
+08292017182809	portalintegrators@gmail.com changed story with id Recurring-Story-510's status from 'in progress' to 'done'  
+08292017182816	portalintegrators@gmail.com changed story with id 455's status from 'in progress' to 'done'  
+08292017182827	portalintegrators@gmail.com changed story with id 505's status from 'in progress' to 'done'  
+08292017182833	portalintegrators@gmail.com changed story with id 210's status from 'in progress' to 'done'  
+08292017182844	portalintegrators@gmail.com changed story with id 318's status from 'in progress' to 'done'  
+08292017182853	portalintegrators@gmail.com changed story with id 501's status from 'in progress' to 'done'  
+08292017182900	portalintegrators@gmail.com changed story with id 499's status from 'in progress' to 'done'  
+08292017182908	portalintegrators@gmail.com changed story with id 478's status from 'in progress' to 'done'  
+08292017182914	portalintegrators@gmail.com changed story with id 479's status from 'in progress' to 'done'  
+08292017182922	portalintegrators@gmail.com changed story with id 481's status from 'in progress' to 'done'  
+08292017182929	portalintegrators@gmail.com changed story with id 472's status from 'in progress' to 'done'  
+08292017182936	portalintegrators@gmail.com changed story with id 512's status from 'in progress' to 'done'  
+08292017182944	portalintegrators@gmail.com changed story with id 513's status from 'in progress' to 'done'  
+08292017182951	portalintegrators@gmail.com changed story with id 514's status from 'in progress' to 'done'  
+08292017185610	withee@gmail.com : Member with Scrum Role Team Member created the story 528. 
+08292017185627	withee@gmail.com changed story with id 525's Order from '402' to '528'  : Member with Scrum Role Team Member reordered the row.  
+08292017231206	portalintegrators@gmail.com added story with id 515 : This story has been added and sprint has already started.  

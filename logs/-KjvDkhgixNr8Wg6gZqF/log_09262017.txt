@@ -1,0 +1,7 @@
+09262017130621	withee@gmail.com changed story with id 598's comments from 'Ask Ken and Gen if any questions.' to 'Work with Gen to take lead on this one.'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193158	portalintegrators@gmail.com changed story with id 596's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193644	portalintegrators@gmail.com changed story with id 599's story_points from '' to '21'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193732	portalintegrators@gmail.com changed story with id 601's story_points from '' to '21'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193811	portalintegrators@gmail.com changed story with id 598's story_points from '' to '5'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193827	portalintegrators@gmail.com changed story with id 600's story_points from '' to '5'  : Member with Scrum Role Stakeholder made the changes. 
+09262017193835	portalintegrators@gmail.com changed story with id 598's story_points from '5' to '8'  : Member with Scrum Role Stakeholder made the changes. 

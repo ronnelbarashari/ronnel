@@ -1,0 +1,10 @@
+#backlog_tatus { padding-top: 147px;}
+#summary_title {padding-left: 24px; }
+#summary_stories { padding-left: 5%; padding-right: 5%; padding-bottom: :5%; padding-top:  34px}
+.table_summary { border: 1px solid }
+.table_summary th,td { border: 1px solid; padding: 1%; width:10%; }
+.summary_stories p { font-weight: bold; }
+.summary_footer { padding-bottom: 5%; }
+
+#walkthroughtitle {background-color: #D3D3D3; }
+#walkthroughbacklog {background-color: #FFFF00;}

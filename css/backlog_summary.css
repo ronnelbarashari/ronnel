@@ -1,0 +1,11 @@
+#backlog_tatus { padding-top: 147px;}
+#summary_title {padding-left: 24px; }
+#summary_stories { padding-left: 5%; padding-right: 5%; padding-bottom: :5%; padding-top:  0px}
+#summary_stories_in_progress { padding-left: 5%; padding-right: 5%; padding-bottom: :5%; padding-top:  0px}
+.table_summary { border: 1px solid }
+.table_summary th,td { border: 1px solid; padding: 1%; width:10%; }
+.table_summary { word-wrap: break-word;word-break: break-all;}
+.summary_stories p { font-weight: bold; }
+.summary_stories_in_progress p { font-weight: bold; }
+.summary_footer { padding-bottom: 5%; }
+#backlog_summary > span {margin-left: 0px;}

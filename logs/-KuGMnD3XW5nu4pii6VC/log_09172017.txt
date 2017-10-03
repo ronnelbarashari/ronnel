@@ -1,0 +1,23 @@
+09172017141130	withee@gmail.com changed story with id 1's acceptance_test from 'iOS app that supports iPhone and iPad.' to 'iOS app that supports iPhone and iPad. See https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141130	withee@gmail.com changed story with id 1's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141225	withee@gmail.com changed story with id 1's story_points from '34' to ''  : Member with Scrum Role Stakeholder made the changes. 
+09172017141232	withee@gmail.com changed story with id 2's story_points from '13' to ''  : Member with Scrum Role Stakeholder made the changes. 
+09172017141232	withee@gmail.com changed story with id 2's status from '' to 'to do'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141335	withee@gmail.com : Member with Scrum Role Stakeholder created the story 3. 
+09172017141418	withee@gmail.com : Member with Scrum Role Stakeholder created the story 4. 
+09172017141450	withee@gmail.com : Member with Scrum Role Stakeholder created the story 5. 
+09172017141529	withee@gmail.com : Member with Scrum Role Stakeholder created the story 6. 
+09172017141630	withee@gmail.com : Member with Scrum Role Stakeholder created the story 7. 
+09172017141638	withee@gmail.com changed story with id 6's comments from '' to 'see https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141646	withee@gmail.com changed story with id 5's comments from '' to 'see https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141703	withee@gmail.com changed story with id 4's comments from 'Microsoft authentication and Linked In are not included in the built-in authentication methods in Firebase' to 'Microsoft authentication and Linked In are not included in the built-in authentication methods in Firebase
+
+See https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141712	withee@gmail.com changed story with id 3's comments from 'Using Xcode and Swift, build the base Rocket Scrum project ' to 'Using Xcode and Swift, build the base Rocket Scrum project. 
+
+see https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141722	withee@gmail.com changed story with id 2's comments from 'iOS Project' to 'see https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141738	withee@gmail.com changed story with id 1's comments from 'iOS Project' to 'see https://drive.google.com/open?id=0BwFopPnYQL9uQms1MWloTnI3UVE'  : Member with Scrum Role Stakeholder made the changes. 
+09172017141806	withee@gmail.com : Member with Scrum Role Stakeholder deleted the story 1. 
+09172017141812	withee@gmail.com changed story with id 2's Order from '2' to '7'  : Member with Scrum Role Stakeholder reordered the row. 
+09172017180855	withee@gmail.com : Member with Scrum Role Stakeholder created the story 8. 

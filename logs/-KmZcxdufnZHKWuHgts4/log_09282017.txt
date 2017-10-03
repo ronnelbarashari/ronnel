@@ -1,0 +1,4 @@
+09282017021935	portalintegrators@gmail.com : Member with Scrum Role Stakeholder created the story 121. 
+09282017021952	portalintegrators@gmail.com changed story with id 112's Order from '83' to '121'  : Member with Scrum Role Stakeholder reordered the row. 
+09282017021959	portalintegrators@gmail.com changed story with id 121's i_want from 'to start building the chat bot app. Build the foundation first.' to 'to start building the chat bot app. Build the foundation first'  : Member with Scrum Role Stakeholder made the changes. 
+09282017021959	portalintegrators@gmail.com changed story with id 121's acceptance_test from 'Create the foundation of the chat bot app prototype.' to 'Create the foundation of the chat bot app prototype'  : Member with Scrum Role Stakeholder made the changes. 

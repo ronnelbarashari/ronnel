@@ -1,0 +1,16 @@
+07282017222617	portalintegrators@gmail.com changed story with id 10's acceptance_test from 'create a dashboard in Power BI for User Management app data' to 'create a dashboard in Power BI for User Management app data
+
+user management app gets updated and data shows on the dashboard'  
+07282017222617	portalintegrators@gmail.com changed story with id 10's status from '' to 'to do'  
+07282017222913	portalintegrators@gmail.com changed story with id 10's acceptance_test from 'create a dashboard in Power BI for User Management app data
+
+user management app gets updated and data shows on the dashboard' to 'create a dashboard in Power BI for User Management app data
+
+user management app gets updated and data shows on the dashboard then compare the fields on the user management app and the VHN list'  
+07282017233734	portalintegrators@gmail.com changed story with id 12's i_want from 'to look into the VHN spreadsheet on NetTech test SP environment' to 'to look into the VHN spreadsheet on NetTech test SP environment
+
+and figure out what stats to get from connectwise'  
+07282017233734	portalintegrators@gmail.com changed story with id 12's acceptance_test from 'check for VHN spreadsheet on test SP environment' to 'check for VHN spreadsheet on test SP environment
+
+figure out what stats to get from connectwise'  
+07282017233734	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  

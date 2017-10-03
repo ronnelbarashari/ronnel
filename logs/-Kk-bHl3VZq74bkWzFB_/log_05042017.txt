@@ -1,0 +1,26 @@
+05042017010620	portalintegrators@gmail.com changed story with id RECURRING STORY-375's status from 'in progress' to 'to do'  
+05042017010908	portalintegrators@gmail.com changed story with id 257's status from '' to 'done'  
+05042017010924	portalintegrators@gmail.com changed story with id 381's status from '' to 'done'  
+05042017010956	portalintegrators@gmail.com changed story with id 328's status from '' to 'done'  
+05042017011515	portalintegrators@gmail.com changed story with id RECURRING STORY-374's status from 'in progress' to 'to do'  
+05042017011528	portalintegrators@gmail.com changed story with id RECURRING STORY-374's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 14 
+05042017192158	rocketscrum.firebase@gmail.com changed story with id 328's Order from '361' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192159	rocketscrum.firebase@gmail.com changed story with id 278's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192200	rocketscrum.firebase@gmail.com changed story with id 380's Order from '362' to '380'  : Member with Scrum Role Team Member reordered the row.  
+05042017192202	rocketscrum.firebase@gmail.com changed story with id 278's Order from '362' to '380'  : Member with Scrum Role Team Member reordered the row.  
+05042017192203	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192205	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192206	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192207	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192210	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192212	rocketscrum.firebase@gmail.com changed story with id RECURRING STORY-375's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192214	rocketscrum.firebase@gmail.com changed story with id 391's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192215	rocketscrum.firebase@gmail.com changed story with id 392's Order from '390' to '391'  : Member with Scrum Role Team Member reordered the row.  
+05042017192217	rocketscrum.firebase@gmail.com changed story with id 393's Order from '362' to '380'  : Member with Scrum Role Team Member reordered the row.  
+05042017192218	rocketscrum.firebase@gmail.com changed story with id 's Order from '' to ''  : Member with Scrum Role Team Member reordered the row.  
+05042017192219	rocketscrum.firebase@gmail.com changed story with id 390's Order from '362' to '380'  : Member with Scrum Role Team Member reordered the row.  
+05042017192220	rocketscrum.firebase@gmail.com changed story with id 391's Order from '362' to '362'  : Member with Scrum Role Team Member reordered the row.  
+05042017192222	rocketscrum.firebase@gmail.com changed story with id 391's Order from '362' to '380'  : Member with Scrum Role Team Member reordered the row.  
+05042017192223	rocketscrum.firebase@gmail.com changed story with id 393's Order from '362' to '390'  : Member with Scrum Role Team Member reordered the row.  
+05042017201656	portalintegrators@gmail.com changed story with id RECURRING STORY-375's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 15 
+05042017201700	portalintegrators@gmail.com changed story with id 278's status from 'to do' to 'in progress'  : Edit to a committed User Story for Sprint 15 

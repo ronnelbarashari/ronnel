@@ -1,0 +1,4 @@
+07102017170235	portalintegrators@gmail.com changed story with id 4's status from 'in progress' to 'done'  
+07102017180019	portalintegrators@gmail.com added story with id 1 : This story has been added and sprint has already started.  
+07102017180033	portalintegrators@gmail.com added story with id 1 : This story has been added and sprint has already started.  
+07102017184517	rocketscrum.firebase@gmail.com changed story with id 11's Order from '11' to '12'  : Member with Scrum Role Scrum Master Team Member  reordered the row.  

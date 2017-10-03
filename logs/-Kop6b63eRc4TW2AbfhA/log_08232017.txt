@@ -1,0 +1,5 @@
+08232017011256	portalintegrators@gmail.com changed story with id 14's status from 'in progress' to 'done'  
+08232017011259	portalintegrators@gmail.com changed story with id 24's status from 'in progress' to 'done'  
+08232017011302	portalintegrators@gmail.com changed story with id 28's status from 'in progress' to 'done'  
+08232017011306	portalintegrators@gmail.com changed story with id 30's status from 'in progress' to 'done'  
+08232017011533	portalintegrators@gmail.com changed story with id 34's story_points from '8' to '13'  : Edit to a committed User Story for Sprint 75 

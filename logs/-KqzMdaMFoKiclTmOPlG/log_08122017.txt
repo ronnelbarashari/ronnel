@@ -1,0 +1,57 @@
+08122017000342	portalintegrators@gmail.com added story with id 22 : This story has been added and sprint has already started.  
+08122017000427	portalintegrators@gmail.com added story with id 24 : This story has been added and sprint has already started.  
+08122017000806	portalintegrators@gmail.com added story with id 23 : This story has been added and sprint has already started.  
+08122017000809	portalintegrators@gmail.com added story with id 24 : This story has been added and sprint has already started.  
+08122017000817	portalintegrators@gmail.com added story with id 24 : This story has been added and sprint has already started.  
+08122017005841	ronnel.barashari@portalintegrators.com : Member with Scrum Role Team Member created the story 34. 
+08122017005851	ronnel.barashari@portalintegrators.com changed story with id 34's story_points from '144' to ''  : Member with Scrum Role Team Member made the changes. 
+08122017005851	ronnel.barashari@portalintegrators.com changed story with id 34's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08122017005855	ronnel.barashari@portalintegrators.com changed story with id 34's story_points from '' to '2'  : Member with Scrum Role Team Member made the changes. 
+08122017005859	ronnel.barashari@portalintegrators.com changed story with id 34's as_a from 'mytest' to 'mytestt'  : Member with Scrum Role Team Member made the changes. 
+08122017005905	ronnel.barashari@portalintegrators.com changed story with id 34's i_want from 'test' to 'testbv'  : Member with Scrum Role Team Member made the changes. 
+08122017010301	ronnel.barashari@portalintegrators.com changed story with id 34's as_a from 'mytestt' to 'mytesttgf'  : Member with Scrum Role Team Member made the changes. 
+08122017010301	ronnel.barashari@portalintegrators.com changed story with id 34's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08122017010412	ronnel.barashari@portalintegrators.com changed story with id 34's i_want from 'testbv' to 'testbvb'  : Member with Scrum Role Team Member made the changes. 
+08122017010412	ronnel.barashari@portalintegrators.com changed story with id 34's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08122017010648	ronnel.barashari@portalintegrators.com changed story with id 20's Order from '32' to '33'  : Member with Scrum Role Team Member reordered the row.  
+08122017010648	ronnel.barashari@portalintegrators.com changed story with id 23's Order from '32' to '33'  : Member with Scrum Role Team Member reordered the row.  
+08122017010910	ronnel.barashari@portalintegrators.com changed story with id 23's Order from '33' to '34'  : Member with Scrum Role Team Member reordered the row.  
+08122017010911	ronnel.barashari@portalintegrators.com changed story with id 20's Order from '33' to '34'  : Member with Scrum Role Team Member reordered the row.  
+08122017011045	ronnel.barashari@portalintegrators.com changed story with id 20's as_a from 'xa' to 'xaasd'  : Member with Scrum Role Team Member made the changes. 
+08122017011045	ronnel.barashari@portalintegrators.com changed story with id 20's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08122017011115	ronnel.barashari@portalintegrators.com changed story with id 23's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+08122017011129	ronnel.barashari@portalintegrators.com changed story with id 24's Order from '31' to '34'  : Member with Scrum Role Team Member reordered the row.  
+08122017011131	ronnel.barashari@portalintegrators.com changed story with id 24's Order from '31' to '34'  : Member with Scrum Role Team Member reordered the row.  
+08122017011309	ronnel.barashari@portalintegrators.com added story with id 20 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017011311	ronnel.barashari@portalintegrators.com added story with id 20 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017011605	ronnel.barashari@portalintegrators.com added story with id 20 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017011606	ronnel.barashari@portalintegrators.com added story with id 20 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017013404	ronnel.barashari@portalintegrators.com added story with id 21 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017013406	ronnel.barashari@portalintegrators.com added story with id 21 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017013419	ronnel.barashari@portalintegrators.com changed story with id 34's Order from '44' to '46'  : Member with Scrum Role Team Member reordered the row.  
+08122017013420	ronnel.barashari@portalintegrators.com changed story with id 24's Order from '44' to '46'  : Member with Scrum Role Team Member reordered the row.  
+08122017013421	ronnel.barashari@portalintegrators.com changed story with id 24's Order from '44' to '45'  : Member with Scrum Role Team Member reordered the row.  
+08122017013541	ronnel.barashari@portalintegrators.com changed story with id 22's Order from '45' to '46'  : Member with Scrum Role Team Member reordered the row.  
+08122017013543	ronnel.barashari@portalintegrators.com changed story with id 21's Order from '44' to '44'  : Member with Scrum Role Team Member reordered the row.  
+08122017021749	portalintegrators@gmail.com changed story with id 56's as_a from 'ggtest' to 'cvbncvbndfg'  
+08122017021749	portalintegrators@gmail.com changed story with id 56's status from '' to 'to do'  
+08122017021839	portalintegrators@gmail.com changed story with id 56's status from '' to 'to do'  
+08122017021856	portalintegrators@gmail.com changed story with id 48's status from '' to 'to do'  
+08122017022028	portalintegrators@gmail.com added story with id 34 : This story has been added and sprint has already started.  
+08122017022032	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022037	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022039	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022041	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022044	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022046	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022049	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022051	portalintegrators@gmail.com added story with id 47 : This story has been added and sprint has already started.  
+08122017022054	portalintegrators@gmail.com added story with id 22 : This story has been added and sprint has already started.  
+08122017022106	portalintegrators@gmail.com added story with id 19 : This story has been added and sprint has already started.  
+08122017022406	portalintegrators@gmail.com added story with id 22 : This story has been added and sprint has already started.  
+08122017022407	portalintegrators@gmail.com added story with id 22 : This story has been added and sprint has already started.  
+08122017024405	ronnel.barashari@portalintegrators.com changed story with id 20's Order from '60' to '63'  : Member with Scrum Role Team Member reordered the row.  
+08122017024407	ronnel.barashari@portalintegrators.com changed story with id Recurring-Story-58's Order from '63' to '64'  : Member with Scrum Role Team Member reordered the row.  
+08122017024602	ronnel.barashari@portalintegrators.com added story with id Recurring-Story-58 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  
+08122017024621	portalintegrators@gmail.com added story with id Recurring-Story-58 : This story has been added and sprint has already started.  
+08122017025509	ronnel.barashari@portalintegrators.com added story with id 34 : Member with Scrum Role Team Member made the changes.   This story has been added and sprint has already started.  

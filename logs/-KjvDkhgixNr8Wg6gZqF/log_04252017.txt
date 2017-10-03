@@ -1,0 +1,25 @@
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's as_a from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's i_want from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's so_that from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's acceptance_test from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's story_points from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's comments from '13' to '131'  : Member with Scrum Role Team Member made the changes. 
+04252017023753	rocketscrum.firebase@gmail.com changed story with id 76's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017023759	rocketscrum.firebase@gmail.com changed story with id 70's as_a from '7' to '71'  : Member with Scrum Role Team Member made the changes. 
+04252017023759	rocketscrum.firebase@gmail.com changed story with id 70's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017023817	rocketscrum.firebase@gmail.com changed story with id 76's as_a from '131' to '13111111'  : Member with Scrum Role Team Member made the changes. 
+04252017023834	rocketscrum.firebase@gmail.com changed story with id 82's as_a from '19' to '191'  : Member with Scrum Role Team Member made the changes. 
+04252017023834	rocketscrum.firebase@gmail.com changed story with id 82's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017023839	rocketscrum.firebase@gmail.com changed story with id 77's as_a from '14123123123' to '141231231231111'  : Member with Scrum Role Team Member made the changes. 
+04252017024813	rocketscrum.firebase@gmail.com changed story with id 91's as_a from '2' to '21'  : Member with Scrum Role Team Member made the changes. 
+04252017024813	rocketscrum.firebase@gmail.com changed story with id 91's i_want from '2' to '21'  : Member with Scrum Role Team Member made the changes. 
+04252017024813	rocketscrum.firebase@gmail.com changed story with id 91's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017024818	rocketscrum.firebase@gmail.com changed story with id 90's as_a from '1' to '111'  : Member with Scrum Role Team Member made the changes. 
+04252017024818	rocketscrum.firebase@gmail.com changed story with id 90's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017024854	rocketscrum.firebase@gmail.com changed story with id 91's so_that from '2' to '21'  : Member with Scrum Role Team Member made the changes. 
+04252017024859	rocketscrum.firebase@gmail.com changed story with id 92's i_want from '3' to '32'  : Member with Scrum Role Team Member made the changes. 
+04252017024859	rocketscrum.firebase@gmail.com changed story with id 92's so_that from '3' to '32'  : Member with Scrum Role Team Member made the changes. 
+04252017024859	rocketscrum.firebase@gmail.com changed story with id 92's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+04252017211045	portalintegrators@gmail.com added story with id 92 : This story has been added and sprint has already started.  
+04252017211728	portalintegrators@gmail.com added story with id 96 : This story has been added and sprint has already started.  
+04252017211739	portalintegrators@gmail.com added story with id 98 : This story has been added and sprint has already started.  

@@ -1,0 +1,70 @@
+08072017165554	portalintegrators@gmail.com changed story with id 3's status from 'in progress' to 'done'  
+08072017165556	portalintegrators@gmail.com changed story with id 5's status from 'in progress' to 'done'  
+08072017165600	portalintegrators@gmail.com changed story with id Recurring-Story-8's status from 'in progress' to 'done'  
+08072017165604	portalintegrators@gmail.com changed story with id Recurring-Blog Post-9's status from 'in progress' to 'done'  
+08072017165613	portalintegrators@gmail.com changed story with id Recurring-Story-10's status from 'in progress' to 'done'  
+08072017165623	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+08072017165713	portalintegrators@gmail.com changed story with id 12's status from 'in progress' to 'done'  
+08072017165725	portalintegrators@gmail.com changed story with id Recurring-Story-23's status from 'in progress' to 'done'  
+08072017165730	portalintegrators@gmail.com changed story with id Recurring-Site Support-24's status from 'in progress' to 'done'  
+08072017165747	portalintegrators@gmail.com changed story with id 11's status from 'in progress' to 'done'  
+08072017165754	portalintegrators@gmail.com changed story with id 14's status from 'in progress' to 'done'  
+08072017165759	portalintegrators@gmail.com changed story with id 15's status from 'in progress' to 'done'  
+08072017165803	portalintegrators@gmail.com changed story with id Recurring-Site Support-25's status from 'in progress' to 'done'  
+08072017165808	portalintegrators@gmail.com changed story with id 16's status from 'in progress' to 'done'  
+08072017165814	portalintegrators@gmail.com changed story with id Recurring-Site Support-26's status from 'in progress' to 'done'  
+08072017165817	portalintegrators@gmail.com changed story with id 17's status from 'in progress' to 'done'  
+08072017165821	portalintegrators@gmail.com changed story with id Recurring-Site Support-27's status from 'in progress' to 'done'  
+08072017165824	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'done'  
+08072017165830	portalintegrators@gmail.com changed story with id Recurring-Site Support-28's status from 'in progress' to 'done'  
+08072017165925	portalintegrators@gmail.com changed story with id 41's story_points from '1' to ''  
+08072017165925	portalintegrators@gmail.com changed story with id 41's status from '' to 'to do'  
+08072017165933	portalintegrators@gmail.com changed story with id 41's story_points from '' to '2'  
+08072017170306	portalintegrators@gmail.com added story with id 90 : This story has been added and sprint has already started.  
+08072017170308	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08072017170309	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08072017170435	portalintegrators@gmail.com changed story with id Recurring-Site Support-106's status from 'in progress' to 'done'  
+08072017170457	portalintegrators@gmail.com changed story with id 22's status from 'in progress' to 'done'  
+08072017170459	portalintegrators@gmail.com changed story with id 103's status from 'in progress' to 'done'  
+08072017170502	portalintegrators@gmail.com changed story with id 42's status from 'in progress' to 'done'  
+08072017170505	portalintegrators@gmail.com changed story with id 41's status from 'in progress' to 'done'  
+08072017170717	portalintegrators@gmail.com changed story with id Recurring-Story-108's status from 'in progress' to 'done'  
+08072017170720	portalintegrators@gmail.com changed story with id Recurring-Site Support-109's status from 'in progress' to 'done'  
+08072017170731	portalintegrators@gmail.com added story with id 4 
+08072017170733	portalintegrators@gmail.com added story with id 90 : This story has been added and sprint has already started.  
+08072017170735	portalintegrators@gmail.com added story with id 107 : This story has been added and sprint has already started.  
+08072017170736	portalintegrators@gmail.com added story with id 107 : This story has been added and sprint has already started.  
+08072017170754	portalintegrators@gmail.com changed story with id Recurring-Story-110's status from 'in progress' to 'done'  
+08072017170802	portalintegrators@gmail.com changed story with id Recurring-Site Support-111's status from 'in progress' to 'done'  
+08072017170839	portalintegrators@gmail.com added story with id 107 : This story has been added and sprint has already started.  
+08072017170840	portalintegrators@gmail.com added story with id 107 : This story has been added and sprint has already started.  
+08072017171300	portalintegrators@gmail.com added story with id 4 
+08072017171302	portalintegrators@gmail.com added story with id 4 
+08072017171304	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08072017171310	portalintegrators@gmail.com added story with id 19 : This story has been added and sprint has already started.  
+08072017173137	portalintegrators@gmail.com changed story with id 20's status from 'in progress' to 'done'  
+08072017174007	portalintegrators@gmail.com added story with id 4 
+08072017174007	portalintegrators@gmail.com added story with id 4 
+08072017174008	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08072017174012	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+08072017174030	portalintegrators@gmail.com changed story with id 107's status from 'in progress' to 'done'  
+08072017174032	portalintegrators@gmail.com changed story with id Recurring-Story-123's status from 'in progress' to 'done'  
+08072017174036	portalintegrators@gmail.com changed story with id Recurring-Blog Post-124's status from 'in progress' to 'done'  
+08072017174039	portalintegrators@gmail.com changed story with id Recurring-Site Support-125's status from 'in progress' to 'done'  
+08072017174043	portalintegrators@gmail.com changed story with id 21's status from 'in progress' to 'done'  
+08072017192644	portalintegrators@gmail.com added story with id 4 
+08072017192644	portalintegrators@gmail.com added story with id 4 
+08072017192646	portalintegrators@gmail.com added story with id 129 : This story has been added and sprint has already started.  
+08072017192647	portalintegrators@gmail.com added story with id 131 : This story has been added and sprint has already started.  
+08072017192648	portalintegrators@gmail.com added story with id 131 : This story has been added and sprint has already started.  
+08072017192953	portalintegrators@gmail.com changed story with id 140's story_points from '1' to '34'  
+08072017192953	portalintegrators@gmail.com changed story with id 140's status from '' to 'to do'  
+08072017193116	portalintegrators@gmail.com changed story with id 88's status from '' to 'to do'  
+08072017193203	portalintegrators@gmail.com changed story with id 141's story_points from '3' to ''  
+08072017193203	portalintegrators@gmail.com changed story with id 141's status from '' to 'to do'  
+08072017221019	portalintegrators@gmail.com changed story with id 131's status from 'in progress' to 'done'  
+08072017221324	portalintegrators@gmail.com added story with id 132 : This story has been added and sprint has already started.  
+08072017221330	portalintegrators@gmail.com added story with id 133 : This story has been added and sprint has already started.  
+08072017221331	portalintegrators@gmail.com added story with id 133 : This story has been added and sprint has already started.  
+08072017221444	portalintegrators@gmail.com changed story with id 130's status from 'in progress' to 'done'  
+08072017221506	portalintegrators@gmail.com changed story with id 132's status from 'in progress' to 'done'  

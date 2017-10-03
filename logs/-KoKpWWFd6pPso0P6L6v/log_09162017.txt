@@ -1,0 +1,44 @@
+09162017101502	withee@gmail.com : Member with Scrum Role Stakeholder created the story 166. 
+09162017104721	withee@gmail.com : Member with Scrum Role Stakeholder created the story 167. 
+09162017105056	withee@gmail.com : Member with Scrum Role Stakeholder created the story 168. 
+09162017105609	withee@gmail.com : Member with Scrum Role Stakeholder created the story 169. 
+09162017105657	withee@gmail.com : Member with Scrum Role Stakeholder created the story 170. 
+09162017105814	withee@gmail.com changed story with id 170's acceptance_test from 'Some type of notification for first time sign up that blog is getting created and approved.' to 'Some type of notification for first time sign up that blog is getting created and approved. In addition, there should also be an email sent to the user when the blog has been created. The email should include the URL to the blog and also some links to guidance and help on using the blog.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017110102	withee@gmail.com : Member with Scrum Role Stakeholder created the story 171. 
+09162017110309	withee@gmail.com : Member with Scrum Role Stakeholder created the story 172. 
+09162017110333	withee@gmail.com : Member with Scrum Role Stakeholder created the story 173. 
+09162017110354	withee@gmail.com changed story with id 171's comments from '' to 'Ask rosemarie if questions.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017110529	withee@gmail.com changed story with id 169's i_want from 'Twitter icon doesn't lead correct location. It leads to @lissa. Can the Twitter icon lead to https://twitter.com/COETAIL/lists/coetail-ers?  something lke that. Check with Rosemarie on tihs one.' to 'Twitter icon doesn't lead correct location. It leads to @lissa. Can the Twitter icon lead to https://twitter.com/COETAIL/lists/coetail-ers?  something lke that. Check with Rosemarie on tihs one.
+
+See: https://drive.google.com/open?id=0BwFopPnYQL9uM21OckVFdndBV2M'  : Member with Scrum Role Stakeholder made the changes. 
+09162017110618	withee@gmail.com changed story with id 169's i_want from 'Twitter icon doesn't lead correct location. It leads to @lissa. Can the Twitter icon lead to https://twitter.com/COETAIL/lists/coetail-ers?  something lke that. Check with Rosemarie on tihs one.
+
+See: https://drive.google.com/open?id=0BwFopPnYQL9uM21OckVFdndBV2M' to 'The link on that Twitter bird to go here @lissa uploaded a file: image and commented: can the Twitter icon (see right) lead to https://twitter.com/COETAIL/lists/coetail-ers?
+
+See: https://drive.google.com/open?id=0BwFopPnYQL9uM21OckVFdndBV2M'  : Member with Scrum Role Stakeholder made the changes. 
+09162017110618	withee@gmail.com changed story with id 169's comments from '' to 'Ask rosemarie if questions.'  : Member with Scrum Role Stakeholder made the changes. 
+09162017153447	withee@gmail.com : Member with Scrum Role Stakeholder created the story 174. 
+09162017192504	withee@gmail.com : Member with Scrum Role Stakeholder created the story 175. 
+09162017192517	withee@gmail.com changed story with id 174's Order from '174' to '175'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192710	withee@gmail.com : Member with Scrum Role Stakeholder created the story 176. 
+09162017192810	withee@gmail.com : Member with Scrum Role Stakeholder created the story 177. 
+09162017192821	withee@gmail.com changed story with id 176's Order from '176' to '177'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192828	withee@gmail.com changed story with id 174's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192833	withee@gmail.com changed story with id 173's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192839	withee@gmail.com changed story with id 172's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192844	withee@gmail.com changed story with id 171's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192849	withee@gmail.com changed story with id 170's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192856	withee@gmail.com changed story with id 169's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017192902	withee@gmail.com changed story with id 168's Order from '173' to '174'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193026	withee@gmail.com : Member with Scrum Role Stakeholder created the story 178. 
+09162017193034	withee@gmail.com changed story with id 168's Order from '174' to '178'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193145	withee@gmail.com : Member with Scrum Role Stakeholder created the story 179. 
+09162017193248	withee@gmail.com : Member with Scrum Role Stakeholder created the story 180. 
+09162017193351	withee@gmail.com : Member with Scrum Role Stakeholder created the story 181. 
+09162017193433	withee@gmail.com : Member with Scrum Role Stakeholder created the story 182. 
+09162017193511	withee@gmail.com : Member with Scrum Role Stakeholder created the story 183. 
+09162017193523	withee@gmail.com changed story with id 182's Order from '182' to '183'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193531	withee@gmail.com changed story with id 181's Order from '179' to '180'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193543	withee@gmail.com changed story with id 180's Order from '179' to '180'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193555	withee@gmail.com changed story with id 179's Order from '179' to '180'  : Member with Scrum Role Stakeholder reordered the row. 
+09162017193603	withee@gmail.com changed story with id 168's Order from '179' to '180'  : Member with Scrum Role Stakeholder reordered the row. 

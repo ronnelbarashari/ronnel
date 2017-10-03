@@ -1,0 +1,11 @@
+08072017163107	portalintegrators@gmail.com changed story with id 441's story_points from '' to '3'  
+08072017163107	portalintegrators@gmail.com changed story with id 441's status from '' to 'to do'  
+08072017163342	portalintegrators@gmail.com changed story with id 441's status from '' to 'to do'  
+08072017175217	withee@gmail.com changed story with id 314's comments from 'Make sure removing a team also removes the team from the backlog. If there is no team then ONLY the person that created the backlog should be able to manage it.' to 'Make sure removing a team also removes the team from the backlog. If there is no team then ONLY the person that created the backlog should be able to manage it. See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg'  : Member with Scrum Role Team Member made the changes. 
+08072017175236	withee@gmail.com changed story with id 318's acceptance_test from 'On the Dashboard, the Scrum Events for the Scrum Teams of the User is shown.' to 'On the Dashboard, the Scrum Events for the Scrum Teams of the User is shown. See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg'  : Member with Scrum Role Team Member made the changes. 
+08072017175413	withee@gmail.com changed story with id 209's comments from '' to 'See Ken mockup here: https://drive.google.com/open?id=0BwFopPnYQL9uTk9QeUp0SkxobDg
+
+Ask Ken if any questions. It is just rough mockup.'  : Member with Scrum Role Team Member made the changes. 
+08072017175543	withee@gmail.com changed story with id 199's Order from '259' to '283'  : Member with Scrum Role Team Member reordered the row.  
+08072017181740	withee@gmail.com : Member with Scrum Role Team Member created the story 444. 
+08072017181801	withee@gmail.com changed story with id 438's Order from '329' to '444'  : Member with Scrum Role Team Member reordered the row.  

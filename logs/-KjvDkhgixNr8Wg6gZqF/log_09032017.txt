@@ -1,0 +1,8 @@
+09032017092802	withee@gmail.com : Member with Scrum Role Team Member created the story 543. 
+09032017092838	withee@gmail.com changed story with id 542's Order from '542' to '543'  : Member with Scrum Role Team Member reordered the row.  
+09032017092903	withee@gmail.com changed story with id 486's acceptance_test from 'The view is redesigned. Ask Ken for details.' to 'The view is redesigned. Ask Ken for details. Story 543 relates to this with the Kanban view.'  : Member with Scrum Role Team Member made the changes. 
+09032017095212	withee@gmail.com changed story with id 543's comments from 'Note to model this after the Project functionality in GitHub. However instead of being able to add new notes on the Project ours are auto populated from the Sprint Planning. When the Sprint Planning is done the Sprint Backlog is finalized and that is when the Kanban is populated.' to 'Note to model this after the Project functionality in GitHub. However instead of being able to add new notes on the Project ours are auto populated from the Sprint Planning. When the Sprint Planning is done the Sprint Backlog is finalized and that is when the Kanban is populated.
+
+NOTE: A proof of concept of this work was already completed previously. However we need to have the actual SPRINT BACKLOG added after the SPRINT PLANNING is complete.'  : Member with Scrum Role Team Member made the changes. 
+09032017095212	withee@gmail.com changed story with id 543's status from '' to 'to do'  : Member with Scrum Role Team Member made the changes. 
+09032017120400	withee@gmail.com : Member with Scrum Role Team Member created the story 544. 

@@ -1,0 +1,44 @@
+07182017000951	portalintegrators@gmail.com changed story with id 361's story_points from '' to '2'  
+07182017000951	portalintegrators@gmail.com changed story with id 361's status from '' to 'to do'  
+07182017030408	portalintegrators@gmail.com changed story with id 363's i_want from 'test' to 'test //edited
+'  
+07182017030408	portalintegrators@gmail.com changed story with id 363's status from '' to 'to do'  
+07182017052903	portalintegrators@gmail.com changed story with id 363's acceptance_test from 'this is a test' to 'this is a test //edit'  
+07182017053023	portalintegrators@gmail.com changed story with id 365's i_want from 'final test' to 'final test edit'  
+07182017053023	portalintegrators@gmail.com changed story with id 365's status from '' to 'to do'  
+07182017053228	portalintegrators@gmail.com changed story with id 366's story_points from '' to '3'  
+07182017053228	portalintegrators@gmail.com changed story with id 366's status from '' to 'to do'  
+07182017202701	portalintegrators@gmail.com changed story with id Recurring-Check List-340's status from 'in progress' to 'done'  
+07182017202705	portalintegrators@gmail.com changed story with id RECURRING STORY-341's status from 'in progress' to 'done'  
+07182017202712	portalintegrators@gmail.com changed story with id 339's status from 'in progress' to 'done'  
+07182017202716	portalintegrators@gmail.com changed story with id 309's status from 'in progress' to 'done'  
+07182017202720	portalintegrators@gmail.com changed story with id 133's status from 'in progress' to 'done'  
+07182017202725	portalintegrators@gmail.com changed story with id 322's status from 'in progress' to 'done'  
+07182017202729	portalintegrators@gmail.com changed story with id 208's status from 'in progress' to 'done'  
+07182017202737	portalintegrators@gmail.com changed story with id 247's status from 'in progress' to 'done'  
+07182017202746	portalintegrators@gmail.com changed story with id 256's status from 'in progress' to 'done'  
+07182017202752	portalintegrators@gmail.com changed story with id 306's status from 'in progress' to 'done'  
+07182017202756	portalintegrators@gmail.com changed story with id 54's status from 'in progress' to 'done'  
+07182017224355	portalintegrators@gmail.com changed story with id 204's acceptance_test from 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com /open? id=0BwFopPnYQL 9uTDNSamd UQVFQcEE' to 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com/openid=0BwFopPnYQL9uTDNSamdUQVFQcEE'  
+07182017224455	portalintegrators@gmail.com changed story with id 204's acceptance_test from 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com/openid=0BwFopPnYQL9uTDNSamdUQVFQcEE' to 'The tool manages the Sprint # and won't allow there to be 2 different sprint numbers tagged in the same sprint. See screenshot here: https://drive.google.com/open?id=0BwFopPnYQL9uTDNSamdUQVFQcEE'  
+07182017225327	portalintegrators@gmail.com changed story with id 368's acceptance_test from 'an interface where users can create Teams in the settings. The team consists of the Product Owner, Scrum Master, and Development Team.' to 'an interface where users can create Teams in the settings'  
+07182017225327	portalintegrators@gmail.com changed story with id 368's status from '' to 'to do'  
+07182017225714	portalintegrators@gmail.com changed story with id 368's i_want from 'to be able to create Teams in the Rocket Scrum admin settings' to 'to be able to manage Teams in the Rocket Scrum admin settings'  
+07182017225714	portalintegrators@gmail.com changed story with id 368's acceptance_test from 'an interface where users can create Teams in the settings' to 'an interface where users can create, update or delete Teams in the settings'  
+07182017225714	portalintegrators@gmail.com changed story with id 368's story_points from '' to '5'  
+07182017225849	portalintegrators@gmail.com changed story with id 369's story_points from '' to '13'  
+07182017225849	portalintegrators@gmail.com changed story with id 369's status from '' to 'to do'  
+07182017230821	portalintegrators@gmail.com changed story with id 370's story_points from '' to '8'  
+07182017230821	portalintegrators@gmail.com changed story with id 370's status from '' to 'to do'  
+07182017230837	portalintegrators@gmail.com changed story with id 371's story_points from '' to '8'  
+07182017230837	portalintegrators@gmail.com changed story with id 371's status from '' to 'to do'  
+07182017231154	portalintegrators@gmail.com added story with id 349 : This story has been added and sprint has already started.  
+07182017231333	portalintegrators@gmail.com added story with id 347 : This story has been added and sprint has already started.  
+07182017231425	portalintegrators@gmail.com added story with id 368 : This story has been added and sprint has already started.  
+07182017231430	portalintegrators@gmail.com added story with id 369 : This story has been added and sprint has already started.  
+07182017231434	portalintegrators@gmail.com added story with id 350 : This story has been added and sprint has already started.  
+07182017231459	portalintegrators@gmail.com added story with id 369 : This story has been added and sprint has already started.  
+07182017231731	portalintegrators@gmail.com added story with id 351 : This story has been added and sprint has already started.  
+07182017231907	portalintegrators@gmail.com added story with id 210 : This story has been added and sprint has already started.  
+07182017231912	portalintegrators@gmail.com added story with id 367 : This story has been added and sprint has already started.  
+07182017231921	portalintegrators@gmail.com added story with id 367 : This story has been added and sprint has already started.  

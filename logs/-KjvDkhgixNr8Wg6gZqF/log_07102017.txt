@@ -1,0 +1,6 @@
+07102017211544	rocketscrum.firebase@gmail.com changed story with id 314's Order from '256' to '257'  : Member with Scrum Role Scrum Master Team Member  reordered the row.  
+07102017211547	rocketscrum.firebase@gmail.com changed story with id 315's Order from '256' to '257'  : Member with Scrum Role Scrum Master Team Member  reordered the row.  
+07102017211901	rocketscrum.firebase@gmail.com changed story with id 256's Order from '188' to '189'  : Member with Scrum Role Scrum Master Team Member  reordered the row.  
+07102017211905	rocketscrum.firebase@gmail.com changed story with id 256's Order from '189' to '190'  : Member with Scrum Role Scrum Master Team Member  reordered the row.  
+07102017214828	portalintegrators@gmail.com changed story with id 325's story_points from '' to '3'  
+07102017214828	portalintegrators@gmail.com changed story with id 325's status from '' to 'to do'  

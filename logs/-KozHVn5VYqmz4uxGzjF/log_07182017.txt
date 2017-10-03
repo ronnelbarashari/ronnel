@@ -1,0 +1,3 @@
+07182017235549	portalintegrators@gmail.com changed story with id 5's story_points from '0' to '8'  : Edit to a committed User Story for Sprint 10 
+07182017235640	portalintegrators@gmail.com changed story with id 1's story_points from '' to '5'  : Edit to a committed User Story for Sprint 9 
+07182017235736	portalintegrators@gmail.com changed story with id 7's story_points from '8' to '5'  : Edit to a committed User Story for Sprint 10 

@@ -1,0 +1,45 @@
+08232017012036	portalintegrators@gmail.com changed story with id 90's i_want from 'to update the plugins with 100% compatibility with the WP version:
+
+Active Directory Integration for Cloud
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+WooCommerce
+Yoast SEO' to 'to update the plugins with 100% compatibility with the WP version:
+
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+Yoast SEO'  
+08232017012036	portalintegrators@gmail.com changed story with id 90's acceptance_test from 'update the plugins with 100% compatibility with the WP version. 
+
+Active Directory Integration for Cloud
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+WooCommerce
+Yoast SEO
+
+test first on dev site before going live' to 'update the plugins with 100% compatibility with the WP version. 
+
+MailChimp for WordPress
+MailChimp for WordPress - Captcha
+Newsletter
+Stop Spammers Spam Control
+Yoast SEO
+
+test first on dev site before going live'  
+08232017012036	portalintegrators@gmail.com changed story with id 90's story_points from '13' to '5'  
+08232017012250	portalintegrators@gmail.com changed story with id 100's story_points from '' to '3'  
+08232017012250	portalintegrators@gmail.com changed story with id 100's status from '' to 'to do'  
+08232017012317	portalintegrators@gmail.com changed story with id 99's story_points from '' to '2'  
+08232017012317	portalintegrators@gmail.com changed story with id 99's status from '' to 'to do'  
+08232017210454	portalintegrators@gmail.com changed story with id 104's story_points from '' to '8'  
+08232017210454	portalintegrators@gmail.com changed story with id 104's status from '' to 'to do'  
+08232017210513	portalintegrators@gmail.com added story with id 104 : This story has been added and sprint has already started.  
+08232017211030	portalintegrators@gmail.com changed story with id 104's comments from '' to 'https://drive.google.com/open?id=0BxrW6tgitUUCOWxrQzE0c2FrZG8'  
+08232017211030	portalintegrators@gmail.com changed story with id 104's status from 'in progress' to 'to do'  
+08232017211039	portalintegrators@gmail.com changed story with id 104's comments from 'https://drive.google.com/open?id=0BxrW6tgitUUCOWxrQzE0c2FrZG8' to 'See mockup: https://drive.google.com/open?id=0BxrW6tgitUUCOWxrQzE0c2FrZG8'  

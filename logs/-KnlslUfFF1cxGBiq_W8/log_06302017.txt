@@ -1,0 +1,40 @@
+06302017184541	portalintegrators@gmail.com added story with id 24 : This story has been added and sprint has already started.  
+06302017184552	portalintegrators@gmail.com added story with id 10 : This story has been added and sprint has already started.  
+06302017184602	portalintegrators@gmail.com added story with id 6 : This story has been added and sprint has already started.  
+06302017184611	portalintegrators@gmail.com added story with id 4 : This story has been added and sprint has already started.  
+06302017184614	portalintegrators@gmail.com added story with id 4 : This story has been added and sprint has already started.  
+06302017184800	portalintegrators@gmail.com changed story with id 9's story_points from '' to '5'  
+06302017184800	portalintegrators@gmail.com changed story with id 9's status from '' to 'to do'  
+06302017184805	portalintegrators@gmail.com changed story with id 11's story_points from '' to '13'  
+06302017184805	portalintegrators@gmail.com changed story with id 11's status from '' to 'to do'  
+06302017184809	portalintegrators@gmail.com changed story with id 12's story_points from '' to '2'  
+06302017184809	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  
+06302017184817	portalintegrators@gmail.com changed story with id 8's story_points from '' to '3'  
+06302017184817	portalintegrators@gmail.com changed story with id 8's status from '' to 'to do'  
+06302017184823	portalintegrators@gmail.com changed story with id 13's story_points from '' to '13'  
+06302017184823	portalintegrators@gmail.com changed story with id 13's status from '' to 'to do'  
+06302017184827	portalintegrators@gmail.com changed story with id 14's story_points from '' to '2'  
+06302017184827	portalintegrators@gmail.com changed story with id 14's status from '' to 'to do'  
+06302017185035	portalintegrators@gmail.com added story with id 9 : This story has been added and sprint has already started.  
+06302017185038	portalintegrators@gmail.com added story with id 11 : This story has been added and sprint has already started.  
+06302017185041	portalintegrators@gmail.com added story with id 8 : This story has been added and sprint has already started.  
+06302017185043	portalintegrators@gmail.com added story with id 8 : This story has been added and sprint has already started.  
+06302017185318	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+06302017185326	portalintegrators@gmail.com changed story with id 24's status from 'in progress' to 'done'  
+06302017185331	portalintegrators@gmail.com changed story with id 10's status from 'in progress' to 'done'  
+06302017185335	portalintegrators@gmail.com changed story with id 6's status from 'in progress' to 'done'  
+06302017185342	portalintegrators@gmail.com changed story with id 4's status from 'in progress' to 'done'  
+06302017185348	portalintegrators@gmail.com changed story with id Recurring-Site Support-25's status from 'in progress' to 'done'  
+06302017185352	portalintegrators@gmail.com changed story with id 7's status from 'in progress' to 'done'  
+06302017185454	portalintegrators@gmail.com added story with id 12 : This story has been added and sprint has already started.  
+06302017185454	portalintegrators@gmail.com added story with id 13 : This story has been added and sprint has already started.  
+06302017185455	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  
+06302017185456	portalintegrators@gmail.com added story with id 15 : This story has been added and sprint has already started.  
+06302017185459	portalintegrators@gmail.com added story with id 15 : This story has been added and sprint has already started.  
+06302017225713	portalintegrators@gmail.com changed story with id 31's status from '' to 'to do'  
+06302017225924	portalintegrators@gmail.com changed story with id 36's as_a from 'TEST' to 'TEST111111'  
+06302017225924	portalintegrators@gmail.com changed story with id 36's status from '' to 'to do'  
+06302017225928	portalintegrators@gmail.com changed story with id 36's as_a from 'TEST111111' to 'TEST11111122222'  
+06302017225937	portalintegrators@gmail.com changed story with id 36's as_a from 'TEST11111122222' to 'TEST111111222223333'  
+06302017231823	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+06302017231825	portalintegrators@gmail.com added story with id 5 : This story has been added and sprint has already started.  

@@ -1,0 +1,81 @@
+05102017163902	portalintegrators@gmail.com added story with id 252 
+05102017163904	portalintegrators@gmail.com added story with id 252 
+05102017163906	portalintegrators@gmail.com added story with id 252 
+05102017163957	portalintegrators@gmail.com changed story with id 419's status from '' to 'in progress'  
+05102017164001	portalintegrators@gmail.com changed story with id 410's status from '' to 'in progress'  
+05102017164012	portalintegrators@gmail.com added story with id 252 
+05102017164019	portalintegrators@gmail.com added story with id 252 
+05102017164026	portalintegrators@gmail.com added story with id 252 
+05102017164042	portalintegrators@gmail.com added story with id 252 
+05102017164409	portalintegrators@gmail.com added story with id 252 
+05102017164410	portalintegrators@gmail.com added story with id 252 
+05102017164410	portalintegrators@gmail.com added story with id 252 
+05102017164413	portalintegrators@gmail.com added story with id 252 
+05102017164417	portalintegrators@gmail.com added story with id 420 : This story has been added and sprint has already started.  
+05102017164422	portalintegrators@gmail.com added story with id 421 : This story has been added and sprint has already started.  
+05102017164437	portalintegrators@gmail.com added story with id 449 : This story has been added and sprint has already started.  
+05102017164511	portalintegrators@gmail.com added story with id 252 
+05102017164512	portalintegrators@gmail.com added story with id 252 
+05102017164512	portalintegrators@gmail.com added story with id 252 
+05102017164523	portalintegrators@gmail.com added story with id 477 : This story has been added and sprint has already started.  
+05102017164527	portalintegrators@gmail.com added story with id 478 : This story has been added and sprint has already started.  
+05102017164825	portalintegrators@gmail.com added story with id 252 
+05102017164827	portalintegrators@gmail.com added story with id 252 
+05102017164828	portalintegrators@gmail.com added story with id 252 
+05102017164847	portalintegrators@gmail.com added story with id 252 
+05102017164851	portalintegrators@gmail.com added story with id 252 
+05102017164853	portalintegrators@gmail.com added story with id 252 
+05102017164854	portalintegrators@gmail.com added story with id 252 
+05102017164856	portalintegrators@gmail.com added story with id 252 
+05102017172319	portalintegrators@gmail.com added story with id 1 : This story has been added and sprint has already started.  
+05102017172320	portalintegrators@gmail.com added story with id 2 : This story has been added and sprint has already started.  
+05102017172323	portalintegrators@gmail.com added story with id 3 : This story has been added and sprint has already started.  
+05102017172332	portalintegrators@gmail.com added story with id 5 : This story has been added and sprint has already started.  
+05102017172344	portalintegrators@gmail.com added story with id 8 : This story has been added and sprint has already started.  
+05102017172344	portalintegrators@gmail.com added story with id 8 : This story has been added and sprint has already started.  
+05102017172728	portalintegrators@gmail.com changed story with id RECURRING STORY-22's status from 'in progress' to 'done'  
+05102017172734	portalintegrators@gmail.com changed story with id 1's status from 'in progress' to 'done'  
+05102017172739	portalintegrators@gmail.com changed story with id 2's status from 'in progress' to 'done'  
+05102017172742	portalintegrators@gmail.com changed story with id 3's status from 'in progress' to 'done'  
+05102017172746	portalintegrators@gmail.com changed story with id 4's status from 'in progress' to 'done'  
+05102017172750	portalintegrators@gmail.com changed story with id 5's status from 'in progress' to 'done'  
+05102017172754	portalintegrators@gmail.com changed story with id 6's status from 'in progress' to 'done'  
+05102017172758	portalintegrators@gmail.com changed story with id 7's status from 'in progress' to 'done'  
+05102017172802	portalintegrators@gmail.com changed story with id 8's status from 'in progress' to 'done'  
+05102017173235	portalintegrators@gmail.com added story with id 10 : This story has been added and sprint has already started.  
+05102017173242	portalintegrators@gmail.com added story with id 13 : This story has been added and sprint has already started.  
+05102017173243	portalintegrators@gmail.com added story with id 14 : This story has been added and sprint has already started.  
+05102017173301	portalintegrators@gmail.com changed story with id RECURRING STORY-23's status from 'in progress' to 'done'  
+05102017173305	portalintegrators@gmail.com changed story with id 10's status from 'in progress' to 'done'  
+05102017173309	portalintegrators@gmail.com changed story with id 9's status from 'in progress' to 'done'  
+05102017173312	portalintegrators@gmail.com changed story with id 11's status from 'in progress' to 'done'  
+05102017173314	portalintegrators@gmail.com changed story with id 12's status from 'in progress' to 'done'  
+05102017173318	portalintegrators@gmail.com changed story with id 13's status from 'in progress' to 'done'  
+05102017173321	portalintegrators@gmail.com changed story with id 14's status from 'in progress' to 'done'  
+05102017180315	portalintegrators@gmail.com added story with id 17 : This story has been added and sprint has already started.  
+05102017180324	portalintegrators@gmail.com changed story with id RECURRING STORY-24's status from 'in progress' to 'done'  
+05102017180327	portalintegrators@gmail.com changed story with id 15's status from 'in progress' to 'done'  
+05102017180332	portalintegrators@gmail.com changed story with id 16's status from 'in progress' to 'done'  
+05102017180335	portalintegrators@gmail.com changed story with id 17's status from 'in progress' to 'done'  
+05102017193315	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193317	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193337	portalintegrators@gmail.com added story with id 19 : This story has been added and sprint has already started.  
+05102017193450	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193458	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193516	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+05102017193518	portalintegrators@gmail.com added story with id 21 : This story has been added and sprint has already started.  
+05102017193556	portalintegrators@gmail.com changed story with id RECURRING STORY-25's status from 'in progress' to 'done'  
+05102017193559	portalintegrators@gmail.com changed story with id RECURRING STORY-26's status from 'in progress' to 'done'  
+05102017193604	portalintegrators@gmail.com changed story with id RECURRING STORY-27's status from 'in progress' to 'done'  
+05102017193613	portalintegrators@gmail.com changed story with id 18's status from 'in progress' to 'done'  
+05102017193617	portalintegrators@gmail.com changed story with id 19's status from 'in progress' to 'done'  
+05102017193709	portalintegrators@gmail.com changed story with id RECURRING STORY-28's status from 'in progress' to 'done'  
+05102017193715	portalintegrators@gmail.com changed story with id RECURRING STORY-29's status from 'in progress' to 'done'  
+05102017193718	portalintegrators@gmail.com changed story with id RECURRING STORY-30's status from 'in progress' to 'done'  
+05102017193721	portalintegrators@gmail.com changed story with id 20's status from 'in progress' to 'done'  
+05102017193724	portalintegrators@gmail.com changed story with id 21's status from 'in progress' to 'done'  
+05102017193834	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193835	portalintegrators@gmail.com added story with id RECURRING STORY-22 
+05102017193836	portalintegrators@gmail.com added story with id 31 : This story has been added and sprint has already started.  
+05102017193845	portalintegrators@gmail.com added story with id 33 : This story has been added and sprint has already started.  
+05102017230605	portalintegrators@gmail.com changed story with id 40's status from '' to 'to do'  

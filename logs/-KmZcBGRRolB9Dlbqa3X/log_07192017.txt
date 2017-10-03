@@ -1,0 +1,6 @@
+07192017000054	portalintegrators@gmail.com changed story with id RECURRING STORY-34's status from 'in progress' to 'done'  
+07192017000836	portalintegrators@gmail.com changed story with id 35's story_points from '' to '8'  
+07192017000836	portalintegrators@gmail.com changed story with id 35's status from '' to 'to do'  
+07192017000849	portalintegrators@gmail.com changed story with id 8's story_points from '' to '3'  
+07192017000855	portalintegrators@gmail.com changed story with id 6's story_points from '' to '5'  
+07192017000855	portalintegrators@gmail.com changed story with id 6's status from '' to 'to do'  

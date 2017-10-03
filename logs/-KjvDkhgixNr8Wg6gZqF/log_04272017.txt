@@ -1,0 +1,7 @@
+04272017192216	rocketscrum.firebase@gmail.com changed story with id 112's as_a from 'f' to 'blahblah'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 19 
+04272017192314	rocketscrum.firebase@gmail.com changed story with id 92's story_points from '5' to '5a'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 3 
+04272017192322	rocketscrum.firebase@gmail.com changed story with id 92's story_points from '5a' to '5'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 3 
+04272017192325	rocketscrum.firebase@gmail.com changed story with id 100's i_want from 'a' to 'asdasdasd'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 10 
+04272017192328	rocketscrum.firebase@gmail.com changed story with id 103's so_that from 'a' to 'aasdasdasd'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 10 
+04272017192331	rocketscrum.firebase@gmail.com changed story with id 103's i_want from 'a' to 'aww'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 10 
+04272017192335	rocketscrum.firebase@gmail.com changed story with id 104's as_a from '2' to '2eee'  : Member with Scrum Role Team Member made the changes.   Edit to a committed User Story for Sprint 11 

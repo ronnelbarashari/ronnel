@@ -1,0 +1,14 @@
+07142017020513	portalintegrators@gmail.com changed story with id 12's i_want from 'Install WPLMS theme on the LMS site and copy
+
+the wplms folder of the networksite to
+
+https://lms.edurolearning.com
+
+FTP directory: /portaleduro/eduro-learning-
+
+network-site/wp-content/themes/wplms' to 'Install WPLMS theme on the LMS site and copy the wplms folder of the networksite to https://lms.edurolearning.com
+
+FTP directory: /portaleduro/eduro-learning-network-site/wp-content/themes/wplms'  
+07142017020513	portalintegrators@gmail.com changed story with id 12's status from '' to 'to do'  
+07142017201427	portalintegrators@gmail.com changed story with id 18's as_a from 'Team' to 'Site Administrator'  
+07142017201427	portalintegrators@gmail.com changed story with id 18's status from '' to 'to do'  

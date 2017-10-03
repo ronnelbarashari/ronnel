@@ -1,0 +1,5 @@
+09122017180032	portalintegrators@gmail.com changed story with id Recurring-Check List-113's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017235733	genelyn.ancheta@portalintegrators.com changed story with id Recurring-Check List-113's status from 'in progress' to 'done'  : Member with Scrum Role Stakeholder made the changes. 
+09122017235800	genelyn.ancheta@portalintegrators.com added story with id 17 : Member with Scrum Role Stakeholder made the changes. 
+09122017235810	genelyn.ancheta@portalintegrators.com added story with id 117 : Member with Scrum Role Stakeholder made the changes.   This story has been added and sprint has already started.  
+09122017235823	genelyn.ancheta@portalintegrators.com : Member with Scrum Role Stakeholder deleted the story 117. 

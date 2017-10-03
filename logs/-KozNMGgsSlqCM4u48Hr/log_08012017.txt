@@ -1,0 +1,5 @@
+08012017081111	portalintegrators@gmail.com changed story with id 10's acceptance_test from 'create a dashboard in Power BI for User Management app data
+
+user management app gets updated and data shows on the dashboard then compare the fields on the user management app and the VHN list' to 'create a dashboard in Power BI for the component being developed
+
+Power BI component app gets updated and data shows on the dashboard then compare the fields on the user management app and the VHN list'  
