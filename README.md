@@ -1,2 +1,2 @@
 # rocketscrum
-The Rocket Scrum source code.
+The Rocket Scrum web app source code.
