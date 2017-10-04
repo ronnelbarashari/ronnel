@@ -20,13 +20,11 @@ Setup Notes for OpenBSD 6.1 (work in progress)
    - Create httpd.conf
    - /etc/rc.d/httpd -f start
    - put index.html /var/www/htdocs/index.html
+   - Setup Let's Encrypt with the certbot. See https://certbot.eff.org/all-instructions/#openbsd-6-0-none-of-the-above
    - openssl genrsa -out /etc/ssl/private/server.key
    - openssl req -new -x509 -key /etc/ssl/private/server.key -out /etc/ssl/server.crt -days 365
-11. Install and configure MariaDB.
-12. Install and configure PHP.
+11. Install and configure PHP.
    - pkg_add php   (choose php 7)
    - rcctl enable php70_fpm
    - rcctl start php70_fpm
-13. Install tarsnap from source code.
-14. Setup backups.
-
+12. Install tarsnap from source code and configure.
