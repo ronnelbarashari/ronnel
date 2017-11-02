@@ -25,7 +25,7 @@ function load_scripts(){
 	var walkthroughlinkprogress = [];
 	var countlink = 0;
 	var sprintnumcheck = [];
-	var sprintnumcheckprogress = [];
+	var sprintnumcheckprogress = [];asdqwd
 	
    
         var backlogref = database.ref('user/' + $('#user_key').val() +'/selected_backlogs');
